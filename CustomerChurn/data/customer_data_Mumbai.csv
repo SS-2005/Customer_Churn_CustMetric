@@ -1,0 +1,1001 @@
+customerid,acquisitiondate,age,gender,churn,retentionperiod,companytype,acquisitioncost,totalspend,marketingchannel,customerinteractions,paymentmethod,billingissues,frequencyofbillingissues,city
+83a80edd-3913-4d3c-bc1b-c5f55b6405ca,2023-11-14,30,Female,1,644,Finance,"₹26,068","₹91,945",Email Campaign,31,Credit Card,Yes,6,Mumbai
+919da8dc-0063-4a2d-9531-f45df819a1b1,2024-05-28,65,Female,1,153,Manufacturing,"₹1,541","₹90,062",Referral Program,6,UPI,Yes,0,Mumbai
+2db8ec09-4959-4df5-8386-e009d91df4d5,2023-02-01,35,Female,0,39,Finance,"₹40,195","₹56,152",Direct Traffic,11,UPI,No,0,Mumbai
+b684da9f-58fc-4216-a339-0c7d60761697,2023-10-09,36,Male,0,358,Education,"₹49,663","₹90,001",Google Ads,13,Bank Transfer,Yes,0,Mumbai
+01dcfd31-298a-41c6-b531-be44225ff529,2024-06-17,34,Male,1,216,Manufacturing,"₹30,599","₹97,491",Direct Traffic,12,UPI,Yes,9,Mumbai
+c9b84fd4-2bf0-4dae-9eef-e05623f5f31d,2023-03-01,59,Female,1,572,Finance,"₹24,864","₹93,321",Referral Program,2,Credit Card,No,8,Mumbai
+f950d57e-c035-4d70-9141-8cc4f5b9c9b8,2024-04-16,21,Male,1,697,Finance,"₹41,139","₹87,569",Facebook Ads,35,Bank Transfer,Yes,0,Mumbai
+c7908cc7-5d2a-472d-adc4-8b0caf5150f5,2023-10-17,59,Male,1,89,Retail,"₹39,643","₹73,467",Partner Website,36,UPI,Yes,0,Mumbai
+c7f48d7c-d257-4bf7-b0b1-7a7c76fe9a30,2024-07-19,40,Male,0,471,Finance,"₹23,982","₹53,576",Email Campaign,17,UPI,Yes,0,Mumbai
+e05821cc-26b0-46e2-a463-2b5f2ff13c99,2022-12-31,56,Male,1,246,E-Commerce,"₹4,176","₹67,627",Partner Website,28,Bank Transfer,Yes,0,Mumbai
+e8eb860d-cf65-445c-a3a6-be3a8e98155a,2023-03-11,56,Female,0,31,Education,"₹46,285","₹26,772",Email Campaign,28,UPI,No,4,Mumbai
+3afd668c-a8f8-460c-a50c-31c02d4c94b5,2024-06-15,28,Male,0,565,Tech,"₹22,281","₹17,363",Facebook Ads,22,UPI,Yes,6,Mumbai
+e0d12c63-83a1-4f30-8fb7-7d0a0c13482d,2023-06-06,60,Male,0,385,Tech,"₹30,548","₹29,490",Email Campaign,38,Bank Transfer,Yes,4,Mumbai
+deb08dd5-add9-46ff-bc75-8e5d559ff103,2023-10-04,27,Female,1,655,Tech,"₹3,565","₹60,004",Facebook Ads,7,UPI,No,0,Mumbai
+9ab733e1-a9fa-4e57-935a-17be559d2dd3,2023-01-29,59,Male,0,696,Education,"₹2,536","₹54,806",Referral Program,15,UPI,Yes,8,Mumbai
+6713fb5a-e6db-4916-bf9a-f66bbb8cfd80,2024-06-16,61,Male,0,194,Tech,"₹36,314","₹1,260",Word of Mouth,32,UPI,Yes,0,Mumbai
+a95c02fb-4d23-48f3-820f-9a09e424bdb1,2024-09-09,46,Male,1,120,Retail,"₹17,424","₹76,992",Instagram Ads,11,UPI,No,0,Mumbai
+7d5ce3b8-7355-4d42-9f4b-febfc54b0e9a,2022-11-10,21,Male,1,196,Education,"₹33,344","₹23,320",Email Campaign,24,Bank Transfer,No,0,Mumbai
+7b7a90b1-5562-48c6-af3c-afb3047012a3,2024-08-31,22,Female,1,236,E-Commerce,"₹49,148","₹79,971",Facebook Ads,3,Credit Card,No,1,Mumbai
+21a65421-acf9-46e0-bfa5-e1efaad29673,2024-01-03,64,Female,0,311,Manufacturing,"₹16,907","₹43,145",Partner Website,30,Credit Card,No,0,Mumbai
+093b4fed-e701-4141-ae5f-f88c121911fc,2023-09-22,64,Male,1,94,E-Commerce,"₹22,018","₹64,688",Facebook Ads,6,UPI,Yes,6,Mumbai
+c7aff241-f7b5-4a20-b2f4-0986f5cc4b0a,2024-07-08,32,Male,0,545,Education,"₹17,559","₹49,581",Partner Website,2,UPI,No,0,Mumbai
+26f9ddd5-9ebc-4acd-9222-d05a0f44be4e,2023-10-19,47,Male,0,186,Education,"₹23,552","₹93,561",Direct Traffic,14,Credit Card,Yes,4,Mumbai
+64ad7e04-b4f7-4c5e-93e7-8db2a0c4b574,2024-05-18,45,Female,1,335,Finance,"₹4,767","₹94,645",Email Campaign,41,UPI,No,0,Mumbai
+9193f760-5706-4abd-a099-8536751e9c94,2024-05-20,61,Male,0,424,Finance,"₹6,488","₹21,754",Google Ads,18,Credit Card,Yes,7,Mumbai
+821d71e8-771b-498d-b1c8-6107a1d66d83,2024-10-04,28,Female,0,103,Finance,"₹28,474","₹70,837",Partner Website,44,Bank Transfer,No,0,Mumbai
+934867ed-de04-4a80-afce-c87fd98447a7,2024-06-28,48,Female,0,216,Consulting,"₹24,536","₹8,207",Facebook Ads,31,Bank Transfer,No,9,Mumbai
+2b8ac099-3406-4105-95a5-73643ca75fdb,2023-09-14,41,Male,0,603,Consulting,"₹9,180","₹28,920",Email Campaign,13,Bank Transfer,Yes,0,Mumbai
+47dc07b1-5678-4baf-b4c4-1c0d2588e1fc,2022-11-18,32,Male,1,366,Healthcare,"₹1,985","₹88,739",Facebook Ads,26,Bank Transfer,No,0,Mumbai
+ed1d2763-a6c9-411b-b3ba-b87029686df1,2023-04-02,56,Female,0,705,Consulting,"₹15,213","₹88,081",Google Ads,44,Bank Transfer,No,0,Mumbai
+b5ba1e7d-c118-4fe7-9790-8d0687d1b1da,2024-03-21,28,Female,1,597,Retail,"₹20,543","₹25,016",Instagram Ads,12,Bank Transfer,No,8,Mumbai
+7136a5fe-b252-49bd-8533-5d41f0833a5a,2022-11-27,51,Female,0,652,Education,"₹2,919","₹97,634",Word of Mouth,18,Credit Card,Yes,0,Mumbai
+64112b98-4273-468d-8719-0348f4fe3ac2,2024-08-31,54,Female,0,269,E-Commerce,"₹48,580","₹61,522",Word of Mouth,9,UPI,No,0,Mumbai
+de8be16a-2032-46d0-b4cf-883ad04d40ee,2022-11-10,63,Male,1,562,Education,"₹36,763","₹75,092",Google Ads,49,Credit Card,No,0,Mumbai
+f7ac13a7-e095-4aec-999b-0107c54dd9c3,2023-12-12,43,Male,0,170,Finance,"₹17,640","₹55,068",Referral Program,21,Bank Transfer,Yes,6,Mumbai
+5e5da982-8a72-45b9-a507-dba66959f706,2022-11-06,44,Male,0,294,Education,"₹43,984","₹21,102",Email Campaign,48,UPI,Yes,0,Mumbai
+24c65247-9fc2-4544-a9d0-af1ab16d3179,2024-05-17,25,Female,0,168,Manufacturing,"₹45,710","₹2,924",Google Ads,49,UPI,No,0,Mumbai
+e41efd10-b94d-470e-8ecf-9152c7f368cc,2024-04-21,26,Male,0,488,Consulting,"₹13,461","₹86,015",Instagram Ads,40,Bank Transfer,Yes,1,Mumbai
+a4a5cbae-ef26-455c-bbdb-21a203d5880a,2023-09-24,45,Male,0,99,Education,"₹43,575","₹55,333",Facebook Ads,43,Bank Transfer,Yes,0,Mumbai
+17ac3efc-8e96-4cee-8b5c-cff44a560a46,2024-01-14,56,Male,0,414,E-Commerce,"₹6,987","₹85,458",Email Campaign,24,Bank Transfer,Yes,9,Mumbai
+9e3ba4c6-149d-4eb3-b2dc-7a9bb0e35483,2024-09-23,20,Female,1,659,Tech,"₹31,610","₹85,196",Direct Traffic,34,Bank Transfer,No,0,Mumbai
+871c14b9-f4af-4a9f-8e7d-e5b215cbd742,2023-01-15,42,Female,1,227,Manufacturing,"₹42,932","₹47,099",Partner Website,8,Bank Transfer,No,6,Mumbai
+38647e82-d722-4b43-ac2d-4258d6efad27,2023-03-26,37,Female,1,234,Manufacturing,"₹16,860","₹58,346",Google Ads,44,Bank Transfer,Yes,3,Mumbai
+d5b2c00d-5262-4e7b-ab56-fdb7e7eff9c3,2023-05-17,24,Male,0,597,Education,"₹49,910","₹76,481",Direct Traffic,33,UPI,No,8,Mumbai
+399c4629-a24c-40bc-a617-90a083cdd5a0,2024-09-07,57,Female,0,716,Healthcare,"₹37,343","₹51,062",Direct Traffic,23,Bank Transfer,Yes,0,Mumbai
+b47b5acb-921b-4d57-bde0-9a9ada983679,2023-06-25,27,Male,0,669,Finance,"₹25,382","₹1,306",Instagram Ads,13,Bank Transfer,No,0,Mumbai
+1acabb2e-658a-4d0e-9948-d3293108e3a4,2024-01-30,47,Female,1,460,Retail,"₹18,002","₹89,495",Direct Traffic,49,UPI,Yes,5,Mumbai
+e13ab150-34cc-46dd-98aa-3f63165e530c,2023-11-05,43,Female,0,354,Retail,"₹48,553","₹70,767",Google Ads,14,Credit Card,No,0,Mumbai
+b9dadef9-3ef7-4318-ba82-b316df246626,2024-08-22,36,Male,1,471,Tech,"₹8,131","₹13,207",Referral Program,14,Bank Transfer,Yes,0,Mumbai
+129eedb8-d9f0-4597-8d55-38862e7378ed,2024-08-02,35,Male,0,317,Retail,"₹3,517","₹40,426",Word of Mouth,16,UPI,No,7,Mumbai
+c99e3f00-3762-45a2-95df-33f069523d50,2023-03-28,35,Male,0,255,Retail,"₹21,225","₹7,336",Word of Mouth,49,UPI,No,5,Mumbai
+c4b6e280-2b50-4a4e-b80a-c7b9b1357f18,2023-04-05,27,Female,0,93,Finance,"₹25,262","₹76,166",Email Campaign,38,Credit Card,Yes,9,Mumbai
+e1f3d65d-2526-4c26-940a-e74ebadf086d,2023-03-03,51,Male,1,589,Consulting,"₹1,284","₹18,256",Facebook Ads,39,Bank Transfer,No,9,Mumbai
+66607260-1614-40a6-85bc-a26fc65ccaa1,2024-01-13,29,Male,0,527,Finance,"₹28,520","₹50,817",Instagram Ads,26,Bank Transfer,No,0,Mumbai
+49ad28dd-454a-4a02-94af-57d96290eeec,2023-12-31,47,Male,1,89,Healthcare,"₹38,959","₹34,719",Google Ads,26,Bank Transfer,No,0,Mumbai
+4906edad-9108-46e8-899d-31f4bfd83e34,2023-11-29,49,Female,0,426,E-Commerce,"₹16,265","₹43,017",Email Campaign,1,UPI,No,0,Mumbai
+47ebb3a7-8b88-4e07-86de-d2dcf8346700,2023-03-28,29,Male,0,286,Tech,"₹31,627","₹46,704",Google Ads,32,Bank Transfer,No,0,Mumbai
+b5d71c05-31c5-458e-9d53-5f54c62941d0,2024-07-21,20,Female,1,606,Retail,"₹3,696","₹31,013",Email Campaign,15,Bank Transfer,No,0,Mumbai
+1164d5fc-ed6a-4fea-a813-77b1fbd88f85,2023-01-27,35,Female,0,268,Healthcare,"₹10,052","₹80,991",Word of Mouth,21,Bank Transfer,No,0,Mumbai
+73071f0c-d896-4593-99ef-caee35a9641e,2023-11-30,32,Male,0,67,Tech,"₹41,800","₹71,258",Direct Traffic,18,Bank Transfer,No,2,Mumbai
+4479060f-bbe6-44b0-8925-0bbf88512626,2022-10-18,60,Female,0,54,Manufacturing,"₹32,421","₹79,348",Referral Program,30,Credit Card,Yes,0,Mumbai
+70fcc108-b2f9-40e9-a40e-2e4d1fc51299,2024-01-02,28,Male,0,439,Retail,"₹5,246","₹96,812",Google Ads,13,Credit Card,No,0,Mumbai
+ae11ae14-740c-4dae-ad37-5ef574b2deb2,2023-05-03,36,Male,1,490,Retail,"₹3,499","₹37,776",Referral Program,24,Credit Card,Yes,0,Mumbai
+d2986ac8-7648-4453-b87c-6305479e55c9,2023-09-30,49,Female,1,600,Finance,"₹44,570","₹11,060",Partner Website,30,Bank Transfer,No,7,Mumbai
+d648bb34-9b2b-4844-8596-f189abda4361,2024-01-26,61,Female,0,446,Education,"₹49,720","₹79,592",Partner Website,2,Bank Transfer,Yes,8,Mumbai
+e58bb795-2a62-4f3b-a88f-24a106ed9a1f,2022-10-28,54,Male,0,386,Tech,"₹16,095","₹7,655",Direct Traffic,19,UPI,No,0,Mumbai
+501cb1be-b4e2-4ae6-8854-67fd44bd460b,2023-10-14,55,Female,1,412,Retail,"₹22,563","₹89,110",Word of Mouth,47,UPI,Yes,1,Mumbai
+96f210bb-5a5f-4a3d-8482-2b7603eb391a,2023-03-02,65,Female,0,187,Consulting,"₹6,700","₹50,923",Instagram Ads,44,UPI,Yes,4,Mumbai
+a49b5c44-5333-452c-8b0a-72c127c15d7d,2023-08-12,23,Female,1,598,Tech,"₹38,664","₹79,563",Referral Program,47,Bank Transfer,No,0,Mumbai
+e38bf3c5-e4e4-4009-9971-ae0a10e229b3,2023-10-18,32,Female,0,462,E-Commerce,"₹23,877","₹5,030",Email Campaign,25,Credit Card,Yes,0,Mumbai
+d9711f4e-2ce5-4d36-b712-f0cf9e72081a,2024-06-03,65,Female,1,77,Consulting,"₹13,910","₹90,779",Instagram Ads,14,Credit Card,No,0,Mumbai
+f8cf1139-b765-45ec-9149-e176e6038e14,2023-03-11,51,Male,1,357,Healthcare,"₹46,471","₹34,289",Google Ads,6,Credit Card,No,9,Mumbai
+78337953-61fc-4dc4-bd5f-3e2b832bfa77,2022-12-17,63,Male,1,462,Consulting,"₹4,098","₹20,739",Google Ads,12,Bank Transfer,Yes,4,Mumbai
+d9e3d80b-21a8-4e02-9cd5-c527d79321fd,2022-11-20,60,Male,1,460,Healthcare,"₹11,064","₹62,687",Email Campaign,20,Credit Card,No,0,Mumbai
+539f6e1b-2008-44ac-a039-df21649b912e,2022-11-24,45,Female,0,85,Education,"₹46,016","₹37,491",Facebook Ads,23,UPI,Yes,3,Mumbai
+134d5e5a-3ca5-4718-b706-7a7ed0bf014f,2023-01-12,23,Male,0,606,Retail,"₹31,398","₹96,549",Direct Traffic,30,UPI,Yes,3,Mumbai
+23551faa-34a5-466d-8995-4a5bb71bca97,2022-12-25,62,Female,1,297,Consulting,"₹21,098","₹73,115",Facebook Ads,30,Credit Card,No,7,Mumbai
+897ff9a8-9aa6-42bf-be5b-2ecfa93c5afc,2024-09-29,26,Male,1,98,E-Commerce,"₹40,904","₹84,778",Direct Traffic,38,UPI,No,0,Mumbai
+0009f887-7914-4067-9e44-dd3919433a1e,2023-01-16,60,Male,1,630,Finance,"₹18,362","₹5,781",Google Ads,30,Credit Card,No,0,Mumbai
+949b1d2c-3471-4f21-8d23-eba7a4998348,2024-01-17,61,Male,1,478,Retail,"₹10,765","₹21,448",Direct Traffic,41,Credit Card,No,0,Mumbai
+bc1fefea-a8cb-4ca6-992a-eeb7e4cd92f6,2023-11-25,53,Male,0,286,Tech,"₹10,205","₹52,550",Word of Mouth,30,UPI,No,0,Mumbai
+d0e97a9c-bb6d-4584-b7e5-7d80b505b1b9,2023-10-31,43,Male,1,701,Manufacturing,"₹26,044","₹50,294",Word of Mouth,36,UPI,Yes,0,Mumbai
+5313b32a-cbb0-4ea0-9287-681ad2bffc33,2023-11-06,27,Female,1,519,Healthcare,"₹14,798","₹22,446",Email Campaign,49,UPI,Yes,8,Mumbai
+19d965aa-7a10-40a7-b6b3-ea0e3a95564c,2023-05-04,30,Male,1,672,Tech,"₹33,170","₹77,579",Facebook Ads,34,UPI,No,1,Mumbai
+169b01a9-82d1-4522-bb69-1038534bd400,2024-08-02,53,Female,1,78,Education,"₹42,971","₹86,389",Referral Program,16,Credit Card,No,5,Mumbai
+295a99b0-76f6-49d6-aca8-85b4751ed9b3,2023-07-24,41,Male,1,688,Healthcare,"₹46,604","₹86,615",Google Ads,24,UPI,No,2,Mumbai
+8f9da177-adc4-48cf-a565-70a800c6f68e,2024-04-12,60,Male,1,345,Finance,"₹41,434","₹18,101",Partner Website,14,UPI,Yes,6,Mumbai
+a3a50dd6-1abc-41fa-bbb5-dfbbc498becc,2024-09-17,22,Male,1,442,Healthcare,"₹49,384","₹67,178",Referral Program,26,Bank Transfer,Yes,9,Mumbai
+0abb4d5c-f736-4bb4-bb51-13c12d8d72bd,2024-03-28,63,Male,0,463,Manufacturing,"₹6,550","₹29,016",Email Campaign,8,UPI,Yes,0,Mumbai
+862dbeaa-500f-4822-a142-b852d897bf60,2023-12-27,30,Female,1,31,Consulting,"₹44,452","₹19,932",Partner Website,14,UPI,No,0,Mumbai
+81fe5468-9ce2-46cb-83ac-33c623946406,2023-12-12,50,Male,1,174,E-Commerce,"₹21,534","₹45,653",Referral Program,31,Credit Card,No,2,Mumbai
+c1994fe0-40a0-4e6f-956c-1ca55b71a929,2024-04-25,47,Male,1,395,Consulting,"₹45,980","₹91,481",Facebook Ads,2,Credit Card,Yes,0,Mumbai
+37780e56-d96b-4113-91ca-0046cc83f28f,2024-03-17,52,Female,0,449,Retail,"₹8,984","₹53,802",Direct Traffic,48,Bank Transfer,No,6,Mumbai
+db9c75f7-b3a9-4f4c-8363-1013ed3bbaae,2023-12-06,59,Female,0,602,Manufacturing,"₹31,823","₹8,549",Word of Mouth,4,UPI,No,8,Mumbai
+0ab39d5d-113f-4dca-96ba-238efdc96771,2022-12-13,45,Male,0,590,E-Commerce,"₹21,296","₹79,933",Facebook Ads,1,UPI,Yes,0,Mumbai
+a7fc2ab1-3d92-4776-8b30-12c01b4540a1,2024-03-30,63,Male,1,473,Manufacturing,"₹29,569","₹26,362",Partner Website,20,UPI,Yes,0,Mumbai
+44b83237-89bb-420e-81f0-f2bab75da886,2023-07-14,44,Female,1,463,Retail,"₹22,327","₹48,842",Direct Traffic,14,UPI,No,5,Mumbai
+6b893ece-a202-4a0b-a34e-00fdd8551f82,2023-05-21,62,Male,1,672,Healthcare,"₹35,861","₹47,539",Direct Traffic,40,UPI,Yes,0,Mumbai
+a729d232-7bb8-4f62-aaa2-9921d55f2b9d,2023-03-11,31,Female,0,584,Education,"₹10,815","₹34,717",Direct Traffic,25,UPI,No,7,Mumbai
+9455e56b-6957-437f-a363-9cb9041a97f9,2023-03-13,35,Male,1,86,Retail,"₹48,468","₹55,596",Instagram Ads,25,Bank Transfer,Yes,6,Mumbai
+9d744553-37d2-4d2c-b8f5-18f52aab1bca,2024-06-19,48,Male,0,591,Retail,"₹27,019","₹24,016",Word of Mouth,3,UPI,Yes,1,Mumbai
+a701534a-7f9a-4ebe-84ba-bef0fbdb77bc,2024-06-03,29,Male,0,207,E-Commerce,"₹9,607","₹56,200",Google Ads,5,UPI,No,4,Mumbai
+efe2731f-e13e-4bc4-827b-3f76e366081f,2023-11-24,54,Female,0,322,Finance,"₹4,369","₹81,268",Partner Website,38,UPI,No,6,Mumbai
+db542c11-5cdd-4790-b82f-fb14b142bffb,2023-10-28,21,Female,0,75,Consulting,"₹15,947","₹61,287",Email Campaign,26,Bank Transfer,Yes,0,Mumbai
+7b57fdf3-6e71-4b73-9036-736e10a5e7fe,2023-10-18,23,Female,0,199,Healthcare,"₹27,870","₹93,447",Google Ads,40,UPI,No,3,Mumbai
+a7a3b131-76ba-4c42-b760-7e0e68e7baae,2023-04-11,20,Male,1,300,Retail,"₹8,471","₹84,402",Referral Program,38,Bank Transfer,Yes,0,Mumbai
+60d7f5cd-bf5e-41b5-ac8e-be72ec3a72a9,2022-12-17,23,Female,1,446,Education,"₹31,769","₹43,607",Word of Mouth,38,Credit Card,No,6,Mumbai
+cc8f8c6d-fd41-41d1-992a-865aa9ca363a,2024-02-03,59,Male,0,168,Tech,"₹26,151","₹28,621",Email Campaign,4,UPI,Yes,0,Mumbai
+9b734dcd-5ec6-46fd-b9b9-a7d24754ca0c,2024-05-14,51,Female,1,276,Healthcare,"₹36,257","₹13,823",Email Campaign,7,Bank Transfer,Yes,9,Mumbai
+9d0e266d-324e-45f4-ac18-ee3348a502b9,2023-04-24,41,Female,1,177,Finance,"₹23,946","₹30,986",Facebook Ads,30,Credit Card,Yes,0,Mumbai
+6ed7eaa5-1cf2-42e4-bc80-66b7b2a099f8,2023-12-24,64,Female,0,259,Manufacturing,"₹38,608","₹65,325",Referral Program,30,Bank Transfer,No,4,Mumbai
+e7686987-e99e-4104-bd80-c1b95c902491,2024-04-20,39,Male,0,666,Retail,"₹10,143","₹58,771",Facebook Ads,19,Bank Transfer,Yes,9,Mumbai
+2d009b61-4282-47d1-bfd8-885384e0cfc6,2023-02-09,64,Female,1,403,Education,"₹4,323","₹55,973",Facebook Ads,39,Credit Card,Yes,0,Mumbai
+530d81f0-5bdf-40bf-b89a-32566b98205f,2023-07-09,51,Male,1,109,Healthcare,"₹13,954","₹15,690",Direct Traffic,35,UPI,Yes,0,Mumbai
+9591f148-edec-474b-89a4-1555638816a0,2024-10-03,40,Female,1,635,Education,"₹4,432","₹40,107",Word of Mouth,40,UPI,Yes,0,Mumbai
+528ff1bd-9a77-454c-8b74-80832c123259,2023-09-14,53,Female,1,94,Education,"₹10,720","₹58,888",Instagram Ads,33,Bank Transfer,No,0,Mumbai
+3b9b9ed3-5205-4f30-bab5-89a619d63962,2024-03-20,50,Male,0,117,Consulting,"₹9,054","₹11,956",Facebook Ads,33,Credit Card,No,0,Mumbai
+5de4a438-884c-4afc-bedf-49d541d39012,2023-01-26,52,Female,1,117,E-Commerce,"₹2,929","₹87,839",Google Ads,14,UPI,Yes,0,Mumbai
+f25908db-e8db-4947-8bfb-bd4c7cbb32bc,2024-01-05,53,Female,0,233,Manufacturing,"₹28,708","₹57,227",Email Campaign,38,Bank Transfer,Yes,1,Mumbai
+8e0ee7a7-5df3-4e19-843c-ad5b78ee0740,2023-10-01,28,Female,0,411,Finance,"₹7,944","₹37,533",Word of Mouth,10,Credit Card,No,2,Mumbai
+91d868f3-f474-40e1-8b49-a9c187114848,2023-05-16,37,Female,1,630,Consulting,"₹11,010","₹96,210",Facebook Ads,28,Bank Transfer,Yes,3,Mumbai
+fb292b6e-fd19-4130-9061-ae1d62f6c4ba,2024-07-08,32,Female,1,505,Healthcare,"₹44,545","₹57,234",Partner Website,14,Credit Card,No,0,Mumbai
+b8f5f975-25a5-47cd-b6bc-ba68cd1dc76b,2024-08-03,28,Male,1,602,Retail,"₹11,037","₹68,594",Google Ads,36,UPI,Yes,0,Mumbai
+0704d732-e086-437c-b47f-0609d1e4c9d0,2022-12-06,52,Female,0,635,Finance,"₹7,647","₹57,901",Referral Program,38,UPI,No,0,Mumbai
+fefa649f-b27d-4f42-8835-ecc86b98ced6,2024-02-17,57,Male,0,568,Retail,"₹40,899","₹12,519",Email Campaign,16,Bank Transfer,Yes,6,Mumbai
+3c1a9b8a-dad2-425a-80be-951865db8c2d,2024-06-18,31,Female,0,243,Tech,"₹4,098","₹32,115",Word of Mouth,21,UPI,No,0,Mumbai
+e5029a72-80a9-4268-944d-483d743cf749,2024-01-24,21,Male,0,103,Education,"₹37,597","₹67,266",Partner Website,28,UPI,No,6,Mumbai
+ee56e216-7083-4c02-bc9f-4af6308449c7,2022-10-31,46,Female,1,90,Tech,"₹7,218","₹2,832",Word of Mouth,33,Credit Card,No,0,Mumbai
+7ef72682-aa62-4f55-822c-5ca635890d19,2023-06-29,24,Female,0,727,E-Commerce,"₹43,191","₹42,368",Word of Mouth,6,UPI,Yes,0,Mumbai
+bd7a8d39-d199-45cc-b0d1-e1ed702b57d1,2022-12-26,52,Male,0,572,Education,"₹14,282","₹89,425",Partner Website,41,Credit Card,No,0,Mumbai
+d8cb18d6-e3b7-40b6-be9f-bdb6aebe2ccf,2024-04-07,55,Female,1,248,Manufacturing,"₹49,744","₹70,715",Referral Program,15,Credit Card,No,9,Mumbai
+de2b049a-9591-476d-98cf-8d30832934aa,2023-07-18,18,Male,0,41,Finance,₹551,"₹72,835",Partner Website,44,Bank Transfer,Yes,0,Mumbai
+67bcbe97-c94c-40a1-bd3c-3ada6174f81e,2024-06-25,57,Male,0,444,Retail,"₹17,202","₹74,366",Google Ads,3,Credit Card,Yes,5,Mumbai
+18e32523-aeb6-41e0-8a6b-0036fd9fbb73,2024-03-15,29,Female,1,61,Consulting,"₹10,684","₹38,570",Direct Traffic,43,UPI,Yes,0,Mumbai
+d8662186-ec85-49d8-b76a-53a83d0b08c6,2024-05-12,62,Female,0,189,E-Commerce,"₹12,968","₹88,977",Word of Mouth,47,Credit Card,Yes,0,Mumbai
+0005ab9d-7d3f-401d-8a77-8fd78fb86df4,2023-02-03,49,Female,0,266,Manufacturing,"₹22,572","₹7,615",Referral Program,35,Credit Card,No,0,Mumbai
+dc189133-d2f6-4b75-9baa-917c219ecaaf,2023-10-10,41,Male,0,210,Retail,"₹15,979","₹73,298",Word of Mouth,14,Bank Transfer,Yes,0,Mumbai
+2e7f1e74-4edf-47f2-bfb4-499c852b4277,2023-04-12,42,Female,0,587,Finance,"₹28,967","₹39,311",Partner Website,2,UPI,Yes,5,Mumbai
+a678a9e9-a36c-49ee-99c3-f1c80497a795,2024-03-13,54,Female,1,370,Healthcare,"₹23,902","₹91,245",Referral Program,29,UPI,Yes,0,Mumbai
+f2100a0f-28ad-4769-a662-7ce542926179,2023-08-28,62,Male,0,487,E-Commerce,"₹7,710","₹24,434",Referral Program,4,UPI,Yes,2,Mumbai
+4f8a8161-100d-45a1-bc6d-8c8551a2a639,2023-10-11,52,Female,1,109,Tech,"₹46,202","₹87,879",Facebook Ads,26,Credit Card,Yes,0,Mumbai
+ca501098-7185-446d-af77-a08ddbda53ef,2024-05-13,20,Male,0,676,Tech,"₹37,224","₹16,739",Facebook Ads,12,UPI,Yes,0,Mumbai
+344d4590-d319-4771-9669-facdd3c5ae87,2024-05-19,54,Male,1,502,Consulting,"₹6,557","₹67,202",Direct Traffic,2,UPI,Yes,0,Mumbai
+2dd4c4a2-24de-4620-8122-bc6e07d4adb8,2023-11-12,60,Female,1,700,Retail,"₹31,416","₹99,580",Facebook Ads,17,Credit Card,No,8,Mumbai
+4b25951b-3d58-48c2-84a7-8fa1b48b906f,2024-07-19,37,Female,1,141,Retail,"₹27,768","₹94,419",Partner Website,35,Bank Transfer,No,0,Mumbai
+1ea821be-efc6-4508-b1df-5bfc2bae82bd,2024-03-06,19,Female,0,321,Retail,"₹44,478","₹80,599",Email Campaign,10,Bank Transfer,No,7,Mumbai
+6ffc8547-b8b9-4e26-9d7a-381521c15420,2023-08-22,50,Male,0,660,E-Commerce,"₹47,858","₹34,649",Google Ads,48,Credit Card,No,7,Mumbai
+d574ec14-6cc9-4c34-bf96-0cb67497fe8d,2024-07-10,25,Female,0,412,Finance,"₹23,759","₹48,445",Partner Website,22,Bank Transfer,No,0,Mumbai
+e518e666-0d23-491b-b716-ec8f5ca0a86f,2023-06-16,57,Female,1,46,Healthcare,"₹14,364","₹40,470",Word of Mouth,41,Bank Transfer,Yes,9,Mumbai
+797c73b9-2906-469b-8e42-01f75a4fab3e,2023-01-09,62,Female,0,522,Tech,"₹34,793","₹75,965",Facebook Ads,43,Bank Transfer,Yes,0,Mumbai
+faa10629-320e-45e7-9e2f-11aebbf9790d,2024-04-30,27,Female,0,360,Manufacturing,"₹46,545","₹49,621",Referral Program,21,UPI,Yes,2,Mumbai
+e8e55057-b7ed-4956-ae91-902ffaadbc1c,2023-03-11,64,Male,0,515,Education,"₹7,543","₹33,926",Partner Website,15,Bank Transfer,Yes,3,Mumbai
+484c3dce-1b62-43a7-8e9e-b01f3b29f9be,2023-07-31,65,Male,0,435,E-Commerce,"₹41,973","₹38,997",Referral Program,35,UPI,No,2,Mumbai
+32166485-cb61-4351-868f-e75ea5ebee84,2024-09-28,27,Female,1,146,E-Commerce,"₹39,393","₹60,940",Direct Traffic,48,Bank Transfer,No,8,Mumbai
+fdea81e7-fae1-438d-8c44-927697a76185,2022-11-12,49,Male,1,584,Finance,"₹41,142","₹41,724",Word of Mouth,21,UPI,Yes,0,Mumbai
+98fcdd89-b5d3-44c2-bdf8-93f7c3ddac02,2022-11-19,38,Female,0,144,Tech,"₹13,029","₹98,805",Referral Program,21,Credit Card,Yes,3,Mumbai
+9d77616f-1ade-4c12-8e62-9f0eaa27ba18,2024-01-03,36,Female,0,578,Consulting,"₹31,368","₹32,704",Referral Program,21,Credit Card,No,0,Mumbai
+2c8e52e9-b863-43c2-94eb-98f116d672fc,2023-05-14,52,Male,0,654,Healthcare,"₹26,809","₹29,391",Direct Traffic,44,Bank Transfer,No,8,Mumbai
+6830d846-3b23-4b78-a044-9e583d661dba,2022-10-26,55,Male,1,576,Finance,"₹23,784","₹64,291",Instagram Ads,32,UPI,No,0,Mumbai
+6335cd70-4ed5-4d4d-8f68-e2056b83b391,2023-09-08,18,Male,0,673,Manufacturing,"₹48,223","₹90,723",Email Campaign,5,Credit Card,Yes,0,Mumbai
+0fcab09c-fbc1-4b17-bba3-aa9d099f6efc,2024-01-16,58,Female,1,365,Tech,"₹35,768","₹3,526",Google Ads,39,Credit Card,Yes,1,Mumbai
+eee1818d-f3e5-4d82-bb52-7c5b7f472f4d,2024-08-15,41,Female,1,365,Finance,"₹3,964","₹25,686",Google Ads,9,Credit Card,No,1,Mumbai
+ac07623f-f571-4890-bbb7-94ff86484647,2023-08-17,47,Male,0,176,Tech,"₹19,143","₹74,339",Facebook Ads,18,Credit Card,No,0,Mumbai
+4aebd9bc-2a6d-4132-adad-71b34459e139,2024-08-26,54,Female,0,151,Tech,"₹29,765","₹99,204",Instagram Ads,21,Bank Transfer,Yes,8,Mumbai
+a4b51006-e57f-4811-b4b8-449e99661961,2023-09-11,26,Male,0,110,Consulting,"₹16,454","₹7,574",Partner Website,8,UPI,Yes,8,Mumbai
+6443fab7-7bb6-48d8-9b6a-a4f87b51178b,2023-04-25,57,Male,1,714,E-Commerce,"₹24,380","₹9,733",Direct Traffic,44,Credit Card,Yes,7,Mumbai
+70ca4a58-ce1b-443a-866a-ef366007829d,2023-07-25,61,Male,1,695,Healthcare,"₹19,543","₹51,290",Partner Website,34,Bank Transfer,Yes,6,Mumbai
+ec1bc567-0370-4c5c-81d8-273704fb9161,2024-09-17,44,Female,0,691,E-Commerce,₹755,"₹73,793",Google Ads,10,Credit Card,No,4,Mumbai
+3f9e0a2b-8b5d-4d61-8860-4297cc379e2e,2023-09-02,55,Male,1,404,Education,"₹2,002","₹37,051",Email Campaign,41,Credit Card,No,1,Mumbai
+9961adbb-c06e-4146-bc44-a6e4225deadb,2023-01-13,28,Male,0,599,Healthcare,"₹5,156","₹16,909",Referral Program,24,Credit Card,No,9,Mumbai
+3bb1c496-70df-42a2-9e9a-3bbafc208785,2023-08-28,39,Female,0,92,Tech,"₹10,802","₹90,682",Word of Mouth,40,Credit Card,Yes,1,Mumbai
+34838f68-d342-417a-9811-6a646265ff6a,2024-01-10,49,Male,1,533,Finance,"₹5,930","₹78,338",Facebook Ads,24,Bank Transfer,Yes,4,Mumbai
+e55e3ced-3185-4160-b497-3aa017a17a73,2024-05-14,48,Female,1,697,Manufacturing,"₹41,866","₹74,432",Email Campaign,32,UPI,Yes,0,Mumbai
+1a1917b6-5666-421b-b65d-06642524defd,2024-01-16,31,Male,1,478,Consulting,"₹27,925","₹29,133",Google Ads,33,Bank Transfer,No,7,Mumbai
+6e1179b5-c635-4972-aaa5-a4404d6c2207,2023-11-23,20,Male,1,457,Healthcare,"₹49,244","₹52,571",Instagram Ads,38,Bank Transfer,No,5,Mumbai
+18aec96d-4387-4fc1-a24f-f5c498cd924b,2024-01-02,52,Male,0,456,Education,"₹2,360","₹80,062",Facebook Ads,44,Bank Transfer,No,5,Mumbai
+79fb708e-51f6-4b01-83c6-b0dd39ff3f66,2024-04-01,25,Male,0,450,Tech,"₹6,658","₹51,908",Direct Traffic,49,Credit Card,Yes,4,Mumbai
+8813e50c-6858-4a8f-bb8f-51b9c06fdd55,2023-10-29,36,Female,0,351,Manufacturing,"₹6,306","₹12,278",Google Ads,34,UPI,Yes,1,Mumbai
+5dd309f3-e735-4e9c-b4aa-e824672b286f,2024-04-03,52,Male,1,709,Healthcare,"₹21,238","₹52,458",Partner Website,11,Credit Card,No,0,Mumbai
+16a7ec29-487d-4a49-923e-0a5ade22f963,2023-08-23,32,Male,0,195,E-Commerce,"₹17,606","₹65,265",Facebook Ads,31,Bank Transfer,Yes,0,Mumbai
+c696baee-7d7c-412e-923d-3825338a4035,2023-06-21,33,Male,1,626,E-Commerce,"₹9,974","₹57,782",Direct Traffic,18,Credit Card,No,8,Mumbai
+54e71c48-3f22-40d7-beb7-33dc85495124,2023-09-05,54,Female,1,678,Healthcare,"₹17,497","₹56,415",Google Ads,23,UPI,No,0,Mumbai
+5b1cbd31-56f3-4d6f-8dda-51580fd0be05,2024-07-14,37,Female,1,490,Healthcare,"₹33,099","₹92,087",Partner Website,22,UPI,No,8,Mumbai
+ee072fa8-ea29-4045-b6ae-55a2ba012ca1,2023-03-27,57,Male,0,488,Healthcare,"₹6,290","₹55,160",Word of Mouth,43,Credit Card,No,1,Mumbai
+26daa791-ea6e-4cf2-be3e-e1bce667dc9f,2023-02-09,51,Male,1,218,Manufacturing,"₹10,670","₹55,399",Partner Website,18,Bank Transfer,Yes,0,Mumbai
+d8356908-f0ed-475f-b52c-249236b3db07,2022-12-08,21,Male,1,493,E-Commerce,"₹9,504","₹26,298",Referral Program,40,Credit Card,Yes,0,Mumbai
+db3bae13-b7e4-479e-b088-9f514243b9b8,2023-06-27,20,Female,1,408,Finance,"₹43,246","₹23,191",Direct Traffic,47,Bank Transfer,Yes,0,Mumbai
+e964a5ce-a009-43b6-933e-ce40228515f6,2024-05-10,34,Female,1,31,Education,"₹49,982","₹57,964",Direct Traffic,41,UPI,Yes,0,Mumbai
+a3f8baca-8b89-48f5-bc24-f2487aa5c024,2024-01-04,44,Female,1,647,Education,"₹26,292","₹34,092",Instagram Ads,47,Credit Card,Yes,0,Mumbai
+7da89e7f-3be6-47ac-91f2-3ce01de38029,2024-08-17,55,Female,1,393,Consulting,"₹30,716","₹90,407",Direct Traffic,39,UPI,Yes,4,Mumbai
+e8999f0a-1aa1-46dc-98cc-b55a72a918bf,2023-11-02,31,Male,1,101,Tech,"₹7,732","₹76,257",Referral Program,20,Bank Transfer,No,8,Mumbai
+214c8058-d7e8-4d66-8535-5166e030a6cd,2023-07-11,23,Female,1,456,Retail,"₹13,174","₹63,513",Google Ads,13,Bank Transfer,Yes,3,Mumbai
+21f92a2e-7cb1-448b-b84b-a51a7169776e,2024-06-05,19,Male,1,667,Finance,"₹16,552","₹52,097",Word of Mouth,45,Credit Card,Yes,0,Mumbai
+898698e3-856d-45ec-87d0-329bcbd2b91b,2022-12-27,42,Male,1,199,E-Commerce,"₹49,042","₹31,279",Email Campaign,1,Credit Card,Yes,1,Mumbai
+2d52b54d-b17c-4937-9b7c-3dd95fd6932e,2023-11-26,58,Female,1,234,Tech,"₹6,413","₹15,404",Word of Mouth,4,Credit Card,No,0,Mumbai
+c41df047-c7f1-49c0-93e5-6aa98a981e06,2022-12-19,26,Female,1,366,Consulting,"₹47,370","₹71,022",Word of Mouth,24,UPI,Yes,1,Mumbai
+61649a59-d2a5-4386-84cc-c4bb8b8a90c0,2024-04-13,61,Male,0,501,Tech,"₹48,657","₹36,198",Direct Traffic,36,Bank Transfer,No,0,Mumbai
+89a57b77-a849-4fae-bb60-f4e9d1726594,2023-10-25,39,Male,0,224,Healthcare,"₹28,413","₹95,223",Word of Mouth,36,Bank Transfer,Yes,0,Mumbai
+5811b527-3089-47ea-be69-7d5a892f7972,2023-04-21,41,Female,1,699,Retail,"₹11,067","₹50,997",Direct Traffic,45,UPI,Yes,1,Mumbai
+255e2b73-d0a3-4b12-b1c2-82761ca51e06,2023-11-02,24,Female,1,682,E-Commerce,"₹38,879","₹79,692",Referral Program,2,Credit Card,Yes,3,Mumbai
+80a288ca-54de-4a0e-8424-7e80fa9a2752,2023-08-03,34,Male,1,304,Retail,"₹9,932","₹1,567",Email Campaign,28,Credit Card,No,6,Mumbai
+566193bd-1d32-4b7d-b76c-6fae1c0f83fa,2023-07-05,34,Male,0,36,Finance,₹819,"₹62,032",Partner Website,26,UPI,No,6,Mumbai
+468db737-83cd-4860-84ba-44e17e1f6671,2024-01-26,22,Male,0,595,Retail,"₹24,969","₹3,179",Direct Traffic,23,Bank Transfer,Yes,0,Mumbai
+737c8e40-8111-4aba-a30b-99f439bd6dc0,2023-07-10,22,Female,0,645,Tech,"₹45,954","₹3,019",Google Ads,15,Bank Transfer,Yes,2,Mumbai
+291d70f8-6adf-4f30-a901-b254bb0026c8,2023-11-09,48,Male,1,602,Retail,"₹26,990","₹82,455",Instagram Ads,36,Bank Transfer,Yes,0,Mumbai
+28f83058-11b0-4a03-ba04-60aed1d22c17,2023-11-15,32,Male,1,628,Retail,"₹21,084","₹86,239",Email Campaign,27,Bank Transfer,No,6,Mumbai
+a0f9766e-f160-4ecd-bc61-e37fbbdb535b,2024-03-25,19,Female,1,207,Education,"₹5,291","₹19,704",Google Ads,6,UPI,No,5,Mumbai
+273e2c95-b863-460f-a4d2-849df86bed6b,2024-01-28,64,Male,1,271,E-Commerce,"₹32,236","₹19,030",Direct Traffic,35,Bank Transfer,Yes,7,Mumbai
+7478da71-2921-4a3f-ad20-c1db1125f7e4,2022-10-27,30,Female,0,232,E-Commerce,₹829,"₹70,445",Email Campaign,39,UPI,No,7,Mumbai
+c79b9d3c-35cd-4e1b-8fa7-d18e2f60a9e0,2023-05-19,29,Female,1,572,Tech,"₹9,351","₹74,551",Direct Traffic,38,Credit Card,No,5,Mumbai
+203b3403-8eb7-4b76-8e72-4bbdd1abaa27,2022-10-26,55,Female,0,491,Manufacturing,"₹44,578","₹4,420",Referral Program,35,UPI,No,0,Mumbai
+4cc4c202-38ea-4651-95a2-84c17bee4295,2024-07-30,43,Female,0,109,Retail,"₹23,626","₹60,875",Google Ads,36,Bank Transfer,No,6,Mumbai
+1e673ba5-2ab4-4575-978b-562f907789e1,2022-12-28,63,Male,1,552,Retail,"₹21,800","₹48,653",Referral Program,10,Credit Card,Yes,0,Mumbai
+9f4674e1-ca8f-4560-bd6b-64c0255101c2,2024-04-25,25,Male,0,446,Healthcare,"₹10,664","₹17,740",Facebook Ads,30,UPI,Yes,4,Mumbai
+2a32249c-2bb2-47fd-8862-619ab7c2bee8,2023-06-23,44,Male,0,413,E-Commerce,"₹25,009","₹66,263",Google Ads,41,UPI,No,0,Mumbai
+0170f2fd-ad1a-49aa-8632-552e1a2c5bc8,2024-02-23,30,Female,0,420,Retail,"₹6,203","₹96,864",Email Campaign,38,UPI,No,4,Mumbai
+84ea4a5c-b31d-46b2-bc0b-e1d7ff853745,2024-01-23,45,Male,0,717,E-Commerce,"₹27,609","₹65,559",Facebook Ads,29,Credit Card,No,5,Mumbai
+d84cd789-ad44-4e2d-9b6d-5d9e8365d68b,2023-03-06,48,Male,1,155,Retail,"₹43,917","₹20,465",Referral Program,43,UPI,Yes,5,Mumbai
+b55e6115-3162-45ec-91c2-bc1d1bfa4fe4,2023-11-07,59,Female,1,523,Education,"₹23,054","₹52,432",Referral Program,39,Bank Transfer,Yes,0,Mumbai
+ac43aa34-e187-42a1-bd4f-9e3f8adfdaa8,2023-07-14,30,Female,0,76,Tech,"₹28,176","₹5,131",Email Campaign,4,Credit Card,No,0,Mumbai
+42945e06-1e03-471c-ab1b-4fa8b370da3b,2023-12-22,18,Female,1,505,E-Commerce,"₹24,304","₹11,652",Facebook Ads,5,Credit Card,No,3,Mumbai
+2a16e148-f328-4a13-a031-561a5805f070,2023-01-09,23,Male,0,648,Finance,"₹45,940","₹65,973",Word of Mouth,4,UPI,No,3,Mumbai
+fcd79410-f241-41ab-801a-d85ccf60d30e,2023-03-30,59,Male,1,493,Tech,"₹37,423","₹88,043",Partner Website,36,Bank Transfer,No,2,Mumbai
+7abdf0bf-4562-4c71-9259-70b697730692,2024-04-11,43,Female,1,152,Healthcare,"₹30,302","₹48,147",Instagram Ads,45,Credit Card,Yes,0,Mumbai
+acacd00d-c88e-4e73-acc6-b208260ac34b,2024-05-27,49,Female,1,503,Tech,"₹25,295","₹48,671",Email Campaign,16,UPI,Yes,6,Mumbai
+fa087fc4-bfb0-4673-9b11-e9ea1bb7b7c9,2023-05-02,47,Female,1,163,Retail,"₹3,111","₹90,342",Referral Program,25,Bank Transfer,Yes,0,Mumbai
+092bd144-8e97-484f-9055-5f8f7f279079,2024-02-14,35,Male,1,648,Healthcare,"₹22,575","₹20,171",Google Ads,14,UPI,Yes,6,Mumbai
+59f0c4d8-7c1c-4278-93fd-2e79889070e3,2024-01-20,35,Male,0,591,Tech,"₹16,979","₹87,129",Facebook Ads,11,UPI,Yes,0,Mumbai
+036b0444-41c8-411c-ad77-0da36ea45f3e,2022-10-13,32,Female,1,636,Consulting,"₹9,680","₹56,692",Direct Traffic,29,Credit Card,Yes,0,Mumbai
+6f54dd2c-76de-46bd-a459-2f23071e2682,2022-12-09,65,Female,0,52,Healthcare,"₹9,804","₹59,541",Partner Website,34,Credit Card,No,0,Mumbai
+42bbe342-b679-4cd0-9619-cdd327bf6502,2023-09-14,64,Female,0,595,Consulting,"₹15,110","₹10,470",Instagram Ads,22,UPI,No,7,Mumbai
+cd7bd587-f685-4294-8669-b93db5d3dd82,2023-11-11,24,Male,1,264,Finance,"₹8,937","₹62,344",Google Ads,14,Credit Card,Yes,0,Mumbai
+201d0d87-b359-45ef-8969-8491414581d0,2023-05-25,24,Female,0,88,Tech,"₹43,618","₹45,308",Facebook Ads,24,Credit Card,Yes,3,Mumbai
+1e056568-459b-4fad-8958-82a16d774f9d,2023-11-22,65,Male,1,193,E-Commerce,"₹13,021","₹51,639",Partner Website,39,Bank Transfer,Yes,0,Mumbai
+4f9b3bbd-bf9b-40a5-b037-a64c7930d90b,2024-09-09,34,Female,0,245,E-Commerce,"₹24,528","₹22,326",Email Campaign,26,Bank Transfer,No,1,Mumbai
+4a4758d8-21c3-4f3b-b828-15058677ec6d,2022-12-18,48,Male,0,212,Manufacturing,"₹39,828","₹5,597",Direct Traffic,43,UPI,No,0,Mumbai
+f216822e-0031-40ba-829d-26bb6eab9908,2022-12-22,55,Female,1,598,Retail,"₹27,801","₹31,788",Partner Website,36,UPI,No,0,Mumbai
+6d91aa5c-011e-4096-a322-239f8bcb9a24,2023-12-06,59,Male,1,686,Consulting,"₹38,515","₹66,020",Email Campaign,39,UPI,No,3,Mumbai
+613fc4c3-b420-4b47-a26e-9debc49d5282,2023-11-28,57,Male,1,119,Healthcare,"₹22,240","₹50,477",Direct Traffic,16,UPI,Yes,9,Mumbai
+cf68e512-e2d5-47ad-b491-8a26c6dc0d81,2022-12-19,60,Male,1,340,Manufacturing,"₹37,345","₹34,071",Direct Traffic,38,Bank Transfer,No,0,Mumbai
+edfa544b-180c-44a4-8d3c-1ecb16ff1f0e,2023-01-12,52,Female,0,586,Manufacturing,"₹21,782","₹71,603",Word of Mouth,32,Credit Card,Yes,0,Mumbai
+529261d9-58ae-487f-9bfd-5a63de359371,2024-09-11,43,Male,1,286,Education,"₹11,358","₹62,923",Facebook Ads,6,Bank Transfer,No,1,Mumbai
+dc5da14a-f078-431a-8652-46af59a8df0b,2023-08-07,55,Male,0,562,Consulting,"₹44,659","₹71,560",Direct Traffic,34,UPI,No,0,Mumbai
+d324e0f1-d823-44c3-ad38-928abe2f29d3,2024-08-28,37,Male,0,562,Healthcare,"₹44,214","₹74,251",Partner Website,8,UPI,No,0,Mumbai
+7a5575fa-07d7-451b-af99-22676316e4c9,2024-08-29,22,Male,0,81,Manufacturing,"₹15,686","₹58,492",Direct Traffic,30,Bank Transfer,No,6,Mumbai
+b4c45198-c2d4-4551-bd04-f3066afa6237,2023-06-23,52,Male,0,367,Education,"₹34,685","₹32,770",Instagram Ads,27,Bank Transfer,Yes,7,Mumbai
+b81ea8a8-f69a-4378-b9d4-565080aabd29,2024-09-25,58,Female,0,200,Manufacturing,"₹31,694","₹77,762",Partner Website,7,UPI,Yes,8,Mumbai
+e5a80ebc-a536-4222-a1b2-e6fba39a07b9,2023-06-25,18,Female,0,96,Retail,"₹25,730","₹36,399",Facebook Ads,27,Credit Card,Yes,0,Mumbai
+45f317f1-ddc8-4ebd-90fd-9f4783ca928a,2023-05-10,38,Female,1,654,Finance,"₹27,518","₹79,948",Google Ads,25,UPI,Yes,0,Mumbai
+0ae3d0df-fd23-4890-ada3-85d54885c4c5,2023-01-28,62,Female,0,329,Consulting,"₹49,762","₹58,439",Google Ads,46,Bank Transfer,Yes,0,Mumbai
+a1f7c6d7-89c6-4e02-8bee-7e87660d19fc,2023-05-25,51,Female,0,701,Education,"₹25,165","₹45,415",Partner Website,41,UPI,Yes,5,Mumbai
+ec0ab14a-fa7a-45e9-9ce4-0f91d5ed377b,2022-12-17,38,Male,0,261,Finance,"₹42,222","₹13,569",Partner Website,15,UPI,Yes,0,Mumbai
+0dcf605a-35c2-4cb5-93bc-44e3e3541666,2023-11-22,38,Male,1,97,Healthcare,"₹46,859","₹3,369",Email Campaign,25,Credit Card,No,2,Mumbai
+0cb8384a-d9a9-4f7c-944c-9bb90ca8eb35,2024-01-21,27,Male,1,535,Retail,"₹40,659","₹98,557",Facebook Ads,22,UPI,Yes,7,Mumbai
+12ef093d-7e3f-476d-9413-343715b9f6db,2023-04-07,35,Female,0,57,Education,"₹44,632","₹1,528",Email Campaign,18,UPI,No,0,Mumbai
+2378c141-20d9-43e3-b5e8-32a7bf68bf6a,2024-08-05,60,Female,1,657,Healthcare,"₹43,639","₹31,314",Instagram Ads,12,UPI,Yes,1,Mumbai
+ada5c6b8-5d2a-40a0-96c6-e6e76b881f80,2024-08-25,61,Female,0,80,Manufacturing,"₹22,016","₹19,047",Word of Mouth,23,Bank Transfer,No,0,Mumbai
+ae45868b-5948-4375-9287-4f345eae6a4d,2023-06-30,22,Male,1,722,E-Commerce,"₹35,772","₹20,748",Google Ads,45,Bank Transfer,Yes,3,Mumbai
+3de9a2d0-fe63-440e-936d-99efaa745a55,2023-09-05,31,Male,0,289,Tech,"₹25,173","₹36,109",Direct Traffic,39,Credit Card,No,4,Mumbai
+d6baf22a-9f83-485f-826d-c4d258df09fe,2022-10-21,44,Male,1,620,Healthcare,"₹5,739","₹14,919",Direct Traffic,25,UPI,Yes,7,Mumbai
+7a291640-5bb1-4929-93e7-72f968473d1f,2023-05-03,51,Male,1,649,Finance,"₹49,944","₹48,498",Referral Program,10,Bank Transfer,Yes,0,Mumbai
+38a3ae11-9cdd-40ed-88bc-e3174edcf7c8,2022-10-26,57,Male,1,615,Retail,"₹26,915","₹56,808",Referral Program,30,Credit Card,Yes,4,Mumbai
+b3b44f64-938a-4131-80ed-99e51f68aa54,2023-01-25,47,Male,0,716,Retail,"₹38,388","₹81,792",Facebook Ads,10,UPI,Yes,0,Mumbai
+26dfe36a-9dca-424c-84ca-cca7f4589579,2024-01-25,22,Female,0,213,Healthcare,"₹27,695","₹71,441",Direct Traffic,34,Credit Card,No,6,Mumbai
+dad4bc19-bb96-4f3e-8d06-8fb9021904f1,2024-01-12,22,Female,0,52,Manufacturing,"₹39,661","₹75,420",Facebook Ads,46,Credit Card,Yes,6,Mumbai
+1214a815-5e3e-49f7-ba6a-86d737963de5,2022-10-31,55,Male,1,158,Tech,"₹29,823","₹29,906",Referral Program,13,Credit Card,Yes,7,Mumbai
+41cedaa4-23d3-4def-9e00-da04880f6426,2023-05-30,45,Male,1,320,Consulting,"₹35,464","₹72,486",Facebook Ads,29,Credit Card,No,0,Mumbai
+d346f709-1c82-4643-9e82-f20a2433f748,2022-11-24,59,Female,0,530,Finance,"₹36,734","₹67,896",Google Ads,38,Credit Card,Yes,0,Mumbai
+830a496b-a4eb-4d10-9bb8-24341cd84944,2023-04-04,28,Male,1,215,Healthcare,"₹31,263","₹22,946",Instagram Ads,41,Credit Card,No,0,Mumbai
+e140f22e-ac02-442c-b754-646016d7b909,2024-02-28,58,Male,0,508,Healthcare,"₹35,174","₹48,020",Instagram Ads,45,Credit Card,No,0,Mumbai
+8154daa3-c0bf-4009-a45f-0cccb9b42b69,2024-01-07,28,Female,0,600,E-Commerce,"₹18,605","₹75,266",Direct Traffic,9,UPI,Yes,0,Mumbai
+1487f760-7f80-46ff-b7b2-901c2d22d92c,2022-10-14,51,Female,0,521,Retail,"₹45,151","₹23,161",Email Campaign,13,UPI,Yes,4,Mumbai
+7f1a1b98-269f-4b15-84a1-3715678f034d,2023-12-28,55,Female,0,542,Finance,"₹30,239","₹28,738",Google Ads,37,Credit Card,No,6,Mumbai
+c4c6352a-9920-44ce-aa48-0d50ba2b96a7,2023-05-27,65,Female,1,672,Tech,"₹48,705","₹4,925",Word of Mouth,14,UPI,Yes,0,Mumbai
+24cce51d-3471-47e0-b385-f465e3d92da3,2024-04-11,34,Female,1,96,Retail,"₹32,469","₹9,463",Facebook Ads,37,Credit Card,No,0,Mumbai
+a5740484-a3e0-4fa8-82af-a1a4ed640557,2023-11-27,24,Female,1,496,Healthcare,"₹14,997","₹58,153",Facebook Ads,9,UPI,Yes,0,Mumbai
+3a7762f0-b394-4ac3-8a3d-4ef8770ae8ae,2023-11-01,18,Female,0,314,Retail,"₹2,316","₹83,948",Direct Traffic,8,Bank Transfer,Yes,0,Mumbai
+20b21d4b-33ae-44d3-915f-0b39008f6446,2023-05-20,45,Male,1,630,Retail,"₹26,983","₹62,009",Word of Mouth,39,Credit Card,No,4,Mumbai
+1e80d1e2-26c3-4c90-bde1-eff36826763c,2023-12-19,41,Male,0,446,Education,"₹43,981","₹88,938",Email Campaign,40,Bank Transfer,Yes,0,Mumbai
+b28369f6-f001-409c-b1ad-c1beaae202e9,2024-01-01,50,Female,0,129,Retail,"₹22,659","₹92,253",Email Campaign,3,Credit Card,Yes,0,Mumbai
+2f137f60-98dd-48be-96fe-39710acf7df8,2024-07-02,65,Female,0,218,Manufacturing,"₹4,349","₹42,552",Facebook Ads,47,Credit Card,Yes,0,Mumbai
+4d45139f-99af-4342-a21e-1f209df35457,2023-01-25,41,Male,0,417,Retail,"₹22,112","₹57,271",Facebook Ads,40,Bank Transfer,No,0,Mumbai
+b29b2d2c-206d-4444-b38c-6cddf4641d20,2024-04-17,44,Male,0,270,Consulting,"₹40,117","₹10,797",Word of Mouth,33,Bank Transfer,Yes,1,Mumbai
+23973396-0cd2-4c3b-bc16-cc7eafa6b6db,2024-02-16,36,Male,0,446,Manufacturing,"₹34,326","₹87,130",Direct Traffic,32,Bank Transfer,No,3,Mumbai
+00d060c7-27c3-4f42-b23b-e71e6fe01e28,2023-01-13,63,Female,1,205,Finance,"₹44,998","₹72,942",Google Ads,7,Credit Card,Yes,0,Mumbai
+fdc14385-492f-4e26-bef3-a3ce29019612,2023-01-22,23,Female,1,416,Retail,"₹19,206","₹14,965",Word of Mouth,19,Bank Transfer,No,4,Mumbai
+282bf4d7-7c15-42c7-9ee3-c45f603d2e3b,2023-12-21,52,Female,1,500,Tech,"₹25,063","₹14,733",Email Campaign,34,Bank Transfer,Yes,3,Mumbai
+80099015-0722-4fac-9b2e-d388381bbe5b,2023-09-23,50,Male,1,262,Manufacturing,"₹4,859","₹54,223",Word of Mouth,14,UPI,Yes,0,Mumbai
+ba277802-9c81-4e45-9157-d699a7d2fed9,2022-12-27,21,Female,0,692,Manufacturing,"₹31,169","₹27,926",Word of Mouth,47,UPI,No,0,Mumbai
+3fd46cbe-d3b8-4423-a191-053bc1e51ee4,2022-12-28,25,Female,0,481,Healthcare,"₹13,309","₹29,783",Word of Mouth,46,Bank Transfer,Yes,5,Mumbai
+9425148a-284c-43bc-a1fd-5388933b9780,2023-07-26,52,Female,1,306,Finance,"₹38,928","₹84,360",Google Ads,19,Bank Transfer,No,1,Mumbai
+a2af6176-b08e-44b6-8b65-8bfae6e60ddd,2024-03-13,54,Male,1,258,Retail,"₹29,954","₹37,394",Partner Website,26,Bank Transfer,Yes,7,Mumbai
+a92ca17e-d4e1-4462-939d-f101dfb7cfe0,2023-04-02,62,Female,1,200,E-Commerce,"₹7,754","₹65,796",Facebook Ads,17,Bank Transfer,No,5,Mumbai
+2e839967-b156-4582-aaf7-d1695cd4d318,2023-11-21,62,Female,1,242,Tech,"₹46,090","₹29,287",Referral Program,28,UPI,Yes,2,Mumbai
+44691f11-24d0-45f7-abbd-a7e4d447b99a,2024-04-18,35,Male,1,311,Healthcare,"₹25,285","₹83,104",Direct Traffic,19,Credit Card,No,0,Mumbai
+942ea11c-0757-46dc-beab-528d5ad2c43a,2024-06-29,37,Female,1,70,Finance,"₹2,593","₹31,436",Word of Mouth,27,Bank Transfer,Yes,7,Mumbai
+d29e78da-b86d-4152-b90c-2c438af201f1,2024-08-16,42,Male,1,151,Consulting,"₹44,998","₹87,916",Direct Traffic,48,Bank Transfer,No,1,Mumbai
+e9b04e2b-6f4c-41a9-9572-7fb4022184a4,2023-08-04,40,Female,1,256,Manufacturing,"₹41,485","₹91,332",Referral Program,19,UPI,No,3,Mumbai
+71e66737-5ac6-474d-8d6f-19142f311072,2023-10-28,18,Male,0,323,Tech,"₹32,509","₹74,567",Partner Website,33,Bank Transfer,Yes,6,Mumbai
+00d9a988-b0e0-484e-ac77-a31b53b7d90c,2023-02-02,36,Male,0,629,Consulting,"₹17,058","₹88,483",Facebook Ads,7,Bank Transfer,No,6,Mumbai
+40b168c2-3375-4ac5-b2a2-c8a9b6f1733c,2024-03-13,35,Male,0,296,Retail,"₹18,218","₹4,188",Email Campaign,29,UPI,No,7,Mumbai
+b30cee62-fd0c-4226-b192-73b671193b8b,2022-11-23,64,Male,0,570,E-Commerce,"₹17,205","₹92,205",Referral Program,43,Bank Transfer,Yes,1,Mumbai
+aef6fa23-78bb-4492-8590-a48435fc6b14,2023-08-09,23,Male,1,480,Education,"₹22,582","₹98,349",Direct Traffic,5,Bank Transfer,Yes,7,Mumbai
+aeb12a90-0319-4fc4-8820-9b9c9d5cc752,2023-09-02,57,Female,0,478,Education,"₹12,842","₹7,765",Direct Traffic,30,UPI,Yes,0,Mumbai
+816605b7-9a89-43ad-ae59-891024c1df82,2023-07-10,38,Female,1,90,Finance,"₹12,739","₹52,626",Direct Traffic,49,Credit Card,Yes,0,Mumbai
+d79ac172-b3b1-405b-808d-8301050d82c8,2024-04-29,56,Male,0,531,E-Commerce,"₹47,122","₹89,707",Email Campaign,43,Bank Transfer,Yes,8,Mumbai
+0c1ecfe3-120e-4fad-b018-bb2535b2ccca,2023-03-17,52,Male,1,176,Tech,"₹47,165","₹11,807",Referral Program,8,Bank Transfer,Yes,0,Mumbai
+3c44abab-52de-46aa-b29e-b68b1073202c,2022-10-13,33,Male,1,715,Healthcare,"₹32,774","₹11,204",Direct Traffic,42,Credit Card,No,0,Mumbai
+0e64b355-ad0b-43a4-9e06-53897ba0ded5,2022-12-12,21,Female,0,363,Tech,"₹11,919","₹93,602",Email Campaign,12,UPI,No,0,Mumbai
+19ea5553-b2c9-4ed2-95dd-597f1a66a8ab,2023-12-28,62,Male,0,171,E-Commerce,"₹43,332","₹58,944",Word of Mouth,42,Credit Card,No,0,Mumbai
+bc580f99-f8c2-4f5a-a751-1e512f1f941e,2023-10-27,55,Female,1,73,Consulting,"₹15,503","₹43,120",Direct Traffic,13,Bank Transfer,Yes,0,Mumbai
+bbff7247-1c49-4f86-a386-ac1182e54f8e,2024-04-14,29,Male,1,173,Manufacturing,"₹31,366","₹23,658",Referral Program,26,Credit Card,Yes,0,Mumbai
+86636f1e-d680-46ef-b32d-c30c6791b0bb,2024-06-16,62,Female,1,362,Education,"₹22,488","₹38,081",Email Campaign,18,UPI,No,5,Mumbai
+736aa5c4-5200-4534-8f62-fb16f871736f,2024-10-05,43,Male,0,526,Finance,"₹43,527","₹35,986",Partner Website,42,Bank Transfer,No,5,Mumbai
+ba0bf6b2-c32d-4c74-82da-4e00949515d4,2024-04-04,61,Female,0,425,Retail,"₹25,408","₹80,322",Google Ads,49,UPI,Yes,0,Mumbai
+ab7952d3-ee6e-41af-b0b0-f18f5f1b4a94,2024-01-01,58,Female,1,84,Tech,"₹6,174","₹95,819",Email Campaign,20,UPI,No,7,Mumbai
+9f59bd96-9821-44f2-b89d-77e2219ec61d,2024-05-11,28,Female,0,336,Education,"₹5,502","₹51,304",Google Ads,16,Credit Card,Yes,0,Mumbai
+075a564a-a8f9-47e7-943f-6eb705209286,2023-01-19,64,Female,1,452,Healthcare,"₹28,067","₹66,592",Google Ads,37,Credit Card,Yes,9,Mumbai
+f22d40d2-a5e0-4517-877c-e5e3cd1ec6bf,2023-11-05,35,Male,0,446,Finance,"₹1,410","₹59,548",Facebook Ads,3,UPI,No,1,Mumbai
+c765ca2a-7532-4ac6-b5a6-cd2ef31d0475,2024-05-31,46,Male,0,702,Retail,"₹29,572","₹99,447",Word of Mouth,27,UPI,Yes,1,Mumbai
+bf790f8f-1dd7-49fd-b713-7c941bb08ba1,2023-09-30,28,Male,0,354,Tech,"₹34,217","₹40,986",Partner Website,15,Bank Transfer,Yes,0,Mumbai
+5602cdce-68bb-4dd8-a977-b09522cc2893,2023-03-18,44,Female,0,700,Healthcare,"₹22,309","₹75,095",Google Ads,34,UPI,Yes,1,Mumbai
+d58f8ea9-9f3e-4da3-b819-8be99f4b3480,2024-02-13,43,Female,0,109,Retail,"₹27,151","₹92,594",Instagram Ads,45,UPI,Yes,4,Mumbai
+68da5a23-6461-44bf-97e6-4bebe4fc975b,2023-05-01,63,Female,1,60,Manufacturing,"₹44,791","₹89,281",Word of Mouth,22,Credit Card,No,0,Mumbai
+f158474b-48af-475c-9dfc-690e39541f31,2023-04-25,47,Male,1,141,Education,"₹44,489","₹67,151",Google Ads,40,UPI,Yes,0,Mumbai
+4c5b27e5-a4f0-4da4-a279-415a8f950085,2024-05-22,25,Female,0,587,Manufacturing,"₹16,984","₹74,598",Email Campaign,23,UPI,Yes,2,Mumbai
+47456ea5-da71-4016-84da-fc10ae019472,2023-08-26,28,Female,1,593,Education,"₹5,146","₹29,214",Google Ads,49,Credit Card,No,0,Mumbai
+f01bc026-12b5-4f7f-98d6-a4462bd26c56,2023-05-27,30,Male,1,679,Healthcare,"₹40,213","₹39,745",Email Campaign,4,Bank Transfer,Yes,8,Mumbai
+ec8ff21e-04d4-4d29-8358-4f095e5870e4,2022-10-29,63,Male,0,501,Consulting,"₹2,900","₹43,548",Direct Traffic,41,Credit Card,Yes,2,Mumbai
+940f05c9-921a-4440-b26c-e56839e1d17c,2024-03-04,50,Male,1,103,Manufacturing,"₹44,831","₹11,681",Email Campaign,23,Credit Card,No,0,Mumbai
+c5043761-955d-495d-9bca-1082b8872b9e,2024-02-08,21,Female,0,582,Education,"₹22,685","₹7,984",Instagram Ads,47,UPI,No,0,Mumbai
+4b07d003-68f7-4579-9b9f-2ec2bad28812,2023-11-28,56,Male,1,508,Finance,"₹19,227","₹28,579",Google Ads,9,UPI,Yes,2,Mumbai
+b4c67f7a-30b0-4fc4-a8ac-1fc5e1722d0c,2023-12-19,60,Female,1,618,Healthcare,"₹33,620","₹91,810",Google Ads,24,Bank Transfer,Yes,0,Mumbai
+cdb3869b-4fce-4c1a-ba0b-61e112bb66bd,2022-12-31,18,Male,1,416,Education,"₹48,757","₹55,933",Referral Program,21,UPI,No,9,Mumbai
+7772db15-c9b0-4988-8587-1bf870f31055,2024-01-03,55,Female,1,728,Tech,"₹1,518","₹28,399",Word of Mouth,41,Bank Transfer,Yes,0,Mumbai
+404fdea0-7d59-4dd4-888a-4ea91ece105b,2024-09-07,35,Male,1,593,Education,"₹18,063","₹32,481",Referral Program,46,Bank Transfer,Yes,0,Mumbai
+76a91213-bc32-4f3f-b02e-36a6e7c972f2,2024-05-08,36,Female,1,462,Manufacturing,"₹5,693","₹1,944",Facebook Ads,16,Bank Transfer,Yes,0,Mumbai
+b91d5fd4-0761-48cd-b383-0826613bbef8,2024-03-10,54,Female,1,441,Finance,"₹16,201","₹94,993",Email Campaign,25,Bank Transfer,No,0,Mumbai
+91e37858-529c-4c12-af08-964215bdd716,2024-01-14,41,Male,0,496,Retail,"₹4,036","₹10,114",Instagram Ads,26,UPI,Yes,0,Mumbai
+4ff3e884-bb97-4872-abb5-4f5c975961ac,2024-01-10,56,Male,0,628,Consulting,"₹48,717","₹40,846",Referral Program,49,Credit Card,No,2,Mumbai
+f169da1f-9396-440c-a775-f5a6b1e7a4db,2024-05-28,56,Male,0,650,Retail,"₹45,110","₹84,666",Google Ads,45,Credit Card,No,7,Mumbai
+768a1d64-5ec9-4983-bfa6-35e905145730,2023-03-01,50,Female,0,277,Education,"₹19,386","₹78,848",Facebook Ads,9,UPI,No,6,Mumbai
+dd20fa17-f044-4c83-b219-a9511e5c63d5,2023-09-16,48,Female,1,610,Retail,"₹37,087","₹33,596",Instagram Ads,15,UPI,No,0,Mumbai
+3cc58423-3cde-4be1-831e-05df6a3868a7,2023-12-07,64,Female,1,149,Education,"₹29,910","₹76,287",Partner Website,39,Bank Transfer,Yes,4,Mumbai
+d3975420-3f4f-4e97-95a9-b3c5f31ee764,2022-11-05,20,Male,1,96,Finance,"₹34,244","₹7,907",Google Ads,33,UPI,No,2,Mumbai
+c6336d12-9e59-419e-8d5a-3e902b8e0428,2023-03-27,30,Female,0,602,Retail,"₹39,165","₹29,114",Google Ads,1,Credit Card,Yes,0,Mumbai
+82be1988-62b9-4073-88d5-37c271c738da,2024-08-15,54,Male,0,356,Manufacturing,"₹16,457","₹26,009",Direct Traffic,5,UPI,No,0,Mumbai
+7545d1af-2966-4a56-b710-386ca7b03f87,2024-05-16,39,Male,0,499,Manufacturing,"₹48,627","₹85,846",Partner Website,9,UPI,No,0,Mumbai
+149de11d-5cc8-4e8e-911a-cd8987e2355f,2024-02-12,55,Female,1,522,Tech,"₹46,508","₹51,241",Email Campaign,44,Bank Transfer,Yes,5,Mumbai
+076c4612-3735-4b39-a5ad-bae3292c9fda,2024-05-12,35,Male,0,692,Education,"₹33,375","₹36,725",Email Campaign,6,Bank Transfer,No,5,Mumbai
+8e319957-da0b-4a40-b347-7afb570a9215,2024-05-16,22,Female,1,315,Retail,"₹48,792","₹19,996",Referral Program,28,Bank Transfer,No,0,Mumbai
+51ff9760-1d57-49fe-8d1f-3e9a20510637,2023-02-26,31,Female,0,637,Manufacturing,"₹2,126","₹7,047",Referral Program,45,Bank Transfer,Yes,8,Mumbai
+1de37cd1-4b2b-4294-bae3-b6af60cd6fd0,2024-08-16,47,Female,1,341,E-Commerce,"₹25,779","₹29,767",Google Ads,26,Credit Card,No,9,Mumbai
+f738783e-9d84-475a-9d44-2fc6330da2d2,2024-02-14,18,Male,0,338,Finance,"₹6,729","₹17,347",Word of Mouth,28,UPI,No,0,Mumbai
+c430cfe5-5557-4d0a-9d0a-38dcde66d411,2023-09-26,53,Male,1,126,Consulting,"₹7,377","₹25,102",Google Ads,40,UPI,No,5,Mumbai
+d74589ca-8057-4600-aeee-ac13c86d6ed7,2024-02-06,56,Female,0,142,Finance,"₹34,142","₹5,263",Referral Program,15,Bank Transfer,Yes,0,Mumbai
+e672b920-9752-409b-9b86-1c02d5c81fb9,2022-10-26,64,Female,0,666,E-Commerce,"₹38,811","₹68,438",Partner Website,6,Credit Card,No,8,Mumbai
+eaf9dc08-b9b8-4cd2-b252-c8d4e611d1ff,2023-01-09,51,Female,1,485,E-Commerce,"₹32,856","₹97,359",Referral Program,27,Credit Card,Yes,0,Mumbai
+8153be28-f7c0-4c52-a8b4-97c13e363b78,2023-08-21,25,Female,1,492,Tech,"₹4,309","₹31,540",Google Ads,38,UPI,Yes,8,Mumbai
+ba411fd8-2b9a-42be-b454-6f565ef00f47,2023-06-07,38,Male,0,161,Finance,"₹43,871","₹76,726",Instagram Ads,4,Bank Transfer,Yes,6,Mumbai
+6b652dd3-cddf-479d-b118-5d0e6f109e13,2023-05-02,38,Male,1,150,Finance,"₹35,375","₹64,769",Google Ads,11,UPI,No,0,Mumbai
+62536c89-4659-40cb-8c32-a8f4e418b557,2022-11-25,41,Male,0,226,Retail,"₹45,013","₹41,843",Instagram Ads,21,UPI,No,0,Mumbai
+a12b7c14-08f8-4d82-b5b3-78982349a14a,2023-12-13,35,Male,1,511,Education,"₹9,965","₹28,690",Instagram Ads,30,Credit Card,No,0,Mumbai
+f4f8a998-bf4d-451a-a17f-cff3eefbaa09,2023-12-11,45,Male,0,663,Healthcare,"₹1,059","₹3,994",Google Ads,18,Credit Card,No,0,Mumbai
+0fab4b82-6f11-4509-ac94-118a55cf2b9f,2024-06-01,40,Female,1,68,Consulting,"₹8,808","₹68,546",Word of Mouth,35,UPI,Yes,3,Mumbai
+fa006ed4-b97f-4c7e-bb5a-92cdf2ab4d18,2024-09-17,31,Male,0,595,Finance,"₹21,853","₹8,377",Word of Mouth,3,Bank Transfer,Yes,0,Mumbai
+5d3bbf20-816c-4c34-82d3-bf308df9be6f,2023-04-01,44,Male,0,541,Consulting,"₹15,750","₹79,572",Facebook Ads,12,Bank Transfer,No,0,Mumbai
+91d635f5-f956-4a83-88d2-f2e25e082893,2024-06-18,33,Male,0,503,Consulting,"₹46,523","₹27,467",Referral Program,27,UPI,No,0,Mumbai
+08d9dfeb-ab43-4576-b42d-be732bfa7ea8,2023-07-31,37,Female,1,190,Consulting,"₹36,314","₹1,048",Word of Mouth,30,UPI,Yes,0,Mumbai
+2ca39e9e-50c3-4a67-9e3f-5fe1a3e9c339,2024-07-07,22,Male,0,318,Finance,"₹47,124","₹37,978",Email Campaign,21,Bank Transfer,No,0,Mumbai
+a1c146e0-136a-4b85-a86f-a9671dbb96e1,2023-10-28,56,Female,1,229,Healthcare,"₹16,927","₹48,606",Google Ads,38,Bank Transfer,No,5,Mumbai
+36eafdba-1c34-4b64-b08e-35a311bc9541,2023-07-21,54,Female,1,557,Finance,"₹33,776","₹82,574",Instagram Ads,21,Bank Transfer,No,0,Mumbai
+9fc7d36b-c8df-4609-b3ff-96b15dbdddaf,2024-05-17,37,Female,1,714,Retail,"₹6,607","₹99,112",Google Ads,38,UPI,No,0,Mumbai
+6c03e8c3-cb33-4cc1-9409-ad0f0dbf4b01,2024-07-17,58,Male,0,532,Retail,"₹13,976","₹74,414",Referral Program,40,Credit Card,No,0,Mumbai
+b901d73e-5727-44f4-bb58-ff9c10fae7b9,2024-05-19,43,Female,1,277,Healthcare,"₹3,939","₹94,145",Partner Website,15,Bank Transfer,No,3,Mumbai
+806baf52-2832-4a8e-81b1-69637bed8638,2023-01-29,40,Male,1,412,Manufacturing,"₹20,812","₹50,222",Word of Mouth,18,Bank Transfer,Yes,8,Mumbai
+5801817c-5eca-4699-8901-9dcd5dfa2c0e,2024-01-27,58,Female,1,247,Finance,"₹22,295","₹49,115",Word of Mouth,29,Bank Transfer,Yes,4,Mumbai
+57317007-b57e-4ce1-b367-1d7da2c33e22,2022-12-22,59,Female,0,116,Manufacturing,"₹13,636","₹90,606",Word of Mouth,48,UPI,Yes,0,Mumbai
+dfa431d5-ec4d-4ac6-8162-90ba231b07ea,2023-11-14,46,Female,1,111,Consulting,"₹14,667","₹41,647",Instagram Ads,38,Credit Card,Yes,0,Mumbai
+03fc0ef6-4e78-4e15-bd82-fe912bb2d05a,2023-01-27,61,Female,1,91,Finance,"₹17,800","₹55,607",Email Campaign,21,Credit Card,No,1,Mumbai
+9d2ea7bd-3a68-4fd5-b437-efcbc8a4a9ae,2024-07-22,51,Male,1,529,Education,"₹17,682","₹58,410",Direct Traffic,17,Bank Transfer,No,9,Mumbai
+4490999c-b205-46bf-9ba7-87d81c981209,2024-08-18,55,Female,1,71,Finance,"₹5,471","₹22,996",Email Campaign,41,UPI,Yes,0,Mumbai
+60389f5f-3d37-43b9-8a51-037929a26fa8,2023-07-17,37,Male,0,41,Retail,"₹27,409","₹55,921",Word of Mouth,18,Credit Card,Yes,0,Mumbai
+dff576d4-bfbc-40c9-8928-b7bf93c0b05c,2023-10-12,44,Female,0,672,Tech,"₹20,159","₹84,697",Email Campaign,37,UPI,Yes,0,Mumbai
+80d9f0ef-b05b-47f9-b3a7-f345ce982f2a,2022-12-11,56,Male,1,144,E-Commerce,"₹31,903","₹47,022",Partner Website,38,Credit Card,Yes,8,Mumbai
+9112813f-39a6-4d21-8e79-d2878761f05d,2023-04-04,23,Male,1,247,Tech,"₹49,151","₹41,148",Word of Mouth,12,Bank Transfer,Yes,0,Mumbai
+f0abfc6e-e844-4f64-8ad8-8e1e82472008,2024-04-21,33,Female,1,678,Tech,"₹34,086","₹68,764",Facebook Ads,11,UPI,No,0,Mumbai
+43efeb94-48ba-466b-9e30-c15c7dbdd48c,2023-04-03,38,Female,1,135,Tech,"₹10,860","₹92,901",Instagram Ads,48,Bank Transfer,No,8,Mumbai
+cc69bc2a-16ae-40e0-b3d2-26254cf425f4,2024-04-26,20,Female,0,720,E-Commerce,"₹21,924","₹91,724",Partner Website,49,Credit Card,Yes,6,Mumbai
+ecdd9e0e-7dfc-4400-a438-700a7ada9baa,2023-10-11,51,Female,0,557,Manufacturing,"₹32,999","₹9,888",Direct Traffic,20,Credit Card,Yes,9,Mumbai
+31d94fae-eaa0-4fb2-a3e9-7072c0aaa229,2024-01-13,65,Female,0,501,E-Commerce,"₹45,195","₹89,666",Instagram Ads,9,Bank Transfer,No,0,Mumbai
+c3dc1b87-e14c-4eb7-b291-6c255fc8492c,2024-07-31,31,Male,0,416,Manufacturing,"₹49,291","₹40,159",Direct Traffic,1,Credit Card,No,9,Mumbai
+9f64507b-1e11-4beb-95a3-27784dc9e9f7,2023-03-27,65,Female,1,255,E-Commerce,"₹3,565","₹43,197",Word of Mouth,3,Bank Transfer,No,6,Mumbai
+ae4c75b7-2f4d-40f6-b321-10d3286878dc,2023-09-29,25,Male,1,510,E-Commerce,"₹3,759","₹85,326",Partner Website,21,Bank Transfer,Yes,0,Mumbai
+aa9ceb45-0c09-4dd7-b0af-aa90878fded4,2023-09-25,36,Male,0,437,Finance,"₹12,800","₹91,360",Word of Mouth,23,Bank Transfer,No,0,Mumbai
+9880e342-ef57-4c91-8ce0-d80155202bc9,2024-04-21,65,Female,0,486,Manufacturing,"₹33,870","₹99,941",Direct Traffic,9,Credit Card,Yes,5,Mumbai
+f4778f88-2c1e-4fec-bae8-40bed9103c37,2023-01-10,57,Male,1,682,Finance,"₹4,795","₹25,474",Direct Traffic,19,UPI,Yes,0,Mumbai
+10ea4ebf-5532-41be-8bf1-3d76a53bb332,2022-10-27,21,Male,1,653,Education,"₹27,709","₹18,333",Partner Website,45,Bank Transfer,No,8,Mumbai
+c9cfc11d-4699-4f0e-89e6-caca5d43420d,2023-05-18,57,Male,1,668,Finance,"₹43,251","₹37,355",Word of Mouth,46,UPI,No,0,Mumbai
+ba97f6c3-e286-43e2-8b95-abd23396acd0,2022-11-15,54,Male,1,50,Tech,"₹36,795","₹74,903",Facebook Ads,19,Credit Card,No,0,Mumbai
+9ed9c011-9c3b-4522-a5dc-6656d9670288,2023-02-14,60,Female,1,688,Healthcare,"₹21,427","₹67,258",Instagram Ads,23,Credit Card,Yes,6,Mumbai
+4e213302-50c7-42e0-bf14-7d733348fd9e,2024-06-07,65,Male,0,630,Healthcare,"₹35,079","₹32,145",Partner Website,27,UPI,No,5,Mumbai
+44dd57f3-4efd-45b6-bfc3-f317eb24f714,2024-04-13,49,Male,0,232,Retail,"₹45,371","₹76,675",Facebook Ads,27,Bank Transfer,No,1,Mumbai
+4d6e9545-3888-4c27-81e1-acd2a94c9866,2023-12-07,35,Male,1,446,Retail,"₹9,532","₹50,854",Google Ads,39,Credit Card,Yes,0,Mumbai
+50360791-288a-4193-b5d9-985eec48a706,2023-08-27,41,Male,1,445,Consulting,"₹28,218","₹68,664",Word of Mouth,36,Bank Transfer,No,8,Mumbai
+aae8d79d-9905-4288-b362-27c1e1dbdeee,2023-10-13,39,Female,0,477,Finance,"₹13,377","₹87,153",Referral Program,12,Bank Transfer,No,0,Mumbai
+9463f686-f6ca-40e7-8baf-43af61cd98c5,2024-07-27,32,Male,1,541,E-Commerce,"₹41,231","₹94,616",Partner Website,27,UPI,Yes,0,Mumbai
+5d9502df-c809-48b4-a876-b3ed0890ad13,2023-12-28,47,Female,0,114,E-Commerce,"₹48,492","₹36,285",Email Campaign,46,Credit Card,Yes,4,Mumbai
+fafe1893-ff98-452d-8d90-392470d808ed,2024-07-09,34,Male,0,196,Healthcare,"₹27,166","₹18,533",Facebook Ads,34,UPI,Yes,0,Mumbai
+d5cc2ff8-4223-4ada-ba2f-129767001b4b,2022-11-07,40,Male,0,413,Tech,"₹42,184","₹33,624",Facebook Ads,33,Credit Card,Yes,0,Mumbai
+01ce87a3-6623-4e72-ac59-9fdcc7060846,2023-07-19,40,Female,0,497,Manufacturing,"₹7,266","₹47,996",Partner Website,28,UPI,Yes,5,Mumbai
+d5e13385-a1d3-4792-a834-a2f80fd96ec6,2024-06-10,34,Female,1,101,Tech,"₹23,329","₹47,947",Direct Traffic,31,Credit Card,No,0,Mumbai
+987c4ba7-9d1e-4cbd-b99d-664eb4e74bf3,2023-11-15,46,Female,1,550,Consulting,"₹20,721","₹28,956",Facebook Ads,32,Credit Card,No,0,Mumbai
+650bf95d-8a3e-403e-85af-97776ce52c19,2024-02-05,48,Female,0,502,Tech,"₹25,602","₹52,030",Google Ads,20,Credit Card,Yes,2,Mumbai
+7ff3f4ad-a2c8-4518-95c9-dacca1c377aa,2023-09-03,53,Female,1,287,Finance,"₹34,933","₹59,597",Facebook Ads,40,Bank Transfer,No,4,Mumbai
+6c8d0496-7618-4471-a261-c66c0da254e0,2023-02-03,54,Female,1,304,Finance,"₹16,432","₹43,443",Referral Program,35,Bank Transfer,No,0,Mumbai
+8e13e9ac-592f-43e6-9bce-3540eaa80ea0,2022-11-12,27,Male,1,49,Education,"₹26,214","₹99,613",Referral Program,31,UPI,Yes,0,Mumbai
+bf604187-0017-4e1a-b5d5-a6f28f727e08,2024-08-30,44,Female,1,519,Consulting,"₹40,243","₹66,464",Direct Traffic,31,UPI,Yes,0,Mumbai
+37811cc6-93b1-4175-af60-6cacd584d2bf,2024-03-18,38,Female,0,519,Tech,"₹3,052","₹4,952",Word of Mouth,38,Credit Card,Yes,0,Mumbai
+df35ccc8-63db-4c86-8f4f-c639464177ee,2023-08-11,53,Female,1,355,E-Commerce,"₹46,487","₹57,880",Word of Mouth,22,Credit Card,No,7,Mumbai
+0184268d-6016-45bc-906a-fafeb66aa04a,2023-05-25,20,Male,0,558,E-Commerce,"₹14,774","₹53,201",Direct Traffic,45,Bank Transfer,Yes,0,Mumbai
+d9b218c5-1cbf-4d0f-b13f-3cf77785af61,2022-11-30,57,Male,0,118,Consulting,"₹45,880","₹43,460",Email Campaign,41,Bank Transfer,No,0,Mumbai
+b2cc8ac9-8638-4171-8b72-d6b0d759a60f,2023-04-19,62,Female,1,515,Tech,"₹29,750","₹23,796",Google Ads,9,Bank Transfer,No,0,Mumbai
+db3a3266-0a14-4f07-9762-748f1ac56e29,2023-06-09,64,Female,0,379,Finance,"₹3,308","₹32,746",Referral Program,9,UPI,No,0,Mumbai
+d1996627-027e-48c2-9c64-5c138ced0b49,2023-12-03,41,Female,1,113,Finance,"₹44,358","₹87,785",Direct Traffic,15,Bank Transfer,No,5,Mumbai
+9a3a8ecf-b40e-4861-b546-492875b0df8e,2023-04-07,65,Female,1,416,Education,"₹45,528","₹1,015",Partner Website,13,UPI,Yes,0,Mumbai
+179be45b-44d1-4130-bf75-20199e6b6c90,2023-11-14,63,Male,0,116,Education,"₹15,795","₹50,757",Instagram Ads,22,Bank Transfer,No,6,Mumbai
+b588189b-82b5-4214-88d5-44252220a10c,2023-05-26,65,Female,1,336,Retail,"₹48,105","₹26,957",Instagram Ads,16,Bank Transfer,Yes,1,Mumbai
+ca1b0d10-40a2-4787-b220-4871cf547942,2024-06-21,39,Female,0,183,Consulting,"₹15,169","₹82,541",Instagram Ads,32,Credit Card,No,5,Mumbai
+c6468615-af70-498b-beb1-fe18c8a3eb07,2024-08-06,26,Female,0,469,Healthcare,"₹11,023","₹22,292",Word of Mouth,2,UPI,Yes,9,Mumbai
+790be342-331e-4093-b3bb-efd443c865bd,2023-11-01,42,Female,1,293,Tech,"₹46,030","₹32,876",Partner Website,26,Bank Transfer,Yes,4,Mumbai
+73d9a783-4c9d-48f5-8e44-d04d04698c5e,2022-11-13,20,Female,1,450,Consulting,"₹14,269","₹61,727",Facebook Ads,14,Credit Card,Yes,0,Mumbai
+36a368e3-2044-4d66-be91-55b5dee0d54c,2024-05-01,28,Male,1,522,E-Commerce,"₹46,999","₹48,046",Partner Website,38,UPI,No,1,Mumbai
+0a5f0f5f-1a1e-47c1-a414-cd7bd26d7d21,2024-09-21,32,Male,0,662,Tech,"₹45,145","₹15,817",Facebook Ads,34,UPI,No,2,Mumbai
+9f6bddd7-4609-4fe8-aa20-b4ef865805fe,2024-05-07,35,Male,1,440,Education,"₹25,707","₹92,006",Instagram Ads,8,Bank Transfer,No,3,Mumbai
+3580cdfa-f838-4f19-9042-5e8b653cc74e,2023-10-21,34,Male,0,202,Education,"₹35,724","₹10,759",Email Campaign,36,UPI,Yes,0,Mumbai
+2f9d4135-e243-4082-9b2c-1444c1993b39,2023-03-02,21,Female,0,33,Retail,"₹26,057","₹49,432",Email Campaign,21,Credit Card,No,7,Mumbai
+7ab637de-77f5-4cec-bca8-91f8ded9a763,2023-09-27,18,Male,1,669,Healthcare,"₹38,691","₹7,412",Direct Traffic,46,Credit Card,No,0,Mumbai
+2600bb10-d4b2-4898-93eb-5062b634b923,2024-09-12,45,Male,1,501,Retail,"₹14,746","₹58,757",Facebook Ads,43,UPI,No,8,Mumbai
+8a0cc0c7-5325-42e1-ab2a-4d309221cd51,2024-09-19,64,Male,1,139,E-Commerce,"₹13,346","₹21,504",Instagram Ads,28,Credit Card,Yes,9,Mumbai
+ede92816-3576-4584-b291-f45bb5bb3953,2024-06-17,55,Female,0,66,Healthcare,"₹37,585","₹9,507",Partner Website,46,UPI,No,0,Mumbai
+fe7a7801-e906-49a2-854f-d5ca973018d9,2023-04-23,58,Female,1,612,Manufacturing,"₹45,903","₹22,050",Email Campaign,44,Credit Card,No,0,Mumbai
+27683164-fd07-455d-b1fe-f1564546ad32,2024-05-24,32,Female,0,60,Tech,"₹13,970","₹5,820",Facebook Ads,48,UPI,Yes,0,Mumbai
+0bf5cbc8-c04d-48d5-92c9-aabc0430428c,2023-03-25,50,Female,1,410,Retail,"₹13,676","₹8,835",Direct Traffic,6,UPI,Yes,2,Mumbai
+2321ac0f-d804-46eb-b5d9-94c1221a0e30,2022-11-05,57,Female,1,297,Education,"₹42,381","₹94,167",Partner Website,20,UPI,Yes,0,Mumbai
+92ae2990-37c3-43a5-be6b-83f72b4ddb6d,2024-04-16,50,Female,0,40,Retail,"₹14,046","₹14,587",Instagram Ads,31,Credit Card,Yes,0,Mumbai
+1ccf434b-d9af-4b53-9289-faca48b1bb13,2023-08-03,36,Male,0,373,Manufacturing,"₹7,305","₹58,732",Google Ads,33,UPI,Yes,0,Mumbai
+afb0a874-73a6-4bd6-9aff-8fe688b61bbd,2023-05-09,53,Male,1,573,Retail,"₹17,288","₹52,921",Instagram Ads,44,UPI,Yes,0,Mumbai
+618aa9b1-717d-4ff5-92df-f337c0812e9b,2023-06-08,22,Male,1,598,Tech,"₹29,848","₹46,499",Word of Mouth,7,Bank Transfer,No,0,Mumbai
+4781a5a3-52e4-4bb8-a675-4cd920c07f83,2024-05-15,25,Female,1,195,Manufacturing,"₹8,580","₹7,840",Instagram Ads,8,Bank Transfer,No,3,Mumbai
+3d2fb8bb-a0bd-4487-a477-c499498da83d,2023-10-15,29,Female,1,729,Consulting,"₹36,386","₹66,077",Direct Traffic,9,UPI,Yes,0,Mumbai
+a5c87715-dbe1-4598-af02-06d1b6397466,2024-07-20,26,Male,1,371,Consulting,"₹24,264","₹32,440",Partner Website,2,Bank Transfer,No,4,Mumbai
+5b29d7af-ee48-458e-b0cc-51da1b6ecce2,2023-03-06,44,Male,0,511,Consulting,"₹7,130","₹36,183",Direct Traffic,17,UPI,Yes,0,Mumbai
+80dc5a14-2879-4621-88de-0f617c648920,2023-04-27,32,Female,0,48,Education,"₹33,833","₹97,172",Partner Website,45,Bank Transfer,No,0,Mumbai
+60952681-0bc2-4452-82dc-41bb0c0a7d26,2024-03-09,29,Female,0,657,Education,"₹16,201","₹3,389",Referral Program,37,Credit Card,Yes,3,Mumbai
+8153da68-d96b-4922-b413-495e69360f7d,2023-01-16,18,Female,0,213,Consulting,"₹15,359","₹56,076",Referral Program,42,Credit Card,Yes,8,Mumbai
+92c2d2c7-1aac-4b3a-998f-b76552f32282,2024-02-25,61,Male,1,574,Consulting,"₹21,683","₹67,299",Partner Website,44,UPI,No,4,Mumbai
+e9f6c0c4-424f-4e24-90be-f1f136f331f4,2023-04-30,33,Male,0,39,Consulting,"₹40,938","₹90,461",Partner Website,17,UPI,No,4,Mumbai
+2ea39737-ed97-46a0-aa1d-9408bd5b8259,2022-12-14,41,Male,0,621,Finance,"₹32,249","₹93,085",Google Ads,38,Credit Card,No,0,Mumbai
+29607fb4-7680-46fa-82b4-04ec68c4e71c,2023-04-29,51,Female,0,221,Consulting,"₹32,387","₹40,023",Google Ads,35,Credit Card,No,7,Mumbai
+98863b30-af2c-46a2-b83a-ca051094584c,2023-07-28,34,Male,1,349,Manufacturing,"₹42,744","₹51,029",Instagram Ads,47,Bank Transfer,No,0,Mumbai
+275c3355-8fe1-4a67-9c8a-9a41faf70a84,2024-04-12,21,Male,0,609,Finance,"₹9,276","₹40,941",Direct Traffic,39,UPI,No,0,Mumbai
+cbeff91c-646c-4b4e-8d7e-d6c8d581d061,2023-01-17,51,Female,1,504,Finance,"₹15,521","₹89,993",Word of Mouth,30,Credit Card,No,0,Mumbai
+def2009c-4215-4dc6-9b28-5fd1ebd4caee,2024-06-05,55,Male,0,666,Tech,"₹4,827","₹54,950",Direct Traffic,6,Credit Card,No,4,Mumbai
+a50d6601-18be-4af3-9747-c2945fedac0f,2023-02-17,25,Male,1,456,Retail,"₹48,543","₹87,959",Email Campaign,4,UPI,Yes,8,Mumbai
+3196400b-118b-439a-8043-66a2246ca55f,2023-11-05,34,Male,0,88,Education,"₹8,114","₹77,054",Direct Traffic,37,Bank Transfer,No,6,Mumbai
+d4ac03be-be1e-41c2-a305-4fef79311d9b,2023-05-11,36,Male,1,465,Education,"₹1,745","₹66,363",Word of Mouth,35,Bank Transfer,No,0,Mumbai
+5a66dac6-3700-4d05-839f-631eb89129df,2024-02-02,53,Male,0,126,Retail,"₹41,511","₹62,742",Google Ads,9,Bank Transfer,Yes,9,Mumbai
+df065e3b-39a4-4b1e-977d-2717cf6ec044,2024-02-29,22,Female,1,525,Education,"₹10,855","₹98,896",Instagram Ads,6,Bank Transfer,Yes,8,Mumbai
+758bae7a-5b26-427e-b09c-374e1a78f619,2023-05-28,23,Male,1,690,Retail,"₹33,805","₹46,215",Word of Mouth,13,Credit Card,Yes,0,Mumbai
+cb0f4279-d727-4087-9460-117f4bba7360,2023-06-18,46,Female,0,307,Manufacturing,"₹49,192","₹48,857",Direct Traffic,22,UPI,Yes,5,Mumbai
+f804c77d-dcd3-446a-8378-856eb8543af3,2023-05-29,39,Female,1,294,Tech,"₹49,504","₹56,476",Facebook Ads,28,UPI,No,0,Mumbai
+a9f6f359-fe0b-4d17-9beb-0fb9288bfc3d,2023-08-03,30,Female,1,38,Consulting,"₹30,214","₹29,173",Referral Program,30,Credit Card,No,4,Mumbai
+77ee939a-be1b-4b60-ad7d-6c5e907fd670,2024-10-01,41,Female,0,486,Tech,"₹17,698","₹10,395",Word of Mouth,36,Credit Card,Yes,5,Mumbai
+347c5a18-9170-406f-b003-90a12cc912e2,2023-03-14,22,Male,0,302,E-Commerce,"₹1,915","₹60,768",Email Campaign,2,Credit Card,Yes,9,Mumbai
+e3aa6972-a665-4986-b67f-de0a12c5c76f,2024-02-15,65,Female,1,37,Tech,"₹44,298","₹85,743",Instagram Ads,36,UPI,No,9,Mumbai
+809b60af-149d-4a4a-941d-eb7a20523156,2023-09-19,37,Male,0,237,Retail,"₹2,152","₹47,229",Word of Mouth,8,UPI,No,3,Mumbai
+f87b84fe-4ee1-4dba-8c11-658ff9dcc8be,2023-04-11,45,Male,0,666,E-Commerce,"₹44,125","₹27,639",Partner Website,45,UPI,No,0,Mumbai
+b10cf1a8-42af-4367-b024-df56187abd91,2023-02-11,27,Male,0,152,Retail,"₹20,946","₹63,583",Direct Traffic,42,Bank Transfer,No,6,Mumbai
+45f9fd1d-8624-42b9-936b-db36ce57d470,2024-05-09,32,Female,1,62,Consulting,"₹19,240","₹29,924",Facebook Ads,9,Credit Card,Yes,4,Mumbai
+6c2ffac9-f306-45ee-a311-af74e105b727,2022-10-23,53,Male,1,542,Healthcare,"₹4,310","₹73,969",Referral Program,1,Credit Card,No,5,Mumbai
+11e665e2-09c7-43c0-890a-d453c4ec6a9a,2023-09-15,47,Female,1,233,E-Commerce,"₹17,069","₹31,104",Facebook Ads,13,Credit Card,Yes,2,Mumbai
+11625483-1b8f-4c18-8476-47ba3ed844dc,2023-11-05,50,Male,1,547,Consulting,"₹34,819","₹38,594",Instagram Ads,15,UPI,Yes,7,Mumbai
+95c73685-8ab3-4048-bff5-ce90c0ea7a07,2022-10-26,44,Female,1,546,Consulting,"₹14,084","₹4,664",Direct Traffic,32,Credit Card,Yes,4,Mumbai
+b097c830-b060-403f-95f0-1ccb9f0e1bfc,2024-04-19,30,Female,1,472,Education,"₹27,283","₹11,528",Google Ads,34,Credit Card,No,2,Mumbai
+640d0f33-ac73-4126-bdf9-7c7b33485812,2024-06-14,30,Male,1,621,Education,"₹34,029","₹29,190",Referral Program,43,Bank Transfer,Yes,0,Mumbai
+14700a80-23c4-4465-a68c-7d71b74f2616,2024-09-30,40,Male,0,718,Healthcare,"₹13,011","₹67,033",Direct Traffic,31,UPI,No,0,Mumbai
+f6cb3b17-ebdf-435f-bfe6-650f50ef6253,2023-04-25,33,Female,1,368,Healthcare,"₹9,971","₹62,161",Facebook Ads,14,Credit Card,Yes,2,Mumbai
+31e6ae0d-a37a-4a4e-8f7a-1cb138f453df,2022-11-08,25,Male,1,467,Tech,"₹45,735","₹74,177",Google Ads,47,UPI,No,0,Mumbai
+0e192101-a6b7-4bdd-ba31-d44f345eb077,2024-04-21,36,Male,0,474,Consulting,"₹6,663","₹71,179",Email Campaign,14,UPI,Yes,1,Mumbai
+63874f7d-52e9-4f1f-87dd-344385e68942,2022-12-21,40,Female,0,165,Healthcare,"₹16,565","₹71,592",Instagram Ads,48,UPI,Yes,0,Mumbai
+f1c207f1-a99a-4bf2-aecd-941838086ba9,2023-01-21,45,Female,0,416,Retail,"₹45,154","₹33,899",Instagram Ads,29,Bank Transfer,No,5,Mumbai
+d546159c-8665-4fd6-867a-11194361b31c,2023-02-09,54,Female,1,54,Consulting,"₹18,420","₹71,979",Referral Program,47,UPI,No,1,Mumbai
+36b49d4d-186f-40c0-be63-5b090e835f85,2024-02-13,18,Male,0,535,Finance,"₹39,469","₹18,241",Facebook Ads,19,UPI,Yes,0,Mumbai
+0853fd4e-73dd-4394-ba0b-d3c0d63eb59d,2023-06-09,25,Female,1,354,Retail,"₹48,848","₹47,211",Email Campaign,27,UPI,Yes,7,Mumbai
+b297fce4-6747-4afd-848c-321c6b0da0c3,2024-09-26,20,Female,1,724,E-Commerce,"₹19,654","₹64,472",Partner Website,9,Credit Card,No,0,Mumbai
+16a3d2a6-b091-4c02-866e-3787ef696394,2024-10-03,55,Female,1,709,Healthcare,"₹40,667","₹75,248",Referral Program,37,Bank Transfer,Yes,9,Mumbai
+65d1d389-b2ca-4b74-bbbb-b826d55f05e1,2024-06-15,62,Male,0,367,Education,"₹20,729","₹74,757",Direct Traffic,37,Credit Card,No,7,Mumbai
+51c56c0f-aa8d-4e53-8848-4d38e00e7bb1,2023-11-17,23,Male,0,719,Retail,"₹27,497","₹32,346",Partner Website,43,Bank Transfer,No,1,Mumbai
+e5fa8aa6-4b6c-4b6c-b4ad-d8dc18fd9d9a,2023-05-08,30,Female,1,124,Education,"₹21,601","₹82,196",Referral Program,28,Bank Transfer,Yes,3,Mumbai
+12a8c0f0-e78f-41f4-92f4-c89065546dcc,2024-09-15,39,Male,1,574,Retail,"₹40,891","₹78,124",Facebook Ads,24,UPI,No,0,Mumbai
+a7d9b794-04d7-4e3d-b69f-4b00a0183b9b,2023-05-11,61,Female,1,652,Education,"₹10,827","₹43,220",Email Campaign,28,UPI,Yes,4,Mumbai
+e8ae75a8-3922-4620-be1f-cdb5abf3b4e3,2024-08-06,46,Female,0,175,Manufacturing,"₹7,687","₹18,942",Facebook Ads,36,Credit Card,No,0,Mumbai
+3539e204-c5bd-4ba1-99e5-2a8646ae685e,2024-07-05,42,Male,1,260,Retail,"₹30,185","₹50,167",Instagram Ads,18,Bank Transfer,No,0,Mumbai
+271319f7-3b82-43e5-836a-d372ce3e4ab8,2024-05-27,45,Male,0,524,E-Commerce,"₹35,448","₹37,373",Partner Website,25,UPI,Yes,4,Mumbai
+33806d78-a69b-4e98-9775-1544e486aa2c,2024-09-17,33,Male,1,67,Education,"₹35,228","₹68,143",Google Ads,35,UPI,No,7,Mumbai
+3468cddc-2e40-4337-ae1b-3a662399337e,2023-01-17,24,Female,0,454,Finance,"₹38,421","₹3,016",Word of Mouth,4,UPI,Yes,0,Mumbai
+cbb85d7e-612d-4bf4-a3dc-c3caafc0d893,2023-12-21,47,Male,1,676,E-Commerce,"₹7,535","₹70,110",Direct Traffic,14,UPI,No,0,Mumbai
+4ede2ac6-5783-4e13-b1b9-f2a1f3132557,2023-11-24,42,Male,0,466,Tech,"₹11,971","₹47,309",Instagram Ads,39,Credit Card,No,8,Mumbai
+6fd79c08-b006-46d5-8459-0e9e1e0963e0,2024-01-13,23,Female,0,397,Retail,"₹28,960","₹8,274",Instagram Ads,26,Credit Card,No,0,Mumbai
+8b8016eb-d849-4e4c-a592-29fd38ac4932,2023-04-14,37,Female,0,374,Finance,"₹21,571","₹16,748",Partner Website,8,UPI,No,0,Mumbai
+01b810fb-acde-4a17-9254-fc7d713b5696,2024-05-13,49,Female,0,189,Tech,"₹1,082","₹21,175",Direct Traffic,24,UPI,Yes,0,Mumbai
+f19dc2a4-33f7-4b9f-bf2b-a3d539a5a2cb,2024-09-22,45,Male,0,579,Retail,"₹48,782","₹12,826",Referral Program,16,UPI,No,9,Mumbai
+3e4534e3-79f3-46d0-a9fa-e6f832890acd,2023-06-19,49,Female,0,691,Finance,"₹26,689","₹84,008",Instagram Ads,20,UPI,No,0,Mumbai
+1c45baa3-37f8-4579-83ef-b61dbdffcd57,2024-06-15,26,Male,1,570,Finance,"₹16,031","₹35,129",Word of Mouth,15,UPI,No,0,Mumbai
+e509d344-3e1c-4ef5-9e5b-cf361b7781b3,2023-11-14,47,Female,1,173,E-Commerce,"₹17,172","₹71,009",Email Campaign,7,Bank Transfer,Yes,0,Mumbai
+ebae14ea-9c05-4ca1-8487-008e892066ad,2024-05-24,40,Male,1,617,Manufacturing,"₹41,247","₹24,490",Instagram Ads,17,Bank Transfer,Yes,0,Mumbai
+b9d27fc8-e42a-4b55-b915-26c2a0b5cdda,2024-08-27,52,Male,1,686,Finance,"₹20,743","₹42,435",Email Campaign,22,Bank Transfer,Yes,3,Mumbai
+bca69a7a-e814-4f28-8725-07c170699bca,2023-07-29,20,Male,0,605,Manufacturing,"₹3,560","₹76,017",Facebook Ads,22,Bank Transfer,Yes,6,Mumbai
+fc17bc21-f7c2-45c4-b0c8-5b4321487713,2022-11-01,61,Female,1,374,Healthcare,"₹14,231","₹9,520",Direct Traffic,12,UPI,No,0,Mumbai
+b4c397d4-7f2a-4197-9901-a06c629e8062,2022-12-19,24,Male,0,298,E-Commerce,"₹12,794","₹92,951",Referral Program,18,Bank Transfer,No,0,Mumbai
+2b39d90b-c410-436c-8789-cc6ea2837061,2023-11-25,45,Female,0,725,Consulting,"₹21,219","₹84,106",Email Campaign,46,Bank Transfer,No,0,Mumbai
+79236657-e17f-4ccf-aec9-c6f4322e39b2,2023-12-26,37,Male,0,297,Education,"₹47,542","₹62,877",Instagram Ads,47,Credit Card,Yes,4,Mumbai
+1126f950-7bff-40aa-8540-e8fe3fa9052f,2023-05-03,25,Female,1,198,E-Commerce,"₹49,616","₹20,798",Referral Program,15,Bank Transfer,Yes,5,Mumbai
+2dc05dce-241d-4ef6-abf5-a12239ade82e,2024-09-07,61,Male,0,62,Tech,"₹26,825","₹55,638",Word of Mouth,37,Bank Transfer,No,0,Mumbai
+216c71db-c51d-4aaf-aab5-50781f2e4dfd,2023-10-30,53,Female,1,406,Education,"₹23,097","₹70,072",Referral Program,16,UPI,No,0,Mumbai
+e50559d8-40d2-452d-8ac3-d921e0915aba,2023-04-13,34,Male,1,243,Education,"₹2,403","₹68,309",Email Campaign,5,Bank Transfer,No,4,Mumbai
+9c88e6a4-225d-4564-883f-d13570954482,2023-02-21,24,Male,1,591,Consulting,"₹15,051","₹30,894",Direct Traffic,2,Bank Transfer,Yes,0,Mumbai
+8d10bda5-2f2b-4c7b-92ee-c533ad646a4e,2023-09-15,51,Male,1,469,Manufacturing,"₹28,251","₹63,963",Email Campaign,28,UPI,No,0,Mumbai
+1c4c1036-7927-4e4c-9b21-021b5bd4caf0,2022-12-03,50,Male,1,521,Consulting,"₹24,778","₹55,567",Google Ads,41,Bank Transfer,No,5,Mumbai
+d97df32e-6386-42f6-939a-b897af3e91a2,2023-03-19,46,Female,0,422,Consulting,"₹26,153","₹36,326",Google Ads,27,UPI,Yes,2,Mumbai
+8dbea109-0ae3-421b-a306-297a6e987a40,2023-07-12,38,Female,0,518,Education,"₹15,641","₹56,059",Referral Program,31,Bank Transfer,Yes,6,Mumbai
+b5cfbbf8-e08f-4f05-b8d8-f67cd863b642,2022-10-14,34,Male,1,58,Finance,"₹2,877","₹6,079",Partner Website,41,Credit Card,No,8,Mumbai
+764df085-ca7b-4032-bae7-548b681f35a8,2022-11-20,34,Female,0,68,Manufacturing,"₹34,115","₹26,838",Direct Traffic,36,Credit Card,Yes,5,Mumbai
+8a64d9cd-17a4-4117-a55d-dfb6aa7834e4,2023-08-02,59,Female,1,641,Education,"₹47,648","₹88,340",Partner Website,47,Bank Transfer,No,0,Mumbai
+a2d91619-5d77-48bb-85d1-9cbdaa79d579,2024-03-29,52,Female,0,202,Manufacturing,"₹27,952","₹48,109",Google Ads,43,Credit Card,No,8,Mumbai
+328735d9-ee24-4f58-a869-b84d3e26e5cf,2024-02-07,32,Female,0,46,Healthcare,"₹23,225","₹86,211",Instagram Ads,1,UPI,No,9,Mumbai
+0e02cf88-5a71-4f02-91d4-c08cdbe1f0d9,2024-07-18,24,Female,0,85,Manufacturing,"₹10,024","₹26,594",Facebook Ads,29,Bank Transfer,No,1,Mumbai
+f22914b6-7351-4fee-8dc3-d1bb5194ee8b,2024-05-30,27,Male,0,255,Retail,"₹48,499","₹43,749",Referral Program,1,UPI,Yes,8,Mumbai
+339d699c-dc90-4f2b-9085-cd80bce74e24,2023-01-29,49,Female,0,587,Finance,"₹12,198","₹37,292",Facebook Ads,8,Credit Card,Yes,2,Mumbai
+103844fa-7420-4799-ac6d-1dc8eda544d2,2023-04-11,46,Female,0,96,Tech,"₹43,839","₹75,534",Google Ads,16,UPI,Yes,4,Mumbai
+ce583613-2375-47fc-9c2b-ca8975e0a803,2023-09-08,24,Female,0,226,Retail,"₹21,675","₹80,233",Email Campaign,28,Credit Card,No,0,Mumbai
+1f5c646a-06e9-46a8-bf5c-2217c618e99e,2023-06-12,52,Male,0,683,Retail,"₹12,814","₹52,818",Word of Mouth,22,Credit Card,No,2,Mumbai
+4a2aba8f-28f3-449e-bd9f-4dd89d07d1b2,2024-04-19,22,Male,0,52,Consulting,"₹44,697","₹14,429",Referral Program,18,Credit Card,No,0,Mumbai
+8ea3ac8d-67d9-44cb-aef7-1d39a5a172b6,2024-08-21,37,Female,0,635,Consulting,"₹2,865","₹58,748",Google Ads,22,UPI,Yes,0,Mumbai
+6e641a71-bdbc-43c7-8274-473b92e2b31c,2024-04-09,44,Male,0,266,Retail,"₹32,517","₹49,807",Direct Traffic,41,Credit Card,Yes,4,Mumbai
+8ef24421-2fd1-4c9f-b2a3-90d5a7709212,2022-12-06,24,Male,0,595,Education,"₹32,626","₹8,140",Instagram Ads,12,Bank Transfer,No,7,Mumbai
+83ffb956-f06f-423f-af5e-ca005aadb31f,2023-07-15,65,Female,0,167,Manufacturing,"₹43,872","₹64,226",Word of Mouth,19,Credit Card,Yes,0,Mumbai
+83348bea-c710-4914-b8d1-9057cc903187,2023-06-19,18,Male,1,502,Manufacturing,"₹44,634","₹15,901",Referral Program,25,Bank Transfer,Yes,0,Mumbai
+35a3c316-407b-46c1-9967-a98dfdbcad25,2022-12-03,54,Male,0,582,E-Commerce,"₹38,323","₹89,815",Referral Program,5,Bank Transfer,Yes,0,Mumbai
+dd1b7d1d-302d-41d3-b7fb-844670f08730,2023-08-17,59,Female,0,639,Education,"₹6,122","₹29,525",Direct Traffic,34,Bank Transfer,Yes,6,Mumbai
+0ad3814d-be6b-4af1-8768-a95260c231e7,2023-02-09,52,Female,0,724,Finance,"₹31,040","₹21,491",Partner Website,39,Bank Transfer,No,0,Mumbai
+0bcc5fca-7fb6-46ef-b3b8-2d771ee32285,2023-01-13,51,Female,0,669,Education,"₹41,051","₹69,816",Email Campaign,10,UPI,Yes,1,Mumbai
+5673fac4-096d-4157-a273-eb0a9f732bcc,2023-05-08,57,Male,0,258,Education,"₹2,449","₹35,980",Referral Program,47,Bank Transfer,No,7,Mumbai
+8ee7c818-d958-49d5-9f8c-1771099ef436,2023-07-11,39,Male,0,346,Education,"₹49,896","₹96,525",Email Campaign,7,Credit Card,Yes,0,Mumbai
+8b75e219-2ae2-423c-bb34-4f5c83fdfe8e,2023-01-19,44,Female,1,627,Finance,"₹43,300","₹9,078",Google Ads,37,Bank Transfer,No,3,Mumbai
+a35ea0a1-ac50-4796-86d8-781774de4259,2023-09-18,37,Female,1,641,E-Commerce,"₹32,412","₹92,654",Instagram Ads,47,Credit Card,No,8,Mumbai
+800ad578-5257-4543-acc7-1947168c201c,2024-07-22,30,Female,1,590,Finance,"₹32,661","₹90,521",Word of Mouth,15,UPI,Yes,0,Mumbai
+6660f3dd-da9e-4aa7-b7b1-89a074adbc3f,2023-05-04,48,Male,0,230,Healthcare,"₹44,887","₹49,704",Word of Mouth,42,Bank Transfer,No,0,Mumbai
+63ad2a14-a06b-445f-99c0-db13ec22eaa6,2024-07-29,31,Female,0,287,E-Commerce,"₹17,008","₹17,997",Instagram Ads,24,Credit Card,No,8,Mumbai
+e75f97ac-d708-430f-9ee1-a9a7e4be6a0d,2024-07-19,61,Male,0,509,Healthcare,"₹46,092","₹80,810",Referral Program,26,UPI,Yes,0,Mumbai
+173d7b19-2793-4bcd-a120-cf69b0d24319,2023-03-27,54,Male,1,207,Healthcare,"₹44,213","₹1,868",Referral Program,26,UPI,No,3,Mumbai
+4ea6126a-0874-4fca-8aee-9326a13bd975,2023-01-19,28,Female,0,152,Healthcare,"₹2,419","₹27,398",Google Ads,46,Credit Card,Yes,0,Mumbai
+e25f0010-1241-4742-973b-2db28821ce59,2022-11-11,53,Female,0,371,Manufacturing,"₹43,095","₹82,578",Partner Website,26,Bank Transfer,No,0,Mumbai
+51f30c6a-50d1-44fb-a804-e152368936f6,2024-02-19,22,Male,1,200,Retail,"₹10,117","₹98,356",Partner Website,10,UPI,Yes,0,Mumbai
+3dfee357-255a-4da2-9bfb-b9edf7b68565,2023-07-07,40,Male,1,677,Retail,"₹10,232","₹22,246",Partner Website,17,Credit Card,Yes,0,Mumbai
+1456b894-06a4-41bc-9e64-7f79b12dd126,2024-09-21,32,Male,0,88,Healthcare,"₹33,798","₹21,561",Email Campaign,14,Bank Transfer,Yes,6,Mumbai
+7fa8d6d7-16ca-4ace-8bf4-b999d318b82c,2024-01-02,27,Female,0,494,Healthcare,"₹41,117","₹17,254",Partner Website,2,UPI,Yes,0,Mumbai
+4840b86b-4837-4d0d-8d97-0b38f19070d8,2023-02-02,19,Female,0,289,Tech,"₹7,429","₹35,512",Instagram Ads,48,Credit Card,Yes,1,Mumbai
+a011204f-206a-465f-a744-9bab77514fc5,2022-10-21,59,Female,0,402,Consulting,"₹37,617","₹90,532",Word of Mouth,13,UPI,No,1,Mumbai
+62116421-d88d-49f0-b252-ef24e1c693e1,2024-10-06,25,Female,1,124,Retail,"₹14,956","₹95,154",Word of Mouth,27,UPI,No,0,Mumbai
+676b8431-e0b3-424d-9d14-a3b0d34fa506,2023-10-01,27,Male,0,154,Consulting,"₹44,563","₹78,395",Email Campaign,9,Credit Card,Yes,0,Mumbai
+49a9d82c-4a25-40d2-a202-226480c768c1,2023-03-02,57,Female,0,70,Consulting,"₹21,640","₹58,865",Google Ads,7,UPI,No,0,Mumbai
+56ad237a-88c6-4b96-9dd9-c619f626a825,2024-02-21,42,Female,1,283,Tech,"₹18,685","₹24,580",Instagram Ads,48,Credit Card,No,0,Mumbai
+2883f606-8653-413b-9ade-6264fc279c7d,2024-05-14,46,Male,0,36,Consulting,"₹38,424","₹71,959",Word of Mouth,10,Bank Transfer,No,0,Mumbai
+297492bd-a917-43d4-b3c2-baac9e42b3ed,2024-06-08,18,Male,0,500,E-Commerce,"₹24,740","₹73,144",Instagram Ads,9,Credit Card,Yes,1,Mumbai
+3cd3bbf8-547b-4905-80f8-27dffbe9c2b0,2023-10-09,20,Female,1,540,Tech,"₹22,345","₹43,485",Word of Mouth,22,Bank Transfer,Yes,0,Mumbai
+9cbc370b-3c2f-4fb2-8168-1e5e23b5dfd4,2023-12-12,31,Female,1,610,Consulting,"₹9,728","₹51,621",Facebook Ads,23,UPI,No,8,Mumbai
+1efd7783-daa4-4f98-9469-5acd351e56b4,2023-03-19,20,Male,0,98,Consulting,"₹22,186","₹51,665",Google Ads,7,Credit Card,Yes,1,Mumbai
+2b99889a-3b91-49e6-9e2f-5d5a09b5a240,2023-05-20,29,Male,1,110,Education,"₹12,420","₹71,412",Google Ads,48,Credit Card,Yes,4,Mumbai
+f3a25615-9f7d-46ef-93e0-f68a4e288f21,2023-11-08,32,Male,1,571,Consulting,"₹7,932","₹51,603",Direct Traffic,9,Credit Card,No,9,Mumbai
+72c9b381-2367-4a07-9ffa-6a3e93d2a957,2023-06-18,20,Male,0,614,Manufacturing,"₹45,471","₹22,038",Facebook Ads,27,Credit Card,Yes,0,Mumbai
+cc926478-c53c-4551-89e3-7ddb6ba36396,2024-08-16,46,Male,1,291,E-Commerce,"₹6,689","₹94,542",Email Campaign,24,Bank Transfer,Yes,0,Mumbai
+4548697e-0ee5-459c-8bbc-62ea9522b498,2024-03-20,47,Female,0,118,Finance,"₹28,539","₹97,346",Word of Mouth,29,Bank Transfer,Yes,7,Mumbai
+b9deea37-827a-4b53-add5-dc91101bf900,2023-06-02,28,Male,0,237,Retail,"₹34,410","₹15,325",Direct Traffic,17,UPI,Yes,3,Mumbai
+db79a1bc-85aa-4549-b4fe-6665732cb5d0,2023-07-18,25,Male,0,242,Healthcare,"₹30,726","₹36,892",Word of Mouth,20,UPI,Yes,0,Mumbai
+92210947-e7e4-4515-9698-c3c0f100b58e,2024-09-09,37,Male,0,295,Consulting,"₹8,114","₹2,753",Word of Mouth,7,UPI,No,7,Mumbai
+51ed39e7-6b39-4a0c-b39e-4f99e0bdb8b0,2023-08-05,47,Female,1,322,E-Commerce,"₹47,521","₹96,067",Partner Website,43,UPI,Yes,0,Mumbai
+f8a4a367-ddb8-4224-b5a4-cab1254091a3,2023-03-04,36,Female,0,236,Healthcare,"₹21,724","₹18,996",Partner Website,40,Credit Card,Yes,2,Mumbai
+84a4d1fb-a5c5-4c57-8c49-9d17beaf985e,2023-11-27,28,Female,0,362,Finance,"₹18,513","₹69,811",Partner Website,7,Bank Transfer,No,0,Mumbai
+08c4530b-4fc4-47e8-9da2-e738c08414e0,2024-04-11,38,Male,0,106,E-Commerce,"₹21,946","₹75,283",Partner Website,28,Bank Transfer,No,1,Mumbai
+22e20730-697f-408f-ab4a-762eb18ac30e,2023-05-14,30,Male,0,317,Retail,"₹40,173","₹46,211",Partner Website,19,Bank Transfer,Yes,7,Mumbai
+e5d8db53-3d71-401a-ab88-858d362690c7,2024-04-15,21,Male,1,76,E-Commerce,"₹38,157","₹63,820",Facebook Ads,20,Bank Transfer,No,4,Mumbai
+ee354b32-2f0a-4ac3-acc2-b329216be1e4,2022-11-20,45,Male,1,651,Healthcare,"₹5,339","₹1,824",Google Ads,44,UPI,Yes,0,Mumbai
+00058f0a-3b89-4aeb-8fb7-99a9ad8d79d6,2022-12-14,40,Male,1,229,Healthcare,"₹37,225","₹14,880",Email Campaign,39,Credit Card,No,0,Mumbai
+dd382444-a416-411b-84db-2918ef2d4b34,2024-07-27,51,Male,0,456,Education,"₹30,703","₹67,617",Instagram Ads,40,Bank Transfer,Yes,0,Mumbai
+0f2207b9-00f7-40b9-87a5-c1cad70dc094,2023-12-16,39,Female,1,239,Consulting,"₹1,057","₹12,517",Partner Website,7,Credit Card,No,7,Mumbai
+bd2e2988-e067-4bab-a153-73f442c91d24,2023-02-04,27,Male,1,449,Tech,"₹31,166","₹22,683",Facebook Ads,6,Credit Card,Yes,7,Mumbai
+1ebf4b3e-2f04-4ad2-a6ce-3bd5bbe928e4,2024-03-27,54,Female,0,183,E-Commerce,"₹37,889","₹17,876",Direct Traffic,25,Credit Card,No,5,Mumbai
+2468047b-c016-4f2b-8a13-e53c2c53d053,2023-07-22,29,Male,1,551,Healthcare,"₹48,200","₹57,354",Direct Traffic,41,Credit Card,Yes,8,Mumbai
+8442ff91-cbf3-495a-b20e-a79d8e34f029,2024-09-11,61,Female,0,444,Manufacturing,"₹34,107","₹74,802",Word of Mouth,13,Bank Transfer,Yes,2,Mumbai
+5ac5384a-642a-4c72-8908-a85c31e608c2,2023-09-13,53,Male,1,382,Retail,"₹25,078","₹77,719",Email Campaign,39,Bank Transfer,Yes,2,Mumbai
+1b95c5e3-d000-4e9d-966a-2ee74d9d4ebc,2024-06-09,60,Female,1,186,Manufacturing,"₹9,743","₹87,602",Direct Traffic,40,Bank Transfer,No,0,Mumbai
+121cf7e7-d0a1-4330-9458-496b78fdd7e7,2022-12-24,25,Male,1,290,Finance,"₹10,096","₹79,413",Email Campaign,22,UPI,No,0,Mumbai
+981386f7-45fe-44ff-aca1-cc59dfb97df9,2023-12-26,33,Male,1,106,E-Commerce,"₹7,498","₹10,982",Email Campaign,49,Bank Transfer,Yes,0,Mumbai
+e482b68c-5813-428b-acc7-81683865a691,2023-04-26,19,Female,0,517,Education,"₹10,629","₹75,504",Facebook Ads,17,UPI,Yes,4,Mumbai
+85ce6e8b-a03f-44c0-8d1f-9bcc0d40ee0f,2024-09-07,41,Male,0,160,Retail,"₹1,010","₹27,598",Instagram Ads,48,UPI,Yes,0,Mumbai
+904c91d1-3e2b-466b-835a-79f72decd80b,2023-11-23,19,Female,1,608,Education,"₹12,096","₹15,639",Partner Website,22,UPI,Yes,7,Mumbai
+f6e57fd8-e5f1-463e-8b78-bdbb4a34f4b1,2022-11-14,59,Male,0,484,Tech,"₹13,474","₹71,210",Email Campaign,34,Bank Transfer,No,3,Mumbai
+fc72d057-fb7f-437e-9f5a-b042a51853f4,2024-03-18,62,Male,1,192,Healthcare,"₹1,637","₹70,852",Facebook Ads,8,Bank Transfer,No,0,Mumbai
+5e89a76b-7a02-478a-867c-e942f39b6bbf,2023-06-30,21,Female,1,44,Consulting,"₹46,968","₹10,695",Word of Mouth,49,Bank Transfer,No,7,Mumbai
+0bde9f50-84f9-4a81-894b-1e6d9251a2ab,2023-09-18,34,Male,1,261,Retail,"₹28,397","₹49,582",Google Ads,45,UPI,Yes,1,Mumbai
+bd2dfe01-84f9-4701-bb15-d980bc1acf94,2023-10-02,59,Male,1,224,Finance,"₹5,166","₹32,094",Word of Mouth,18,UPI,Yes,6,Mumbai
+084545a0-083b-4b64-8fb8-35f75edda430,2024-04-30,33,Male,1,571,Consulting,"₹9,406","₹61,635",Facebook Ads,24,Credit Card,No,7,Mumbai
+d3735757-790b-45fe-aaa0-b995161d1c3f,2023-09-17,39,Female,1,388,E-Commerce,"₹22,318","₹23,187",Facebook Ads,42,UPI,No,4,Mumbai
+796ad980-03f1-494f-b52f-f52f8964513c,2024-03-23,33,Male,0,360,Tech,"₹43,746","₹2,214",Facebook Ads,2,UPI,No,0,Mumbai
+0351e5aa-4f78-4be9-86df-e3068ea27147,2024-08-05,65,Female,0,456,Tech,"₹3,154","₹24,940",Email Campaign,2,Bank Transfer,No,0,Mumbai
+98a50e8d-821c-4674-b4b7-e2ef9d56873b,2023-06-23,62,Male,1,526,Education,"₹34,258","₹45,406",Facebook Ads,27,Credit Card,Yes,7,Mumbai
+1cbdaad9-ce19-4163-8498-9765c4dd2454,2023-06-17,44,Male,0,515,Tech,"₹24,704","₹92,221",Google Ads,14,Credit Card,Yes,1,Mumbai
+795787b7-63c0-4fea-8904-49f79334f51d,2023-06-14,24,Male,1,478,Retail,"₹35,428","₹44,481",Email Campaign,48,Credit Card,Yes,0,Mumbai
+329c70d1-f41c-47e8-9db1-dfd0bd31b5d2,2024-04-08,50,Male,0,442,Education,"₹31,052","₹16,977",Word of Mouth,39,Bank Transfer,No,0,Mumbai
+754371f3-2c74-49f5-812f-8a315ac96a38,2024-09-04,22,Male,0,359,Consulting,"₹48,404","₹45,839",Google Ads,12,Credit Card,Yes,0,Mumbai
+10012650-088d-4001-a2f6-622b5e286a8e,2023-11-09,57,Female,0,176,Tech,"₹10,836","₹58,874",Direct Traffic,32,Credit Card,No,5,Mumbai
+b4ed4897-cc15-4822-9735-ccfabd1f9a1b,2024-01-14,56,Male,1,288,E-Commerce,"₹47,537","₹59,414",Referral Program,28,Bank Transfer,No,0,Mumbai
+5a62f6ee-71cd-4d33-8fc2-debe42723a9c,2022-10-12,34,Female,0,321,Consulting,"₹16,706","₹26,538",Word of Mouth,28,Credit Card,No,0,Mumbai
+03fad6e1-dd21-40bf-aa59-a20d50c37199,2024-06-05,36,Female,1,172,Finance,"₹35,331","₹57,241",Facebook Ads,46,UPI,No,6,Mumbai
+f09da444-73e5-4526-b500-58225f25ae40,2024-09-07,65,Female,1,656,E-Commerce,"₹44,063","₹74,501",Partner Website,25,UPI,No,2,Mumbai
+e270a2cf-53b3-4cbe-bb9e-3052d1f2c914,2022-12-25,49,Male,1,394,Manufacturing,"₹18,861","₹76,133",Partner Website,4,UPI,Yes,0,Mumbai
+ca19ba81-132b-4cb3-9b2b-48a11dacb2b6,2024-04-03,30,Female,0,119,Retail,"₹41,835","₹61,481",Email Campaign,26,UPI,Yes,8,Mumbai
+35e3b575-1473-4563-b76e-c13a13b4cdc9,2024-06-03,47,Male,0,193,Finance,"₹9,433","₹28,740",Partner Website,36,UPI,Yes,0,Mumbai
+8b0815d9-6dd2-47e6-881a-b578a6c5fb87,2024-05-28,43,Female,0,510,Finance,"₹26,316","₹64,328",Word of Mouth,3,UPI,No,0,Mumbai
+7da1c734-8465-44ba-8914-5f25c8eb0f2a,2023-11-12,33,Male,1,113,Education,"₹16,119","₹73,105",Email Campaign,1,UPI,Yes,4,Mumbai
+e9887845-aa89-4246-9852-c973a2e3649a,2023-03-27,31,Female,1,106,Healthcare,"₹38,187","₹51,643",Word of Mouth,17,UPI,No,9,Mumbai
+034bcbec-39e3-4a8d-a269-b300a980b604,2024-05-27,53,Male,0,702,Education,"₹27,443","₹12,881",Facebook Ads,7,UPI,Yes,0,Mumbai
+9f3303c4-d5ff-4627-997e-13491b80d1c2,2023-04-11,64,Male,1,546,Retail,"₹27,319","₹37,996",Instagram Ads,48,Bank Transfer,No,8,Mumbai
+adcbc025-07fc-4a7b-b49a-498f73c8389a,2022-12-02,25,Male,0,514,Retail,"₹12,241","₹33,177",Instagram Ads,5,Bank Transfer,No,8,Mumbai
+5a6cefa0-00d1-4760-a1e9-922f0d2c030b,2024-08-02,51,Male,0,619,Education,"₹9,298","₹38,177",Google Ads,19,UPI,Yes,7,Mumbai
+24e4f9af-fb32-4575-84a5-89c8915e4424,2023-01-01,46,Female,0,632,Healthcare,"₹25,643","₹67,126",Facebook Ads,39,Bank Transfer,No,3,Mumbai
+b3c68898-1d1b-4191-9fc1-79da5aa78cb3,2023-03-25,62,Male,0,628,E-Commerce,"₹33,247","₹57,531",Partner Website,46,Bank Transfer,Yes,1,Mumbai
+977a87d1-edcc-48d5-b47b-f43bb030ea59,2024-04-24,55,Male,1,133,Education,"₹47,834","₹27,119",Facebook Ads,34,UPI,Yes,5,Mumbai
+1597e203-7839-4421-b131-a8f32a231b96,2023-03-15,23,Male,0,481,Retail,"₹34,151","₹28,915",Referral Program,35,UPI,Yes,2,Mumbai
+82285d33-4edc-40ef-9095-86757d28286c,2023-01-26,64,Female,0,516,Healthcare,"₹21,682","₹3,708",Instagram Ads,49,Bank Transfer,No,0,Mumbai
+6570e6ef-0de1-439d-a2c0-32909a43866a,2023-12-19,42,Male,0,368,Retail,"₹9,915","₹39,749",Partner Website,16,UPI,No,7,Mumbai
+fa3a3d29-177a-474a-971e-38b6c91b0192,2023-01-21,50,Female,0,716,Healthcare,"₹11,585","₹45,989",Word of Mouth,40,UPI,No,0,Mumbai
+0dcd9d30-a224-4c66-b610-c80e9a67ced9,2022-11-27,27,Male,0,595,Healthcare,"₹15,508","₹23,106",Word of Mouth,47,UPI,No,8,Mumbai
+9f353dac-a1c9-45bf-9f57-4fa73771eaec,2023-01-02,47,Male,0,507,Consulting,"₹22,602","₹18,131",Instagram Ads,39,UPI,Yes,0,Mumbai
+35f053a8-6b55-4180-a5b2-10d8cc9a52f9,2023-03-05,25,Female,0,636,Education,"₹18,952","₹47,553",Facebook Ads,27,Bank Transfer,No,8,Mumbai
+f0237386-9b8f-4a59-972b-79506d867c24,2024-04-03,19,Female,1,252,Education,"₹8,620","₹59,144",Partner Website,41,Credit Card,Yes,0,Mumbai
+60ec0227-f67f-4678-9bb1-67925a01a6b6,2023-02-01,45,Female,1,38,Education,"₹8,320","₹7,553",Google Ads,38,Bank Transfer,Yes,5,Mumbai
+0b90afd3-d90d-415f-8915-97e75e92e38a,2024-05-21,49,Male,1,82,Healthcare,"₹45,169","₹18,881",Word of Mouth,25,Credit Card,No,0,Mumbai
+eeb66151-cae2-492a-9401-0e393aa2cdd9,2024-01-15,55,Female,1,106,Healthcare,"₹18,670","₹2,379",Facebook Ads,26,Credit Card,No,3,Mumbai
+d4c2f868-fc79-4d3c-823c-6159b5332e1e,2024-09-01,26,Female,0,532,Retail,"₹16,759","₹91,791",Google Ads,14,Credit Card,Yes,7,Mumbai
+b4576d99-e190-4169-b217-dd08a7feda96,2024-07-26,24,Female,1,345,Finance,"₹22,599","₹70,306",Direct Traffic,14,Bank Transfer,No,0,Mumbai
+2fb59e6b-e1dd-4438-ad53-71b33d7ff151,2024-03-29,64,Male,1,653,Education,"₹10,149","₹20,726",Partner Website,14,Bank Transfer,Yes,0,Mumbai
+119486e9-569b-42da-8692-a1274d2537fc,2023-11-02,59,Male,1,194,Consulting,"₹30,755","₹10,088",Instagram Ads,25,Bank Transfer,No,6,Mumbai
+7c5a2f14-8fde-428a-a6fd-f9b7d5c5802c,2022-11-27,31,Female,0,308,Manufacturing,"₹41,537","₹35,314",Direct Traffic,36,Bank Transfer,No,0,Mumbai
+2915956f-7040-47dc-af16-a52054dd6090,2023-03-08,49,Female,1,56,Retail,"₹12,305","₹56,041",Referral Program,4,Bank Transfer,Yes,0,Mumbai
+8a7f19a2-8cc4-4a01-b41a-9124cab80b23,2023-06-08,23,Male,1,99,Retail,"₹43,647","₹17,350",Direct Traffic,47,Credit Card,Yes,8,Mumbai
+70eaf512-b6ff-410c-92b6-10a8ebfb4579,2023-03-14,33,Female,0,247,Tech,"₹9,244","₹82,397",Email Campaign,15,Bank Transfer,Yes,0,Mumbai
+a32db048-4de4-4213-bdb5-f11735ffa5bd,2024-01-28,29,Male,1,394,Education,"₹46,553","₹80,509",Instagram Ads,32,Credit Card,No,6,Mumbai
+75d4aaed-f9d6-4c85-b6eb-e560a26d5532,2023-05-07,56,Male,0,335,E-Commerce,"₹41,741","₹18,769",Google Ads,18,Bank Transfer,No,0,Mumbai
+939775a1-9468-446c-b77e-5e40d9a8985e,2024-06-15,18,Female,1,153,Retail,"₹32,805","₹48,249",Facebook Ads,14,Bank Transfer,No,1,Mumbai
+fec8d39c-24f7-4772-8078-c902d9ed919b,2023-08-01,31,Male,0,48,Tech,"₹26,357","₹83,862",Direct Traffic,1,UPI,Yes,0,Mumbai
+df1cf9f7-8d34-4f7d-a4cc-61e32b4177cc,2022-10-12,38,Female,1,286,Manufacturing,"₹11,179","₹47,365",Word of Mouth,42,Credit Card,Yes,6,Mumbai
+516858d7-7922-4e3b-9eb3-f23dc74a6b1d,2024-01-30,25,Male,1,325,Consulting,"₹47,873","₹51,185",Partner Website,20,Bank Transfer,No,9,Mumbai
+b7ddc5c0-5714-4c53-b755-e2fd33f99916,2024-09-19,65,Male,1,51,Manufacturing,"₹30,329","₹3,786",Direct Traffic,10,Bank Transfer,Yes,0,Mumbai
+03a0c6dd-4875-42da-9f2c-7bc55e378415,2023-09-09,65,Female,0,479,E-Commerce,"₹11,485","₹2,620",Instagram Ads,10,Bank Transfer,No,0,Mumbai
+50d96cd8-cc70-4edf-a172-d48fe8cb73d2,2024-05-27,26,Male,1,581,Education,"₹28,787","₹37,303",Word of Mouth,24,UPI,Yes,1,Mumbai
+9290ab88-0ddd-4438-9a7d-6b589221eb78,2023-02-05,60,Male,0,579,Healthcare,"₹12,891","₹20,589",Word of Mouth,34,Credit Card,No,9,Mumbai
+7605825b-5441-4563-8c24-fd29cab45762,2023-01-14,49,Male,0,77,Tech,"₹5,361","₹3,882",Referral Program,28,Bank Transfer,No,0,Mumbai
+dbd06032-12a6-4408-98ac-eac28596c58f,2023-12-25,19,Male,0,724,Healthcare,"₹34,864","₹63,248",Partner Website,27,Bank Transfer,No,0,Mumbai
+c3c578a6-c013-4245-8961-c5ddca909880,2023-02-27,48,Male,0,616,Manufacturing,"₹17,363","₹50,322",Direct Traffic,40,Bank Transfer,Yes,0,Mumbai
+ffadc23f-822f-4011-a1d9-7415c18d3110,2023-06-07,63,Male,1,212,Manufacturing,"₹31,999","₹25,524",Google Ads,1,UPI,Yes,0,Mumbai
+4d7604db-281d-4aa7-8a0f-db12b0a9ae51,2023-05-17,34,Female,1,464,Finance,"₹28,294","₹10,745",Partner Website,33,Bank Transfer,No,0,Mumbai
+8be4ad33-599d-45e3-aab8-b2c2b32d700d,2024-10-03,37,Female,1,136,Finance,"₹43,423","₹16,861",Direct Traffic,4,Credit Card,No,0,Mumbai
+806779a2-411f-4523-a857-81ea38f0ff87,2023-05-20,28,Male,0,217,Consulting,"₹8,419","₹92,707",Partner Website,7,Credit Card,No,1,Mumbai
+5955e5a2-dc32-4fd5-86d2-8cc068ad838b,2024-03-27,49,Female,1,115,E-Commerce,"₹43,602","₹92,735",Facebook Ads,9,Credit Card,No,0,Mumbai
+15ddda68-4f11-4710-830c-0b18127663e7,2023-10-19,22,Male,0,485,Finance,"₹20,782","₹55,261",Email Campaign,16,Credit Card,No,0,Mumbai
+e448057d-111d-412b-8b67-7e7957300095,2023-07-13,56,Female,0,166,Finance,"₹47,896","₹3,837",Direct Traffic,5,Bank Transfer,No,0,Mumbai
+0c77a16a-6534-41d1-856a-9c5b428aba2a,2023-08-31,43,Male,0,365,E-Commerce,"₹35,340","₹75,135",Word of Mouth,34,UPI,Yes,0,Mumbai
+61adcfb9-b160-4f2b-bf2f-c3546d804278,2023-04-02,32,Male,1,636,Retail,"₹42,755","₹82,447",Google Ads,23,UPI,Yes,1,Mumbai
+11792071-8861-4be7-a879-6eaa0a309aa1,2024-09-15,26,Female,1,498,Finance,"₹6,124","₹55,380",Direct Traffic,43,UPI,Yes,7,Mumbai
+1983cf33-3b44-4cc2-90ec-1d0074a6043a,2023-06-07,35,Male,0,631,Retail,"₹34,206","₹87,089",Direct Traffic,25,Bank Transfer,Yes,7,Mumbai
+600da020-e607-45e8-9e9d-ec4181e3c007,2023-07-15,19,Male,1,600,Retail,"₹8,676","₹50,831",Facebook Ads,13,UPI,No,3,Mumbai
+08fa2de8-8365-48f3-ba8a-79686e693deb,2024-04-19,53,Female,1,432,Education,"₹34,029","₹90,349",Word of Mouth,24,Credit Card,No,0,Mumbai
+87988cb4-f32e-461e-8eae-c7d940dfd8f5,2023-07-22,26,Female,0,569,Retail,"₹13,441","₹39,255",Email Campaign,11,Bank Transfer,No,6,Mumbai
+0b774cd1-f271-4a69-b957-06e1111582dc,2024-01-06,33,Female,0,101,Retail,"₹2,169","₹30,520",Facebook Ads,17,UPI,Yes,0,Mumbai
+81a91c9e-843e-4ea7-84ec-60712d7de03c,2023-03-09,62,Female,1,53,Finance,"₹40,396","₹30,541",Email Campaign,37,Credit Card,Yes,0,Mumbai
+d198731a-9911-40d4-81d3-cfc49d0a3687,2023-06-26,64,Male,0,653,Retail,"₹20,746","₹66,772",Email Campaign,13,Credit Card,No,9,Mumbai
+a0faa7e7-7ed9-4e9a-822d-c03987ff7f01,2024-09-06,42,Female,0,514,Healthcare,"₹45,359","₹28,350",Email Campaign,27,Bank Transfer,Yes,9,Mumbai
+bdef5e6a-224e-4b07-9ef3-31ff154898b1,2024-09-02,38,Female,1,85,E-Commerce,"₹40,576","₹45,397",Facebook Ads,20,Bank Transfer,Yes,0,Mumbai
+06bf942d-043c-4390-a720-f1aad394b757,2023-11-08,52,Male,1,252,Finance,"₹20,823","₹78,085",Partner Website,33,UPI,No,6,Mumbai
+66fcd2af-6999-44c4-bfd2-5258dcd39776,2024-09-05,54,Female,0,661,E-Commerce,"₹34,394","₹64,865",Direct Traffic,42,UPI,No,2,Mumbai
+7cdf3bb3-3740-47a6-b521-9e1aad882242,2023-09-26,56,Female,1,208,Tech,"₹6,521","₹56,956",Email Campaign,32,UPI,No,0,Mumbai
+6a515540-ed68-479b-8969-b1b7ef0bafcf,2024-02-23,27,Female,0,463,Finance,"₹39,705","₹28,453",Partner Website,8,Bank Transfer,Yes,0,Mumbai
+970bc5c3-22d3-47e9-b528-165a0b0e2530,2023-09-06,42,Female,0,479,Retail,"₹40,307","₹63,345",Direct Traffic,29,UPI,No,0,Mumbai
+e7af0e88-afd4-41c9-b065-73fedbbea52a,2024-03-28,39,Male,1,521,Healthcare,"₹37,403","₹13,906",Word of Mouth,40,UPI,No,0,Mumbai
+368d87c0-2a05-4b2c-a70e-71754469eeed,2022-11-05,21,Male,0,218,E-Commerce,"₹48,379","₹15,988",Direct Traffic,19,Credit Card,No,0,Mumbai
+931c6384-4924-4627-9b43-17c8df96061c,2022-10-15,50,Female,0,607,Finance,"₹45,232","₹28,723",Word of Mouth,6,Credit Card,Yes,2,Mumbai
+37a4e652-8fd6-4904-b2ed-4ec6fafa9801,2024-10-04,40,Male,0,449,Healthcare,"₹9,211","₹34,800",Google Ads,44,Credit Card,Yes,0,Mumbai
+f38ff671-dad8-4bc3-ac36-170e29dc8544,2023-03-08,35,Female,1,278,E-Commerce,"₹8,404","₹40,107",Referral Program,39,UPI,No,0,Mumbai
+f805201f-94cf-4384-afc0-894bae4bbc4b,2023-07-22,63,Female,1,617,Tech,"₹35,551","₹28,430",Partner Website,48,Bank Transfer,No,0,Mumbai
+e046335d-196e-4ffd-9741-bb68a2b9bba2,2024-03-05,38,Male,1,678,Manufacturing,"₹21,442","₹33,535",Direct Traffic,41,Credit Card,Yes,2,Mumbai
+5dae79bf-1785-4fa1-85e1-5c3f9357e503,2024-01-09,48,Male,0,193,Consulting,"₹24,751","₹69,476",Word of Mouth,21,Bank Transfer,Yes,0,Mumbai
+68b7f3be-dfc2-442d-bb29-02188aa6548b,2024-01-15,46,Female,0,284,Consulting,"₹25,558","₹88,329",Referral Program,22,UPI,No,0,Mumbai
+90c1dc98-5c55-42ff-a538-b14f4b0a041f,2023-06-01,38,Male,1,505,Tech,"₹35,745","₹78,798",Email Campaign,42,UPI,Yes,3,Mumbai
+6d249913-bddb-43ac-ae35-967d02e1d88f,2023-04-25,29,Female,1,446,Manufacturing,"₹3,593","₹53,284",Referral Program,10,Credit Card,No,0,Mumbai
+87dfdd7b-38cc-4c3a-bc3f-4ee8ab30a0f8,2024-08-12,23,Female,1,199,Education,"₹25,418","₹57,232",Referral Program,10,Bank Transfer,No,0,Mumbai
+3fc97e93-0ebd-4962-8bcf-699980cc0d69,2023-04-26,37,Female,0,346,Manufacturing,"₹7,707","₹45,420",Email Campaign,29,Credit Card,Yes,0,Mumbai
+948b410d-79d8-4d56-b388-e820fbe3733e,2024-07-20,42,Male,1,203,Education,"₹9,894","₹38,710",Partner Website,16,UPI,No,3,Mumbai
+fe6a1d1e-1254-4c83-a033-fb426176933a,2023-06-09,53,Female,0,499,Finance,"₹27,474","₹73,497",Direct Traffic,1,Bank Transfer,No,2,Mumbai
+4471d276-4d2f-40a5-aede-74c0d234f886,2024-01-25,29,Male,1,374,Education,"₹28,672","₹93,035",Email Campaign,17,Credit Card,Yes,0,Mumbai
+e5fe13c7-b71a-447f-b02b-c6ffdea3b330,2024-07-29,55,Female,0,474,Consulting,"₹32,783","₹41,498",Google Ads,30,UPI,No,0,Mumbai
+19c3aa77-58e4-4f2e-bebe-f108fe2fd89c,2024-06-07,45,Male,0,47,Consulting,"₹48,109","₹32,283",Instagram Ads,26,Credit Card,Yes,0,Mumbai
+02b4ab34-46f3-4baa-9996-fc1c62eb77be,2023-02-27,29,Female,1,99,Healthcare,"₹39,495","₹67,169",Direct Traffic,46,Bank Transfer,No,5,Mumbai
+b478e4cd-1551-48c3-95f6-a3e52fa3d4d5,2024-03-01,62,Male,0,367,Education,"₹13,780","₹73,358",Facebook Ads,19,Bank Transfer,No,2,Mumbai
+ae10ddb2-bde3-494f-af51-b098782ddff7,2024-07-03,18,Female,1,657,Healthcare,"₹36,803","₹63,457",Email Campaign,21,Bank Transfer,Yes,2,Mumbai
+ca4eddb3-bc25-427a-8520-97a5c0cc3e70,2024-03-28,60,Male,0,621,Consulting,"₹27,953","₹26,968",Email Campaign,17,Bank Transfer,Yes,9,Mumbai
+4adb773e-cd24-422c-a605-2bdc6e1b90de,2023-05-14,41,Male,0,556,E-Commerce,"₹43,850","₹63,508",Referral Program,46,Bank Transfer,Yes,2,Mumbai
+a9954a9a-070c-406e-9993-75421dfd8a14,2024-07-13,22,Male,1,717,E-Commerce,"₹3,413","₹64,220",Google Ads,40,Credit Card,Yes,8,Mumbai
+e3031e4b-a622-4e33-9e8a-3f7c20a07991,2023-11-16,24,Male,0,485,Manufacturing,"₹26,265","₹86,366",Word of Mouth,21,Credit Card,Yes,0,Mumbai
+5c44050f-0625-4310-af32-0cc5de2f9c1a,2023-06-22,41,Male,1,298,Manufacturing,"₹2,840","₹6,738",Word of Mouth,41,Credit Card,Yes,1,Mumbai
+2fe1e695-d77c-4368-a3ec-996e9eda39a7,2023-02-26,58,Female,1,660,Manufacturing,"₹26,679","₹4,098",Referral Program,40,Credit Card,No,0,Mumbai
+d02c76b5-4e5b-4c7d-a387-7a9844f56181,2022-11-04,55,Male,1,217,Education,"₹28,373","₹96,424",Partner Website,45,UPI,Yes,4,Mumbai
+298d48db-de10-43de-b056-fb1f682667b4,2023-10-10,49,Male,0,598,Manufacturing,"₹38,557","₹74,633",Direct Traffic,49,UPI,No,0,Mumbai
+ae5eaad9-8ec2-4879-a6dc-25d3ed24e67a,2022-12-27,36,Female,0,558,Education,"₹1,097","₹79,672",Email Campaign,19,Credit Card,Yes,1,Mumbai
+bd2b8343-30a9-41ab-a6ee-2fa84781fa18,2024-09-16,62,Male,0,463,Education,"₹29,619","₹39,244",Direct Traffic,7,UPI,No,0,Mumbai
+a8c2cd25-02af-4058-a14d-e5824b23a11b,2023-07-15,45,Male,1,317,Retail,"₹15,525","₹9,253",Direct Traffic,17,UPI,No,0,Mumbai
+3490fac8-c2f5-4900-83f2-7a1903dbcb01,2023-09-28,54,Female,1,596,Retail,"₹7,645","₹55,333",Email Campaign,1,Bank Transfer,Yes,0,Mumbai
+ef1f3506-c3df-420b-ba97-fb2ca054c501,2024-05-11,58,Female,0,528,Education,"₹36,170","₹51,969",Referral Program,37,Credit Card,No,2,Mumbai
+e3b91356-7e53-4ac8-9062-b066a40b3373,2024-03-02,43,Male,0,470,E-Commerce,"₹42,223","₹91,744",Direct Traffic,6,UPI,No,8,Mumbai
+057e1e41-69d3-4487-8d27-d50c946b1611,2023-01-24,28,Female,1,332,Healthcare,"₹8,194","₹71,423",Email Campaign,26,UPI,No,5,Mumbai
+b1c4e744-599f-44ba-9b73-4c3c729419a3,2023-08-11,35,Male,0,116,Consulting,"₹5,330","₹45,411",Partner Website,2,Credit Card,Yes,0,Mumbai
+5e90d4ae-d00a-46e7-8a91-0e61176596af,2023-08-27,20,Male,1,467,Consulting,"₹24,430","₹76,028",Direct Traffic,32,Bank Transfer,Yes,0,Mumbai
+674c2095-ec21-4440-924d-b89ffe4fee63,2023-10-29,55,Male,0,570,Finance,"₹24,252","₹36,421",Instagram Ads,48,Credit Card,No,0,Mumbai
+8d4b1a06-faa9-4efb-a8bd-6c42de513f55,2024-06-16,44,Female,1,51,Tech,"₹43,102","₹2,454",Facebook Ads,5,Bank Transfer,Yes,6,Mumbai
+83ab77e3-0f8e-4ce3-ad39-6203d671306d,2024-07-14,47,Male,0,589,Retail,"₹10,989","₹18,522",Facebook Ads,37,UPI,Yes,7,Mumbai
+37a9a1b1-9d28-4e88-a426-d6955be751cf,2024-01-14,58,Male,0,546,Education,"₹33,192","₹39,575",Facebook Ads,31,Bank Transfer,No,0,Mumbai
+3c3cffbd-caad-482a-ba8a-30d23f729479,2022-10-12,56,Female,1,704,Tech,"₹16,268","₹4,192",Instagram Ads,12,Bank Transfer,No,8,Mumbai
+8a8aa897-f134-4008-a32f-f08a78a4e319,2024-06-12,43,Female,1,532,Retail,"₹43,632","₹56,268",Email Campaign,35,Credit Card,Yes,8,Mumbai
+be81399c-8dcd-4c39-8399-00295f7e66cb,2024-07-17,60,Male,1,496,Finance,"₹2,660","₹82,311",Referral Program,30,UPI,Yes,7,Mumbai
+c404cca4-e1b9-41c0-b7d7-aa476723272f,2024-01-25,49,Male,0,130,Consulting,"₹46,536","₹11,402",Word of Mouth,48,Credit Card,Yes,2,Mumbai
+b10e6f55-c074-4f21-ab60-0232339b9a27,2024-09-02,26,Female,1,612,Healthcare,"₹20,633","₹79,610",Google Ads,6,Credit Card,No,0,Mumbai
+709ba7fc-b021-4483-a922-21153845429a,2023-01-29,49,Female,1,704,Education,"₹47,753","₹81,781",Email Campaign,15,UPI,Yes,6,Mumbai
+f3d8ab89-680f-4c99-8382-756daca5a0c6,2023-06-07,46,Male,0,714,Finance,"₹36,190","₹37,527",Instagram Ads,15,Credit Card,Yes,7,Mumbai
+7695417b-2819-44da-8c05-93cbca53ce2f,2022-12-20,58,Male,1,170,Consulting,"₹23,370","₹53,181",Direct Traffic,16,Credit Card,Yes,0,Mumbai
+43a976f6-3853-4099-971f-b2a7da489208,2023-06-22,18,Female,1,167,E-Commerce,"₹24,996","₹92,472",Partner Website,20,Bank Transfer,No,0,Mumbai
+1df34ea0-f2bb-4f32-bcc0-a885a16ec82f,2024-09-13,38,Female,1,607,Retail,"₹37,072","₹28,002",Instagram Ads,13,Credit Card,No,8,Mumbai
+4c3eff5b-b87a-43ce-afe7-3f455a9fe0b2,2024-07-16,57,Male,0,257,Education,"₹2,868","₹82,219",Direct Traffic,44,UPI,No,4,Mumbai
+3e7ba2a4-1b93-486b-b403-5e2b4b92e24d,2023-10-15,65,Female,0,310,Tech,"₹48,425","₹13,460",Word of Mouth,42,Credit Card,Yes,9,Mumbai
+9ce0168a-9daf-44aa-8f1b-2ebd8ace988a,2023-12-13,47,Male,0,713,E-Commerce,"₹41,361","₹31,482",Facebook Ads,46,Bank Transfer,Yes,8,Mumbai
+697a678f-258d-4fb2-9223-5c8ff1c73a0b,2023-11-16,60,Female,1,460,Consulting,"₹37,200","₹17,447",Email Campaign,31,Credit Card,No,0,Mumbai
+e53a9c89-a691-4294-bf09-31ddfd0d01cb,2024-02-25,25,Female,0,69,E-Commerce,"₹29,703","₹49,228",Word of Mouth,34,Credit Card,Yes,0,Mumbai
+7247b0a0-e2d8-4c74-a423-f66d6ff16482,2023-11-14,47,Female,1,548,Manufacturing,"₹12,052","₹84,265",Facebook Ads,29,Credit Card,Yes,0,Mumbai
+5ccb6fe1-43fb-4ddc-bc74-afb0f337b981,2023-04-03,34,Female,1,715,Healthcare,"₹6,108","₹51,126",Google Ads,3,Bank Transfer,Yes,2,Mumbai
+227e7bbb-c2ad-4c51-be7b-48aeeb59595b,2024-01-31,27,Female,1,692,Consulting,"₹46,167","₹21,545",Direct Traffic,9,UPI,No,9,Mumbai
+8f547732-221f-4c3c-ab53-a93fd2929b9f,2024-10-05,48,Female,0,240,E-Commerce,"₹22,985","₹56,114",Direct Traffic,11,UPI,Yes,0,Mumbai
+9d649fe4-df8b-46cd-9b79-b51716429c55,2023-06-29,42,Male,0,331,Retail,"₹42,560","₹94,740",Partner Website,11,Bank Transfer,Yes,6,Mumbai
+1d5ed1fe-c0b6-4e30-8867-21e90af525b1,2023-01-17,54,Male,1,115,Healthcare,"₹10,362","₹76,350",Facebook Ads,25,Bank Transfer,No,0,Mumbai
+adcc6a6e-1e70-4d60-9412-032e43fd4870,2022-11-02,34,Male,1,426,Education,"₹38,799","₹58,801",Google Ads,22,Credit Card,Yes,0,Mumbai
+61194f69-8163-4235-90e2-e4b8bb0a1134,2024-07-31,65,Male,0,282,Manufacturing,"₹10,912","₹14,890",Direct Traffic,42,UPI,No,0,Mumbai
+9152e4af-a86d-4d5e-a00a-a058486b3aed,2023-06-02,23,Male,0,562,Consulting,"₹21,854","₹53,482",Instagram Ads,46,Bank Transfer,Yes,0,Mumbai
+c7b4092b-5317-42d8-a316-37c184eab0f7,2023-12-21,20,Female,0,410,Finance,"₹6,844","₹64,397",Facebook Ads,9,UPI,No,0,Mumbai
+561fe1ad-c052-482f-a1db-7d55dc852348,2023-02-07,19,Male,1,473,Healthcare,"₹41,155","₹2,740",Facebook Ads,20,Credit Card,No,0,Mumbai
+df2e0b48-77a5-4815-a74e-8cfb5627afd5,2024-05-11,33,Female,0,62,Tech,"₹18,493","₹31,121",Referral Program,21,Bank Transfer,Yes,0,Mumbai
+873d66ac-db85-45ac-9188-f83f26f75c1d,2023-04-07,35,Female,0,289,Retail,"₹29,182","₹12,218",Partner Website,10,UPI,Yes,3,Mumbai
+f9235bf0-2ac7-46ba-8c94-7949ada98e86,2024-10-09,25,Female,0,263,Consulting,"₹49,426","₹72,591",Partner Website,22,UPI,No,0,Mumbai
+fe6a7211-d94e-43c4-b047-c41860d695ed,2024-02-29,24,Male,1,544,Tech,"₹28,915","₹89,241",Word of Mouth,29,Credit Card,Yes,0,Mumbai
+2613c056-269f-42e8-9c2e-aa3a18e22ee4,2023-01-02,57,Female,0,337,Healthcare,"₹19,823","₹35,722",Instagram Ads,9,Bank Transfer,No,4,Mumbai
+041f06cc-ea7f-4af6-bf62-271d4a74126d,2024-09-07,57,Male,1,99,Consulting,"₹18,497","₹50,431",Referral Program,5,UPI,Yes,0,Mumbai
+87580e20-f715-458e-8ee6-22703e4c30a3,2024-05-13,49,Male,1,483,Manufacturing,"₹4,179","₹52,543",Word of Mouth,40,Credit Card,Yes,5,Mumbai
+e10bd7c8-03cd-4c07-ae4d-099c052df349,2023-11-12,62,Female,1,468,Finance,"₹29,989","₹43,000",Google Ads,11,UPI,Yes,0,Mumbai
+daf06bbe-aa32-4929-893d-8b4a5d9ab1af,2023-02-10,44,Female,0,393,Finance,"₹40,808","₹72,975",Word of Mouth,1,Credit Card,Yes,4,Mumbai
+59faea4c-7871-4578-b399-b568bfc83bdf,2023-12-29,59,Female,0,510,Tech,"₹9,988","₹31,921",Google Ads,42,UPI,No,5,Mumbai
+30124efd-b24f-48c8-9738-f08f79833625,2024-09-19,18,Female,0,173,Education,"₹40,342","₹89,747",Instagram Ads,1,UPI,No,4,Mumbai
+93324168-603d-4cbf-b53f-ce6e02e84abc,2023-12-11,38,Female,1,53,Education,"₹4,496","₹31,614",Direct Traffic,39,Credit Card,Yes,0,Mumbai
+eb3900fb-9a13-4089-98fe-a66c1d4c852b,2023-11-08,63,Female,0,454,Manufacturing,"₹6,195","₹62,189",Partner Website,46,Bank Transfer,Yes,8,Mumbai
+f6b73cf7-c658-498c-a410-3fcb85643d73,2023-07-21,27,Male,1,204,Finance,"₹30,704","₹18,601",Direct Traffic,5,Credit Card,Yes,0,Mumbai
+66f08803-1648-42a4-9913-c54c9a31c407,2024-02-05,40,Male,0,354,Tech,"₹23,882","₹94,332",Google Ads,49,Bank Transfer,Yes,0,Mumbai
+384e6baf-4db6-45d6-9925-14addc111fca,2022-12-08,61,Male,0,700,Tech,"₹14,735","₹72,543",Instagram Ads,22,UPI,Yes,0,Mumbai
+c168623a-8777-4b91-b30a-b6c0469d5cf9,2023-07-15,30,Female,0,377,Consulting,"₹2,866","₹21,514",Direct Traffic,26,UPI,No,0,Mumbai
+c72ba534-6f9d-4790-86ed-33daa93c1dc8,2023-06-29,41,Male,0,47,Consulting,"₹27,967","₹84,312",Word of Mouth,6,Credit Card,No,0,Mumbai
+4fcadebe-9c6a-42a5-8c47-e9f7e6047fd4,2024-08-17,37,Male,1,73,Tech,"₹47,432","₹68,612",Google Ads,32,Credit Card,Yes,0,Mumbai
+77f8a183-affa-4b57-a809-d2639d11c604,2023-09-12,34,Male,1,184,Consulting,"₹7,264","₹91,886",Email Campaign,48,Bank Transfer,No,0,Mumbai
+86ad1287-8ebd-4179-8b8c-326c701a4e22,2023-11-21,44,Female,1,406,Healthcare,"₹25,860","₹17,292",Facebook Ads,11,Bank Transfer,No,3,Mumbai
+0ad4de73-ce45-4c72-8d01-d7026ad73660,2023-09-12,65,Male,1,431,Consulting,"₹48,795","₹32,510",Word of Mouth,10,Bank Transfer,Yes,0,Mumbai
+bbf0ee05-3b58-4a13-9647-a8ed7d7fd4e9,2023-12-31,31,Female,0,254,Manufacturing,"₹32,423","₹29,000",Partner Website,47,Credit Card,No,0,Mumbai
+02c89d28-ffc1-482f-bd8e-0567386d019c,2024-08-31,65,Male,1,246,Education,"₹30,675","₹31,383",Direct Traffic,39,UPI,No,8,Mumbai
+91e8a307-1f64-455d-afa4-80683e7a0ae1,2023-03-06,41,Female,1,597,Education,"₹16,792","₹12,785",Word of Mouth,34,Credit Card,No,0,Mumbai
+6addaad0-529e-478d-b77c-a571da863045,2023-02-14,40,Male,1,60,Healthcare,"₹2,114","₹41,910",Email Campaign,31,UPI,No,7,Mumbai
+283c0482-dc89-462c-a6de-a3b70f74855a,2023-05-03,64,Male,0,88,Retail,"₹21,439","₹40,028",Instagram Ads,12,Credit Card,Yes,7,Mumbai
+d7cf2d12-aad9-46d2-ab63-241bafb085f4,2023-05-07,47,Male,1,382,Healthcare,"₹47,664","₹25,855",Instagram Ads,44,Credit Card,No,0,Mumbai
+5d1a1e4e-b78c-41a3-ac63-80aa37e14eb6,2023-02-13,37,Male,1,474,Manufacturing,"₹19,300","₹25,281",Word of Mouth,16,Bank Transfer,No,0,Mumbai
+89c57983-0c9c-49e5-a816-99d083fe40cb,2024-08-14,23,Female,0,264,Tech,"₹23,746","₹5,841",Email Campaign,38,UPI,No,9,Mumbai
+83d83870-f8f2-4813-9f58-18bf6b9c72ee,2024-04-30,24,Female,0,136,Healthcare,"₹32,188","₹98,204",Direct Traffic,3,Credit Card,Yes,0,Mumbai
+cc700323-a870-4a69-9112-76961f8b5109,2023-06-22,36,Female,1,220,Tech,"₹28,462","₹61,155",Word of Mouth,2,Credit Card,No,8,Mumbai
+0fa320ef-37b8-4de8-976b-6d48aafa3d60,2023-09-25,63,Female,1,559,Manufacturing,"₹30,264","₹27,918",Facebook Ads,5,UPI,No,6,Mumbai
+6fdec9ed-2d3c-4aa6-b828-81a526ffd458,2022-10-28,41,Female,0,708,E-Commerce,"₹32,970","₹57,313",Facebook Ads,11,Credit Card,No,0,Mumbai
+9b3c89ad-0dea-4dc6-9bff-032a95bd9fcd,2024-08-04,27,Female,1,612,Manufacturing,"₹39,001","₹18,443",Referral Program,25,UPI,Yes,1,Mumbai
+71c4b4da-38f2-4539-9164-b72f44714b0e,2024-01-24,62,Female,0,595,Finance,"₹3,716","₹33,250",Google Ads,35,Bank Transfer,Yes,0,Mumbai
+65b6f853-5490-4456-b57a-266269f5d62c,2024-02-25,55,Male,1,274,Tech,"₹22,572","₹2,922",Referral Program,35,Bank Transfer,Yes,0,Mumbai
+c9ebabee-3050-4e1b-92c8-258e2effde8b,2022-12-29,38,Male,1,105,Education,"₹28,742","₹32,976",Direct Traffic,22,UPI,Yes,4,Mumbai
+e79d0ad6-8fd5-4008-810b-ab3d076bf8ca,2024-07-07,64,Male,1,576,Healthcare,"₹37,632","₹12,991",Facebook Ads,37,Bank Transfer,Yes,2,Mumbai
+860b146d-9f53-478f-a262-acc89e6c0a36,2024-10-07,47,Male,1,296,E-Commerce,"₹45,537","₹54,744",Email Campaign,22,UPI,No,0,Mumbai
+682f9f89-fa8a-4f70-b757-6a7a004d5a99,2024-06-05,28,Male,1,346,Manufacturing,"₹18,361","₹23,733",Google Ads,11,Credit Card,Yes,0,Mumbai
+94f01d24-a081-4f2f-a4e9-02642caa588e,2023-10-30,55,Male,0,150,Tech,"₹47,097","₹3,473",Direct Traffic,32,Credit Card,No,0,Mumbai
+7e9b70b6-c28f-4de7-b1b3-8ee3b415bff2,2023-01-22,56,Male,0,54,E-Commerce,"₹5,460","₹9,108",Email Campaign,35,UPI,Yes,5,Mumbai
+c49036aa-d83f-4511-8964-8d4033ff99a6,2024-04-14,38,Male,1,461,Retail,"₹19,281","₹29,715",Direct Traffic,31,Credit Card,Yes,0,Mumbai
+2e41cb9f-67f8-4569-bf7e-04c8adb1caed,2024-09-16,36,Male,1,189,Finance,"₹41,569","₹33,210",Referral Program,45,Bank Transfer,Yes,1,Mumbai
+544ef577-fb2e-4506-ad8b-0afc5e5b953a,2024-01-22,46,Female,1,625,Retail,"₹31,626","₹38,317",Instagram Ads,8,Credit Card,No,8,Mumbai
+ede011da-1003-4d3e-aa30-90f05da2b08c,2023-03-27,38,Female,0,143,Manufacturing,"₹42,109","₹66,516",Email Campaign,20,Credit Card,No,3,Mumbai
+04d144e3-00b1-4537-a691-99785dad8a8b,2023-08-06,46,Male,0,531,Retail,"₹23,078","₹34,362",Referral Program,42,UPI,No,0,Mumbai
+757a3aaa-2909-4b3a-b631-58d981ecec30,2023-11-14,41,Female,0,195,Retail,"₹40,998","₹55,604",Referral Program,34,Bank Transfer,Yes,9,Mumbai
+1e4c6055-c963-4328-9473-c93f4023103b,2023-03-17,38,Female,0,204,Finance,"₹18,383","₹5,889",Referral Program,4,Credit Card,Yes,0,Mumbai
+6c470db5-49ab-4643-843a-82b82f24760b,2024-09-25,64,Male,0,30,Finance,"₹30,282","₹90,557",Instagram Ads,18,Credit Card,Yes,9,Mumbai
+69f9b465-621d-47e6-acbb-704fff540ad1,2023-02-11,24,Female,0,115,Consulting,"₹17,479","₹74,748",Instagram Ads,4,UPI,Yes,0,Mumbai
+6666a93c-3f3a-411f-ab07-6d456d3e28c1,2023-08-20,59,Male,0,603,Finance,"₹34,246","₹32,971",Word of Mouth,20,UPI,Yes,0,Mumbai
+c58db264-974b-4b5f-838d-0afc073f4809,2023-10-13,23,Female,0,349,E-Commerce,"₹1,230","₹51,551",Instagram Ads,9,Bank Transfer,Yes,9,Mumbai
+7d5d7514-224d-47ff-8b6a-fe31c409a8d6,2022-12-07,25,Male,1,430,Consulting,₹556,"₹4,201",Google Ads,16,Credit Card,No,0,Mumbai
+27d3213a-0493-47b3-ad1c-aa0bf9c1cc55,2023-07-01,24,Female,0,411,Finance,"₹31,957","₹90,882",Instagram Ads,26,UPI,No,4,Mumbai
+20cb009a-6c98-480a-8a88-73298e16f82e,2024-09-05,41,Male,0,646,Retail,"₹2,743","₹38,958",Instagram Ads,38,UPI,Yes,3,Mumbai
+83e70ddc-7438-4d1f-ae58-1f21f9d63cc9,2023-04-23,32,Male,0,347,Education,"₹2,201","₹80,251",Instagram Ads,25,UPI,No,6,Mumbai
+daf99aeb-e857-4665-8849-d5b59fda1965,2023-09-14,50,Male,0,279,Education,"₹8,803","₹6,681",Direct Traffic,4,Bank Transfer,No,3,Mumbai
+00c81612-bdbb-4a68-abbd-88c5e3f31039,2022-11-16,20,Male,1,554,Consulting,"₹15,600","₹47,870",Email Campaign,41,UPI,No,9,Mumbai
+d9c97d89-ab9e-4cb3-a9d1-bd84250a1e68,2023-05-27,45,Male,0,704,Finance,"₹46,266","₹83,256",Instagram Ads,45,Bank Transfer,Yes,3,Mumbai
+b4e8b276-204f-4aac-92eb-cb0c1e9910ce,2023-05-06,60,Male,1,584,E-Commerce,"₹42,661","₹68,203",Google Ads,41,Bank Transfer,Yes,2,Mumbai
+eeb08dc7-f79e-40cf-b88c-365accb19094,2024-01-02,27,Female,1,652,Healthcare,"₹1,447","₹29,152",Direct Traffic,38,Credit Card,Yes,0,Mumbai
+b020f73a-126a-4fce-b503-e122eed875b4,2023-05-31,60,Male,1,285,Tech,"₹21,005","₹51,061",Referral Program,19,Credit Card,Yes,6,Mumbai
+f025b274-78da-4a56-b289-99d28374416a,2024-06-20,36,Female,0,336,Manufacturing,"₹7,053","₹58,619",Email Campaign,14,Bank Transfer,No,8,Mumbai
+6e3d9041-1bb2-41ad-9db3-89d01833d2c8,2024-07-26,49,Female,0,173,E-Commerce,"₹34,025","₹59,235",Facebook Ads,21,Credit Card,Yes,0,Mumbai
+e038f11f-8fc5-4def-8f21-15275a711f6d,2023-07-26,42,Female,0,687,Healthcare,"₹15,366","₹74,740",Direct Traffic,15,Credit Card,Yes,0,Mumbai
+00aceefd-c3df-4213-b749-923b8cd4764b,2023-05-14,35,Male,1,420,Manufacturing,"₹30,972","₹38,890",Instagram Ads,3,UPI,Yes,8,Mumbai
+4e3c2b83-b652-4942-a23d-995a2df9cbe5,2023-04-21,24,Male,1,705,Healthcare,"₹44,848","₹91,073",Direct Traffic,37,Credit Card,No,1,Mumbai
+7d77a8d2-382f-4b38-8909-a66c30892015,2024-05-16,34,Female,1,198,Healthcare,"₹6,151","₹62,401",Word of Mouth,46,Bank Transfer,No,1,Mumbai
+a1eebfb4-6857-49f1-b8ef-0597839e6531,2024-05-02,65,Male,1,327,Consulting,"₹7,773","₹12,217",Word of Mouth,16,Credit Card,No,0,Mumbai
+20589d1d-3536-4009-b9e5-9001d8831ea1,2023-08-23,18,Female,0,262,Education,"₹10,533","₹49,351",Direct Traffic,14,UPI,No,9,Mumbai
+07b629e5-5d4b-48ce-b542-66929ffa1bdc,2024-05-07,53,Male,0,300,Tech,"₹4,035","₹34,741",Referral Program,9,Bank Transfer,No,0,Mumbai
+73b94320-d48d-4c94-b330-0fbfdf132a9c,2024-05-02,27,Male,0,89,Healthcare,"₹19,177","₹21,654",Referral Program,47,Credit Card,Yes,5,Mumbai
+e318b36c-3404-4996-bd7b-36e06f52b4a1,2024-07-04,38,Male,1,325,Finance,"₹17,988","₹62,314",Email Campaign,7,Bank Transfer,No,2,Mumbai
+b8316034-71b6-45f0-b0eb-e7f185426fc5,2024-04-01,37,Male,1,496,Manufacturing,"₹42,121","₹2,408",Word of Mouth,14,Credit Card,No,0,Mumbai
+30285f86-6ced-4064-bb0a-8afee6334fc1,2024-09-05,28,Female,0,264,E-Commerce,"₹1,408","₹43,903",Facebook Ads,6,UPI,Yes,6,Mumbai
+b451c6cd-1e90-43e8-8d2a-84fff927787f,2024-07-10,41,Male,0,706,Education,"₹5,117","₹85,208",Partner Website,21,Credit Card,Yes,8,Mumbai
+b13cbfc1-4af4-487d-89cf-a6e301828031,2022-12-13,19,Male,1,263,Manufacturing,"₹43,316","₹2,218",Word of Mouth,15,Bank Transfer,Yes,9,Mumbai
+0e4955b7-aa13-4907-94ed-ee2ac0f6282d,2023-05-25,39,Female,0,397,Consulting,"₹30,931","₹51,572",Direct Traffic,8,Bank Transfer,No,0,Mumbai
+9ef56574-1511-4660-8fda-2628f6767908,2023-03-02,65,Male,0,724,Finance,"₹23,953","₹59,798",Word of Mouth,34,Bank Transfer,Yes,8,Mumbai
+3f601f0d-ad1b-4f97-b5ae-9b30136996cb,2024-06-23,43,Male,1,261,Finance,"₹35,579","₹31,105",Google Ads,40,Credit Card,No,8,Mumbai
+697564ca-dbae-4a44-ba34-596deadd29f8,2024-02-18,42,Female,1,520,Healthcare,"₹16,520","₹70,634",Partner Website,1,Credit Card,Yes,0,Mumbai
+abae911b-2424-488c-84da-1cb7b0a30fd0,2022-11-24,61,Male,1,648,Finance,"₹46,853","₹66,063",Referral Program,32,Credit Card,No,0,Mumbai
+beb8f539-0487-4848-915f-bfe2febe93f3,2024-01-09,49,Female,0,532,Tech,"₹47,285","₹8,619",Partner Website,49,UPI,No,2,Mumbai
+4b5d4cec-e8cc-4079-a573-eda7749f13bc,2024-03-10,25,Female,1,621,Consulting,"₹49,823","₹12,939",Word of Mouth,5,UPI,No,1,Mumbai
+99f7014d-bd55-4304-bf2a-7b28bd34c967,2023-01-29,51,Male,0,410,Finance,"₹45,820","₹19,226",Referral Program,30,UPI,No,0,Mumbai
+8fdd6dbe-2c62-4697-a3bb-b166f255b73d,2024-01-06,38,Male,0,725,Healthcare,"₹27,062","₹26,322",Partner Website,22,Bank Transfer,Yes,2,Mumbai
+bd919a81-e2e0-4ebf-b68d-85c85f5b9b37,2022-10-15,58,Male,1,457,Manufacturing,"₹24,873","₹59,215",Referral Program,20,Bank Transfer,Yes,2,Mumbai
+3b9097bf-d897-48d3-8e83-c230e60358c9,2024-01-23,29,Male,0,726,Consulting,"₹46,605","₹17,878",Referral Program,16,Bank Transfer,No,0,Mumbai
+1d923610-a78f-4dd1-95df-c729149abb4c,2023-11-20,58,Female,1,675,Finance,"₹30,664","₹7,560",Email Campaign,7,Bank Transfer,Yes,4,Mumbai
+187ea21d-d327-47ff-8687-9625a684980a,2024-09-17,49,Female,1,393,Education,"₹2,385","₹39,278",Facebook Ads,7,Bank Transfer,No,1,Mumbai
+2fcb8d46-0ccd-4a51-983e-f3b963a59d5e,2024-10-05,63,Male,0,231,Consulting,"₹1,549","₹37,212",Referral Program,2,Credit Card,Yes,0,Mumbai
+5e824a12-a26c-4663-bbb5-a44d7b49a53a,2024-05-19,28,Female,0,175,Consulting,"₹43,771","₹95,835",Google Ads,47,Bank Transfer,Yes,4,Mumbai
+f10d5038-8443-4c22-a8a3-f83d83e93fd3,2023-02-26,18,Male,1,668,E-Commerce,"₹1,661","₹74,079",Word of Mouth,14,Credit Card,No,5,Mumbai
+02ef1e87-0ded-4220-a4ba-92ba782f875e,2024-01-15,23,Male,1,486,Education,"₹1,315","₹24,946",Word of Mouth,31,UPI,No,7,Mumbai
+3e6d4b3f-e211-482b-bb90-2758e2881e1b,2024-06-21,52,Female,1,164,Education,"₹37,034","₹32,740",Google Ads,41,UPI,Yes,0,Mumbai
+942a623c-86da-4529-b4d0-ae9364f902d1,2024-05-14,30,Male,1,655,Manufacturing,"₹27,998","₹8,253",Instagram Ads,14,UPI,No,8,Mumbai
+5a3d192b-a806-47b4-860d-b928c9edabdd,2023-11-17,46,Male,1,293,Retail,"₹25,537","₹80,311",Referral Program,5,UPI,Yes,0,Mumbai
+c2d7e7c1-9a68-4385-8ef9-b7bec6556a29,2024-08-12,42,Female,1,93,E-Commerce,"₹36,507","₹33,813",Direct Traffic,11,UPI,Yes,0,Mumbai
+133ce764-7974-4923-accd-71424f5169f8,2023-02-19,20,Male,0,520,Education,"₹14,442","₹65,331",Referral Program,40,Bank Transfer,Yes,2,Mumbai
+ae844037-075a-4f47-89bb-32207465a9a6,2023-01-27,61,Female,0,676,Education,"₹27,778","₹28,632",Referral Program,5,Bank Transfer,No,0,Mumbai
+61d2f955-a5ca-4954-ac43-f1562c6bbaa3,2024-02-12,32,Female,0,70,Retail,"₹8,772","₹49,365",Direct Traffic,29,Bank Transfer,No,4,Mumbai
+5bf7b818-1a37-4053-a6e2-25b86707248f,2022-12-29,56,Male,0,325,Manufacturing,"₹34,137","₹68,593",Partner Website,11,UPI,Yes,4,Mumbai
+3d89802b-030f-4901-8b15-3a0b658c9ccc,2024-07-02,52,Male,1,32,E-Commerce,"₹38,794","₹34,431",Referral Program,5,UPI,No,8,Mumbai
+1acdf002-1aff-43c1-879b-dc9c1522c3c7,2023-04-21,21,Female,0,139,Education,"₹8,241","₹38,436",Referral Program,49,Credit Card,No,0,Mumbai
+0e52fc88-5e87-44a2-b1f5-ad86871ebc98,2022-11-05,21,Male,0,250,Healthcare,"₹5,194","₹19,413",Google Ads,32,Bank Transfer,Yes,8,Mumbai
+97d85845-0f2d-4546-bc74-783f6a5df66d,2023-01-27,65,Female,1,399,Manufacturing,"₹30,806","₹96,761",Facebook Ads,36,UPI,No,7,Mumbai
+6d95ca43-e484-41a1-a419-08bc2738f609,2024-01-11,33,Male,0,397,E-Commerce,"₹2,434","₹39,485",Facebook Ads,15,UPI,No,4,Mumbai
+e60334a3-ebf3-45c9-837e-bc77f09e3995,2023-05-23,19,Female,1,465,Education,"₹22,056","₹69,232",Instagram Ads,19,UPI,Yes,0,Mumbai
+c912c0ac-5f40-4613-a457-3b2320055339,2022-11-23,48,Female,1,33,Education,"₹49,586","₹17,101",Google Ads,22,Credit Card,No,0,Mumbai
+c6adb712-adea-4c86-8ff2-cd06b3720024,2023-10-06,38,Female,1,273,Retail,"₹19,407","₹9,831",Referral Program,34,UPI,Yes,2,Mumbai
+631087ae-8fba-48a5-b276-d5179ea6b70a,2022-11-14,51,Female,1,195,E-Commerce,"₹6,659","₹85,583",Facebook Ads,17,Credit Card,No,1,Mumbai
+9fb2db51-603b-4960-b7a6-63c98a1ec581,2022-12-20,35,Male,1,55,Healthcare,"₹48,987","₹52,897",Email Campaign,12,Credit Card,No,8,Mumbai
+2785a22c-88a3-45b2-b844-8dd2c834f679,2024-06-22,30,Female,0,424,Manufacturing,"₹29,658","₹6,004",Email Campaign,25,Bank Transfer,Yes,9,Mumbai
+c2c0bea2-ca1d-4744-b7a0-6ead5391ab76,2024-05-04,20,Male,0,503,Finance,"₹20,793","₹89,241",Email Campaign,17,UPI,Yes,0,Mumbai
+e1f62d0e-ecbd-451a-8dcf-60d845f95518,2023-11-04,38,Female,0,46,Tech,"₹46,261","₹46,924",Referral Program,10,Credit Card,No,0,Mumbai
+9957b8c1-ca90-4d31-8e55-e86548bc92ed,2023-01-10,32,Female,1,121,Healthcare,"₹47,081","₹22,509",Referral Program,28,UPI,Yes,0,Mumbai
+99ec08ea-a4cf-403b-ab9e-1391dc48cf6d,2023-07-12,39,Male,0,512,Finance,"₹34,432","₹38,170",Direct Traffic,18,Bank Transfer,Yes,0,Mumbai
+14eaf303-507c-44be-bd15-ded41434bfdc,2024-06-03,63,Male,0,572,Healthcare,"₹33,887","₹44,555",Instagram Ads,18,Bank Transfer,No,0,Mumbai
+b9617c65-35fe-41f2-8e2f-91414b49e282,2022-12-24,49,Male,0,234,E-Commerce,"₹41,250","₹15,662",Word of Mouth,45,Credit Card,Yes,0,Mumbai
+83a84556-e797-45f1-8990-d27a6b5a0d22,2023-10-06,27,Male,0,531,Finance,"₹3,566","₹66,930",Instagram Ads,32,Bank Transfer,No,0,Mumbai
+a99cdad3-e5d7-4b67-af89-06443cf80374,2022-11-10,18,Male,1,429,E-Commerce,"₹21,756","₹48,403",Instagram Ads,14,Bank Transfer,No,2,Mumbai
+10d71248-5140-474e-baca-bb15288c13e7,2023-09-16,54,Female,0,236,Finance,"₹41,906","₹37,365",Partner Website,16,Bank Transfer,Yes,6,Mumbai
+a7b9a807-06f6-42f8-bd9d-51ad93cdf323,2024-07-15,43,Male,1,648,Healthcare,"₹35,605","₹63,188",Email Campaign,18,UPI,No,1,Mumbai
+322ab445-d40c-4c0a-98ce-52d722c1d30e,2023-12-03,65,Female,1,175,Retail,"₹6,094","₹77,060",Referral Program,16,UPI,Yes,4,Mumbai
+6594c893-3a92-4408-9282-2b7e730c4feb,2024-07-20,31,Female,0,130,Healthcare,"₹2,960","₹99,633",Email Campaign,17,Credit Card,No,5,Mumbai
+25002a30-d0cc-4a56-bfb0-ed296027749a,2023-03-25,38,Female,1,270,E-Commerce,"₹7,320","₹27,673",Instagram Ads,7,Credit Card,Yes,2,Mumbai
+694b1d22-6e9a-4020-bcf4-c8b03b7a6d40,2024-03-16,23,Male,1,192,Healthcare,"₹36,710","₹64,471",Referral Program,12,Bank Transfer,Yes,0,Mumbai
+65290080-5c1c-4de2-a68d-0a5ea4d65039,2024-05-12,38,Male,1,202,Consulting,"₹16,691","₹18,156",Google Ads,34,Bank Transfer,No,7,Mumbai
+13a94c4e-da74-48c3-8f7e-b2213b6cd3d9,2023-04-06,55,Female,1,531,Consulting,"₹19,595","₹58,287",Direct Traffic,10,Credit Card,Yes,0,Mumbai
+fbffd8a9-25e2-4a88-9abd-4d5af44ef8cd,2024-05-17,57,Male,1,576,Finance,"₹49,594","₹2,645",Facebook Ads,5,Bank Transfer,Yes,6,Mumbai
+7ad63b02-6074-403b-8a1a-d43e2a4670fd,2023-09-13,60,Male,1,313,Consulting,"₹11,029","₹60,076",Facebook Ads,21,Credit Card,Yes,0,Mumbai
+386a930c-c0a6-417e-b05a-fa1eab3519a8,2024-05-21,52,Male,1,388,Tech,"₹32,675","₹95,585",Instagram Ads,3,UPI,No,0,Mumbai
+8cd205e0-dd03-4892-858d-f7b182776694,2022-11-26,47,Female,0,410,Finance,"₹18,175","₹76,351",Word of Mouth,19,Bank Transfer,No,9,Mumbai
+937875b0-7fa7-450a-a001-330cd5c9c90c,2023-09-21,41,Female,0,562,Consulting,"₹43,658","₹51,151",Email Campaign,45,Bank Transfer,Yes,1,Mumbai
+0989b46a-ced8-43ec-aa4f-73947a9d9e30,2023-10-11,32,Female,1,192,Education,"₹47,298","₹68,384",Google Ads,44,Bank Transfer,Yes,2,Mumbai
+3319e81a-28d0-4312-8b1a-3b8c0f1f33b5,2024-02-28,41,Female,1,638,Healthcare,"₹5,874","₹34,541",Referral Program,35,UPI,No,8,Mumbai
+0340abec-c7a9-4731-bb99-14317f81320b,2023-03-24,31,Female,0,336,Manufacturing,"₹26,476","₹73,847",Word of Mouth,6,UPI,No,7,Mumbai
+38d626ce-a7b4-43dd-b9e9-035254cea100,2023-04-06,62,Male,0,368,Healthcare,"₹13,642","₹88,099",Email Campaign,14,Bank Transfer,No,0,Mumbai
+d6efe9f3-e399-4575-bf08-89e61d94bdba,2023-02-19,33,Male,0,84,Consulting,"₹12,704","₹81,739",Instagram Ads,4,Credit Card,Yes,4,Mumbai
+96d98f38-1b63-4652-b92a-7ced2a01bd29,2023-07-12,37,Male,0,362,Retail,"₹7,894","₹51,955",Email Campaign,45,UPI,No,0,Mumbai
+6784b53f-2b51-40b6-9993-2d8e08203c8e,2023-01-04,59,Male,1,156,E-Commerce,"₹34,093","₹10,290",Instagram Ads,18,Bank Transfer,Yes,0,Mumbai
+15e93196-dafc-4b27-b6b7-c6d447f8d0df,2024-04-24,55,Male,1,272,Manufacturing,"₹42,464","₹59,942",Partner Website,29,Bank Transfer,No,0,Mumbai
+8efc4d61-4b81-4f8a-a0b3-0972d4603e5f,2024-09-05,32,Male,0,629,Finance,"₹12,152","₹83,667",Facebook Ads,35,UPI,Yes,9,Mumbai
+b331de23-e293-4250-95fc-119911373ad4,2024-08-01,58,Male,0,438,Retail,"₹34,240","₹31,143",Word of Mouth,38,Credit Card,No,2,Mumbai
+a090b381-8203-4172-9690-7d4342274546,2023-05-25,25,Male,0,532,Healthcare,"₹44,536","₹25,509",Facebook Ads,16,Bank Transfer,Yes,1,Mumbai
+6333923a-59ab-42c5-859f-bfa870e1ecb7,2024-08-04,20,Male,0,633,Consulting,₹943,"₹88,780",Email Campaign,20,Credit Card,No,7,Mumbai
+870fb9d6-783a-4cf6-90e4-9992c279eb66,2024-06-03,37,Female,1,332,Finance,"₹24,403","₹37,741",Google Ads,24,Credit Card,No,6,Mumbai
+38adb20c-ee76-4c37-ac56-7e692015b95e,2023-12-03,46,Male,0,493,Finance,"₹34,022","₹27,898",Referral Program,35,UPI,Yes,3,Mumbai
+b3649e77-bc22-44e7-8b88-c654d63a72d6,2022-12-06,59,Female,0,264,Education,"₹28,680","₹86,674",Instagram Ads,44,Bank Transfer,No,0,Mumbai
+1055ff3b-43e6-494c-b5db-3d738f62f258,2023-06-21,64,Male,0,725,Education,"₹49,291","₹63,948",Referral Program,19,Bank Transfer,No,5,Mumbai
+855a8e54-bbb5-47cf-9eed-de965643f644,2022-11-30,34,Male,1,67,Consulting,"₹21,619","₹62,768",Facebook Ads,4,Credit Card,No,0,Mumbai
+f19aeb66-518f-4933-990e-f40ef7ecb9a3,2022-12-16,50,Female,1,168,Consulting,"₹10,863","₹44,262",Direct Traffic,33,UPI,No,0,Mumbai
+9120dad3-e58b-43b7-8d43-ccc8974f05bf,2023-05-04,65,Female,1,224,Tech,"₹44,165","₹6,506",Google Ads,2,UPI,Yes,1,Mumbai
+d27e7244-afca-46c3-ae4e-ebb23c2075f2,2024-08-15,24,Female,0,556,Education,"₹38,664","₹21,605",Google Ads,13,UPI,Yes,1,Mumbai
+ed82839c-cb3d-4e73-bb00-4168db696d07,2024-06-26,43,Male,0,676,E-Commerce,"₹32,041","₹79,590",Referral Program,45,Credit Card,No,5,Mumbai
+e93ff04f-d77d-484c-8a18-90577a262f96,2023-04-13,45,Male,0,30,Manufacturing,"₹3,965","₹29,231",Facebook Ads,30,Credit Card,Yes,6,Mumbai
+cd09655e-012e-4048-b15c-b14ae87dcb2e,2024-09-11,45,Male,1,590,Finance,"₹3,211","₹80,397",Direct Traffic,34,Bank Transfer,Yes,5,Mumbai
+975eecbe-ec15-4c21-9a1f-74e3835deb9c,2024-08-31,29,Male,1,125,Education,"₹25,698","₹78,123",Referral Program,30,UPI,Yes,2,Mumbai
+cd828ab7-2338-4642-bcbb-a597e04316c8,2024-02-17,61,Male,0,442,Consulting,"₹22,988","₹14,515",Email Campaign,24,Credit Card,Yes,0,Mumbai
+760a8895-0566-4d35-aca8-029c3f070a2d,2023-12-16,44,Female,0,567,Tech,"₹39,015","₹88,211",Google Ads,48,UPI,Yes,0,Mumbai
+d8f852e0-0481-48a3-a807-db9aded76f22,2022-11-18,21,Male,1,458,Consulting,"₹24,108","₹39,622",Google Ads,44,Credit Card,No,0,Mumbai
+1718aa18-141d-4d5e-a1e1-8d481a821f9c,2023-02-16,34,Male,0,264,Consulting,"₹28,398","₹17,600",Email Campaign,33,Bank Transfer,Yes,0,Mumbai
+efcde762-9dfa-44cc-a6bd-1fb0b4d9e7d6,2022-12-23,37,Female,0,378,Consulting,"₹2,419","₹28,892",Facebook Ads,41,UPI,No,0,Mumbai
+8dc483a1-089e-4198-b3a7-28dbc98eae9e,2024-08-09,64,Male,0,510,Healthcare,"₹31,671","₹84,279",Google Ads,49,Credit Card,Yes,0,Mumbai
+22227733-37b6-4df2-be18-165e6c554014,2024-02-07,46,Male,1,425,Manufacturing,"₹46,741","₹70,310",Word of Mouth,10,UPI,No,5,Mumbai
+5d67b3d4-54bd-495c-82f5-3a6fd7ff6350,2024-03-19,35,Female,0,380,Education,"₹21,099","₹22,801",Direct Traffic,18,Credit Card,No,2,Mumbai
+4d5e8561-fe2e-4968-9dc5-ef82b4798f0d,2024-08-04,58,Female,0,445,Finance,"₹17,465","₹38,695",Partner Website,19,Credit Card,No,4,Mumbai
+0e5e1514-728f-47e4-bef0-ec7add17cc68,2023-07-29,45,Male,0,80,Healthcare,"₹47,503","₹29,853",Partner Website,7,Credit Card,Yes,0,Mumbai
+76477c02-7110-40af-a1ed-0a470e97ec01,2022-11-28,39,Female,0,110,Consulting,"₹48,978","₹5,429",Partner Website,19,UPI,Yes,0,Mumbai
+771f8433-c107-4452-b49c-4d203178f2a6,2024-01-17,52,Female,1,65,E-Commerce,"₹14,934","₹5,606",Instagram Ads,24,Credit Card,No,0,Mumbai
+2c061564-16fb-4fd5-8a1d-9b62f350cf59,2024-05-01,59,Female,1,96,Finance,"₹46,746","₹5,478",Word of Mouth,15,Bank Transfer,No,9,Mumbai
+5e2c546a-2121-4f8d-9524-e08777a1e733,2023-07-06,41,Female,1,670,Healthcare,"₹37,149","₹84,816",Instagram Ads,41,UPI,Yes,6,Mumbai
+e2f86061-d401-4c32-87cf-1c302822d842,2023-09-22,27,Male,0,696,E-Commerce,"₹2,499","₹41,134",Facebook Ads,42,Bank Transfer,Yes,8,Mumbai
+3ea0956b-8cb0-4b8a-8c0d-a7562cb8d628,2023-03-21,62,Female,1,652,E-Commerce,"₹15,349","₹70,963",Email Campaign,23,Bank Transfer,No,0,Mumbai
+38857d5b-79b5-48c2-b0c0-fd3386b2d1ba,2023-04-10,53,Male,0,709,Manufacturing,"₹11,403","₹71,897",Referral Program,4,UPI,Yes,0,Mumbai
+9db56d8b-98df-4ea0-ae8e-b01fb8d75e5e,2024-04-29,37,Male,1,510,Finance,"₹47,968","₹26,475",Word of Mouth,38,Credit Card,Yes,0,Mumbai
+46a5dbe0-fdd3-43bd-82ad-6ad4d51c56e7,2023-07-27,65,Female,0,497,Education,"₹5,945","₹67,177",Direct Traffic,4,Bank Transfer,Yes,5,Mumbai
+086464a2-3031-43bc-8bcd-43872b52fe39,2023-09-25,29,Female,1,171,Education,"₹35,896","₹22,730",Facebook Ads,5,UPI,Yes,0,Mumbai
+5fa82f01-631e-4044-8bfb-d1a2e38d7d8d,2024-06-23,56,Male,1,385,Tech,"₹18,540","₹22,113",Referral Program,41,Credit Card,Yes,1,Mumbai
+5ea55bdd-c5ae-4171-9361-4e8837efc3af,2023-04-05,49,Male,1,500,Healthcare,₹746,"₹21,011",Facebook Ads,44,UPI,Yes,8,Mumbai
+9465f074-8f88-4862-8b19-e2c8d90307a4,2022-11-16,30,Female,0,650,Tech,"₹31,653","₹56,746",Instagram Ads,23,UPI,No,2,Mumbai
+ec1172f9-44d9-44f0-aeed-6e25e0d1884b,2024-09-09,35,Male,0,620,Retail,"₹5,712","₹43,853",Partner Website,40,UPI,No,6,Mumbai
+4b8f992e-5798-475b-a1af-fd6736c89367,2024-07-21,53,Female,0,702,Education,"₹3,839","₹86,195",Email Campaign,37,Credit Card,No,9,Mumbai
+0e1a6ece-a950-4914-b6ae-a3cc3b72cdfb,2023-07-03,31,Male,1,468,Healthcare,"₹23,642","₹37,818",Instagram Ads,11,Bank Transfer,No,3,Mumbai
+bf514163-9f29-468a-a784-b9d38fac8aab,2024-02-07,37,Male,0,560,Manufacturing,"₹19,894","₹38,321",Email Campaign,11,Bank Transfer,No,2,Mumbai
+cac68900-aacc-47c8-9671-a6b8df8476bf,2023-05-26,28,Female,0,156,Tech,"₹35,636","₹22,309",Word of Mouth,13,UPI,No,0,Mumbai
+07eacca5-ee68-48c6-b07f-ee6cb27922eb,2024-01-16,25,Male,0,234,Manufacturing,"₹12,686","₹19,688",Referral Program,14,UPI,Yes,9,Mumbai
+bbb9e85a-f15a-4125-80e2-c8aa76d23852,2023-06-01,23,Female,0,58,Manufacturing,"₹35,107","₹29,176",Facebook Ads,8,Credit Card,Yes,0,Mumbai
+a511c6c4-eb01-4dae-aa4b-14d20497cdce,2024-09-11,29,Male,0,474,Consulting,"₹39,473","₹69,879",Google Ads,25,UPI,No,8,Mumbai
+918adf3d-fb7a-449f-8e7e-2dc662cd3713,2022-12-04,48,Female,0,493,Consulting,"₹4,895","₹68,592",Google Ads,18,UPI,No,8,Mumbai
+b6c0dff4-9956-4a24-bb8b-30388433629e,2023-11-18,50,Female,1,309,Manufacturing,"₹15,790","₹85,728",Email Campaign,44,UPI,No,7,Mumbai
+2714813f-b474-4796-8ba1-5275e2b1d97c,2023-07-31,29,Male,1,180,Tech,"₹22,651","₹90,012",Partner Website,44,Bank Transfer,Yes,0,Mumbai
+dd9c451a-5754-4198-bba0-b6392160896d,2024-06-30,34,Female,0,269,Consulting,"₹4,191","₹10,416",Partner Website,18,UPI,Yes,2,Mumbai
+fb1dd278-77ac-45e0-9bfc-64c92c9b8a90,2023-09-13,24,Female,1,295,Retail,"₹7,970","₹40,994",Email Campaign,10,Bank Transfer,Yes,5,Mumbai
+d7ff1abb-8186-4f92-888a-f93244240b7f,2023-07-07,18,Female,1,723,E-Commerce,"₹4,341","₹67,422",Instagram Ads,7,Credit Card,Yes,0,Mumbai
+ab4649c3-c091-4460-be2f-4d16593b6045,2023-03-21,22,Female,0,134,E-Commerce,"₹37,616","₹9,584",Google Ads,44,Credit Card,No,0,Mumbai
+ab6baab0-aa95-46ea-a418-3367f83abc2e,2023-11-29,25,Female,0,462,Consulting,"₹18,276","₹94,302",Instagram Ads,14,Bank Transfer,No,0,Mumbai
+79386fef-ca2a-495a-a383-f68d3688d8cd,2024-08-27,54,Female,1,526,Tech,"₹6,560","₹19,830",Referral Program,15,Bank Transfer,No,0,Mumbai
+3edceca6-43a8-45c1-b657-3b860d40652b,2024-08-17,18,Male,0,469,E-Commerce,"₹28,084","₹86,825",Google Ads,16,Bank Transfer,No,6,Mumbai
+77e8dcd8-1bfd-445a-a51a-adc39b141f9d,2023-01-05,55,Male,1,714,Finance,"₹48,793","₹78,066",Referral Program,2,Bank Transfer,Yes,7,Mumbai
+d6ebd685-342c-477c-b2c2-82121e54be04,2024-07-06,52,Female,1,187,E-Commerce,"₹4,800","₹4,591",Facebook Ads,30,UPI,Yes,0,Mumbai
+05e2725b-6212-4143-95b0-6f9aee5a6b56,2022-12-17,47,Female,1,201,Education,"₹3,838","₹94,878",Instagram Ads,30,Bank Transfer,No,4,Mumbai
+d82b9462-ff33-4bc0-ae2b-43999415a169,2024-05-03,37,Male,0,523,Tech,"₹5,987","₹22,395",Email Campaign,18,Bank Transfer,Yes,0,Mumbai
+11e5fb43-3b40-44a6-8480-6229e3a8aed9,2022-10-11,48,Male,1,340,Consulting,"₹36,782","₹55,182",Google Ads,31,Bank Transfer,Yes,0,Mumbai
+a806e392-8f37-4db8-b184-e4d6a609a5ec,2023-10-21,33,Male,0,432,Consulting,"₹30,029","₹17,738",Instagram Ads,44,UPI,Yes,0,Mumbai
+3b9b7268-a579-4d74-b506-595e885f2b51,2024-02-18,24,Male,0,698,E-Commerce,"₹30,762","₹3,631",Email Campaign,48,UPI,Yes,3,Mumbai
+bf3f1978-1470-4a69-a55a-de829d6e08d5,2023-05-16,37,Male,0,705,Tech,"₹11,780","₹18,905",Facebook Ads,13,UPI,No,0,Mumbai
+6eff260d-be72-4594-be93-f080707c7dfd,2024-06-05,44,Female,0,688,Retail,"₹43,575","₹20,056",Google Ads,20,Credit Card,Yes,5,Mumbai
+2786f9df-33e9-4b52-b782-56062069b4e2,2024-06-24,60,Male,0,695,Finance,"₹29,304","₹90,082",Referral Program,49,UPI,No,3,Mumbai
+e466b3bf-bca5-411c-b507-a11ffdecf145,2024-07-05,35,Male,1,492,Consulting,"₹10,415","₹36,447",Facebook Ads,35,Bank Transfer,Yes,5,Mumbai
+e73f4e4c-f83e-41c9-aabf-c708687aba3a,2024-06-18,24,Male,0,396,Tech,"₹11,658","₹55,418",Partner Website,23,UPI,Yes,0,Mumbai
+ba2d041d-6875-487a-81a2-e5d5f4de984d,2024-07-15,38,Female,0,579,Consulting,"₹9,121","₹38,190",Email Campaign,42,UPI,No,1,Mumbai
+582f6218-abeb-46d9-a9e8-35d12cf2d6b7,2023-01-09,32,Female,0,672,Consulting,"₹11,047","₹27,014",Direct Traffic,33,Bank Transfer,No,0,Mumbai
+f618b5d8-e5fa-493b-b332-87ccece24fb0,2023-10-02,53,Male,0,284,Education,"₹23,677","₹73,999",Google Ads,38,UPI,Yes,2,Mumbai
+800fdd6f-81c4-4025-b677-e49306ebec26,2024-08-18,24,Male,0,237,E-Commerce,"₹46,753","₹51,278",Google Ads,35,Credit Card,Yes,4,Mumbai
+dad45bcc-ebdd-4d86-9175-7b073c9eda8c,2024-09-04,25,Female,1,479,Education,"₹2,959","₹2,780",Word of Mouth,36,UPI,No,9,Mumbai
+eae945ac-feb5-4c06-a7bc-c65e1ff82634,2024-06-09,65,Female,0,124,E-Commerce,"₹29,268","₹92,643",Word of Mouth,20,Credit Card,Yes,0,Mumbai
+dcda8658-4d01-43ce-a823-032113e3de9b,2024-02-25,53,Female,0,507,Consulting,"₹38,541","₹60,258",Facebook Ads,3,Credit Card,Yes,0,Mumbai
+88dee6fc-2635-4c2d-9677-a2bd588105a8,2023-11-30,51,Male,1,712,Tech,"₹42,725","₹98,123",Google Ads,8,Credit Card,No,0,Mumbai
+49905621-e380-4016-8c2c-8e101ef3d3fd,2024-06-03,56,Male,0,219,Manufacturing,"₹38,691","₹43,192",Email Campaign,40,Bank Transfer,Yes,0,Mumbai
+fef5c6ca-ccfe-4327-9a33-1fbcad5e9dd2,2023-05-29,24,Male,1,513,E-Commerce,"₹17,934","₹60,300",Facebook Ads,32,UPI,Yes,1,Mumbai
+6ec07cdb-223b-45de-97c8-fd9f6db69d01,2023-01-28,61,Male,1,565,Manufacturing,"₹38,747","₹91,504",Referral Program,29,Credit Card,Yes,5,Mumbai
+a76a3012-cde5-4fbb-8369-534228eebd43,2023-05-13,28,Female,1,452,Finance,"₹15,919","₹44,923",Facebook Ads,7,Credit Card,Yes,0,Mumbai
+4fa26ae7-63b3-4194-a362-252b3e2034ec,2024-09-30,63,Male,1,669,Education,"₹35,517","₹90,196",Facebook Ads,2,UPI,Yes,0,Mumbai
+45ebbf97-4cf7-4ad0-b725-d67cd7a3e7b1,2023-02-10,22,Female,0,634,Manufacturing,"₹36,077","₹3,395",Direct Traffic,21,Bank Transfer,No,0,Mumbai
+a547c138-9313-4f12-a38f-9ee38c39ea0e,2023-10-28,58,Female,0,162,Education,"₹3,421","₹98,384",Referral Program,6,Bank Transfer,Yes,0,Mumbai
+cac8ceda-c7d1-494d-b98a-fdf68340d8ff,2024-04-19,27,Female,1,84,E-Commerce,"₹5,176","₹16,779",Partner Website,28,Credit Card,No,2,Mumbai
+8b2027a0-b9b1-4e6e-a87d-0c2663462104,2023-09-20,31,Female,1,539,E-Commerce,"₹20,925","₹72,028",Word of Mouth,48,Bank Transfer,No,0,Mumbai
+f934ce0d-9bf2-4848-a846-2a5fd5f1f4a4,2024-02-02,49,Female,0,699,Finance,"₹35,685","₹30,722",Email Campaign,42,UPI,Yes,0,Mumbai
+f2bfbe86-9461-4392-abe2-3f0d6d6093be,2024-04-16,47,Male,1,570,E-Commerce,"₹13,963","₹8,111",Partner Website,36,Bank Transfer,No,3,Mumbai
+6ff44570-3d0a-480e-bd06-82c1162dfec0,2024-02-25,27,Female,1,439,Consulting,"₹25,974","₹10,984",Partner Website,32,UPI,Yes,0,Mumbai
+883df345-10b3-46fa-a7c4-6c786ed0cc2d,2023-11-20,28,Male,1,240,Finance,"₹41,435","₹98,552",Partner Website,45,Credit Card,No,6,Mumbai
+65e172d0-8fe5-4411-9510-35fa6bfd470b,2022-12-17,45,Female,0,695,Manufacturing,"₹1,969","₹94,176",Word of Mouth,42,UPI,No,0,Mumbai
+bd4b29fc-8388-48f9-8022-1dc07c6209e6,2023-05-10,51,Female,1,322,E-Commerce,"₹7,792","₹73,328",Instagram Ads,46,Credit Card,No,1,Mumbai

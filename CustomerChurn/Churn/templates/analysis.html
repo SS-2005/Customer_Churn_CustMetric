@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='classical.css') }}">
+</head>
+<body>
+    <video autoplay muted loop id="bgVideo">
+        <source src="{{ url_for('static', filename='videos/video.mp4') }}" type="video/mp4">
+    </video>
+    <div class="container">
+        <h1>Customer Analysis</h1>
+        <form method="post">
+            <label for="city">Select City:</label>
+            <select name="city" id="city">
+                {% for i, city in enumerate(cities, 1) %}
+                    <option value="{{ i }}">{{ city }}</option>
+                {% endfor %}
+                <option value="{{ cities|length + 1 }}">All Cities</option>
+            </select>
+            
+            <label for="age">Select Age Group:</label>
+            <select name="age" id="age">
+                <option value="1">18-25</option>
+                <option value="2">26-35</option>
+                <option value="3">36-45</option>
+                <option value="4">46-55</option>
+                <option value="5">56-65</option>
+                <option value="6">All Ages</option>
+            </select>
+            
+            <label for="gender">Select Gender:</label>
+            <select name="gender" id="gender">
+                <option value="1">Male</option>
+                <option value="2">Female</option>
+                <option value="3">All Genders</option>
+            </select>
+            
+            <button type="submit">Analyze</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Files</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        .download-container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .download-item {
+            margin-bottom: 1.5rem;
+            padding: 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .download-btn {
+            display: inline-block;
+            padding: 8px 16px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .download-btn:hover {
+            background-color: #45a049;
+        }
+        .download-btn.disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        .empty-message {
+            text-align: center;
+            padding: 1rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="{{ url_for('index') }}">Home</a></li>
+                <li><a href="{{ url_for('analysis') }}">Analysis</a></li>
+                <li><a href="{{ url_for('download') }}" class="active">Download</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="download-container">
+            <h1>Download Files</h1>
+            <p>Download the available data files and reports:</p>
+            
+            {% if available_csv_files %}
+                {% for file in available_csv_files %}
+                <div class="download-item">
+                    <h3>{{ file.replace('.csv', '').replace('_', ' ').title() }}</h3>
+                    <p>Dataset containing information from {{ file.replace('.csv', '').replace('_', ' ').replace('customer data ', '').title() }}.</p>
+                    <a href="{{ url_for('download_file', filename=file) }}" class="download-btn">Download CSV</a>
+                </div>
+                {% endfor %}
+            {% else %}
+                <div class="empty-message">
+                    <p>No CSV files are available for download. Please upload data files first.</p>
+                </div>
+            {% endif %}
+            
+            {% if report_exists %}
+            <div class="download-item">
+                <h3>Customer Analysis Report</h3>
+                <p>Comprehensive analysis report of customer data.</p>
+                <a href="{{ url_for('download_file', filename='customer_analysis_report.pdf') }}" class="download-btn">Download PDF</a>
+            </div>
+            {% else %}
+            <div class="download-item">
+                <h3>Customer Analysis Report</h3>
+                <p>Analysis report is not available yet. Please run the analysis first.</p>
+                <a href="#" class="download-btn disabled">Download PDF</a>
+            </div>
+            {% endif %}
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Customer Analysis Dashboard</p>
+    </footer>
+</body>
+</html> 

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Report Generated</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='output.css') }}">
+    <style>
+        #bgVideo {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            z-index: -1;
+        }
+    </style>
+</head>
+<body>
+    <video autoplay muted loop id="bgVideo">
+        <source src="{{ url_for('static', filename='videos/video.mp4') }}" type="video/mp4">
+    </video>
+    <div class="container">
+        <h1>Thank You!</h1>
+        <p>Your report has been generated successfully.</p>
+        <p>We hope this report helps you in growing your company.</p>
+        <div class="button-container">
+            <a href="{{ url_for('index') }}" class="btn">Generate Another Report</a>
+            <a href="{{ url_for('download_pdf') }}" class="btn">Download PDF</a>
+            <a href="{{ url_for('download') }}" class="btn btn-exit">Download Files</a>
+        </div>
+    </div>
+    <div class="background">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</body>
+</html>

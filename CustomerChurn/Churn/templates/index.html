@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload CSV Files</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='classical.css') }}">
+    <script>
+        function addCity() {
+            const cityContainer = document.getElementById('city-container');
+            const cityCount = cityContainer.children.length + 1;
+            
+            const newCityDiv = document.createElement('div');
+            newCityDiv.innerHTML = `
+                <label for="city_name_${cityCount}">City Name:</label>
+                <input type="text" id="city_name_${cityCount}" name="city_name_${cityCount}" required>
+                <label for="city_file_${cityCount}">CSV File:</label>
+                <input type="file" id="city_file_${cityCount}" name="city_file_${cityCount}" accept=".csv" required>
+            `;
+            cityContainer.appendChild(newCityDiv);
+        }
+    </script>
+</head>
+<body>
+    <video autoplay muted loop id="bgVideo">
+        <source src="{{ url_for('static', filename='videos/video.mp4') }}" type="video/mp4">
+    </video>
+    <div class="container">
+        <h1>Upload CSV Files</h1>
+        <form method="post" enctype="multipart/form-data">
+            <div id="city-container">
+                <div>
+                    <label for="city_name_1">City Name:</label>
+                    <input type="text" id="city_name_1" name="city_name_1" required>
+                    <label for="city_file_1">CSV File:</label>
+                    <input type="file" id="city_file_1" name="city_file_1" accept=".csv" required>
+                </div>
+            </div>
+            <button type="button" onclick="addCity()">Add Another City</button>
+            <button type="submit">Upload and Analyze</button>
+        </form>
+    </div>
+</body>
+</html>

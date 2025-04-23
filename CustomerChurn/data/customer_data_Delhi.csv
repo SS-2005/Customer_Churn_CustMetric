@@ -1,0 +1,1001 @@
+customerid,acquisitiondate,age,gender,churn,retentionperiod,companytype,acquisitioncost,totalspend,marketingchannel,customerinteractions,paymentmethod,billingissues,frequencyofbillingissues,city
+809e2c71-eaba-4411-a908-f21674c5bd5c,2023-04-16,61,Female,0,531,Healthcare,"₹23,677","₹12,120",Word of Mouth,1,UPI,Yes,0,Delhi
+4d77e18e-26ed-4515-96e1-6173da49825d,2023-09-22,32,Male,1,174,Retail,"₹24,522","₹9,767",Partner Website,31,UPI,Yes,0,Delhi
+fa7a90c5-6c78-4927-acd7-0285d40868dc,2024-02-19,29,Female,0,230,Finance,"₹41,261","₹23,852",Email Campaign,31,Bank Transfer,Yes,8,Delhi
+8d332feb-9162-460c-b3f8-fbd28f44e89f,2024-05-19,38,Male,0,490,Healthcare,"₹6,042","₹80,239",Instagram Ads,42,UPI,Yes,3,Delhi
+ce1973b6-4f35-4039-83cb-55378f2f71d9,2024-04-28,42,Female,0,587,Manufacturing,"₹25,976","₹1,929",Facebook Ads,42,Bank Transfer,Yes,0,Delhi
+7df1811b-3849-4070-8d55-068de559f55d,2024-08-31,29,Male,1,576,E-Commerce,"₹31,284","₹78,487",Partner Website,34,Bank Transfer,Yes,0,Delhi
+f0f53086-28bc-4f94-9234-711f252d4334,2023-09-03,29,Female,0,282,Tech,"₹23,240","₹92,575",Email Campaign,9,UPI,No,0,Delhi
+c7c31fa1-f4d5-43f1-81e7-caa3f6dadb9f,2024-07-02,53,Male,0,419,Manufacturing,"₹25,317","₹96,040",Email Campaign,22,UPI,No,0,Delhi
+40b1f931-43d6-4767-920b-6f09fdd7dee9,2024-07-20,25,Male,0,623,Manufacturing,"₹48,096","₹18,438",Instagram Ads,13,Bank Transfer,Yes,3,Delhi
+ce16f9c6-5070-463f-8019-808b8b48f6dd,2023-11-02,43,Female,1,285,E-Commerce,"₹16,552","₹49,515",Email Campaign,25,Bank Transfer,No,5,Delhi
+f18ae874-24a1-405a-9b26-0616d41db41b,2024-01-06,37,Male,0,479,Tech,"₹35,653","₹6,744",Instagram Ads,48,UPI,Yes,0,Delhi
+45f59840-57e5-49eb-ba3e-8732be81dcf5,2024-07-12,26,Male,0,39,Manufacturing,"₹47,576","₹84,820",Word of Mouth,18,UPI,Yes,1,Delhi
+5689a40a-5151-46e4-b985-7c4ef6aa2e47,2023-08-01,30,Male,0,271,Healthcare,"₹1,171","₹43,417",Google Ads,12,Bank Transfer,Yes,0,Delhi
+3c33842d-6780-4ac2-94b8-5b689eedd506,2023-04-23,22,Female,0,280,Healthcare,₹663,"₹8,069",Partner Website,40,Bank Transfer,Yes,0,Delhi
+a7948544-1829-498b-98db-518d1863a552,2024-10-06,55,Male,1,34,Healthcare,"₹41,924","₹43,359",Referral Program,17,Bank Transfer,Yes,8,Delhi
+1811b29f-29f9-43da-9369-5a109443ed36,2024-08-07,52,Male,0,148,Tech,"₹44,502","₹20,799",Google Ads,15,Credit Card,No,0,Delhi
+b45ed2db-fc76-41bd-bf98-6a05d16db7fa,2023-01-10,56,Male,1,403,Manufacturing,"₹5,295","₹99,746",Partner Website,42,Bank Transfer,No,0,Delhi
+90859e8a-0cc2-4bb3-acba-4cc37e845a1e,2023-12-22,23,Male,1,94,Consulting,"₹11,134","₹94,762",Instagram Ads,15,Credit Card,No,5,Delhi
+d9856336-c10b-4969-953e-eac816a3597c,2023-06-11,51,Male,1,175,Tech,"₹5,298","₹71,188",Partner Website,15,UPI,No,1,Delhi
+bd7d56c9-82c1-4135-a1f4-87497c70f2f7,2022-11-18,55,Male,0,253,Healthcare,"₹22,920","₹90,859",Word of Mouth,39,UPI,Yes,0,Delhi
+6909ffdc-51d5-4cad-b8b3-df5660d34927,2023-11-18,21,Female,1,268,E-Commerce,"₹29,800","₹8,597",Instagram Ads,13,Bank Transfer,No,0,Delhi
+ba84dc71-51ba-4173-aab8-471f8abaf190,2024-05-06,41,Female,0,206,Manufacturing,"₹24,845","₹48,093",Google Ads,17,UPI,Yes,1,Delhi
+cfcb2f6c-45ef-4d04-944f-352bcf6c269a,2024-03-16,36,Male,1,311,Manufacturing,"₹11,249","₹38,226",Facebook Ads,32,UPI,No,0,Delhi
+3365eec9-076c-4113-ad53-10a76e4f6b57,2024-07-10,50,Male,1,92,Education,"₹39,095","₹73,127",Facebook Ads,9,UPI,No,0,Delhi
+bb7f6ae1-9f70-46ef-8576-c832911cbf82,2024-04-14,42,Male,1,246,Education,"₹25,621","₹92,369",Direct Traffic,40,UPI,No,2,Delhi
+f80efd0b-0789-49e7-95b5-5285a4d478b6,2024-09-13,33,Male,1,718,Retail,"₹37,987","₹78,362",Direct Traffic,20,Credit Card,No,2,Delhi
+b508e0c1-bf01-40c2-a201-f9c4ebc68647,2023-02-24,32,Male,1,490,Consulting,"₹28,911","₹27,417",Partner Website,26,Credit Card,Yes,5,Delhi
+c90aa67d-7837-49ba-9fba-559699c581a0,2022-12-22,28,Female,1,639,Consulting,"₹33,861","₹19,693",Facebook Ads,27,Bank Transfer,No,7,Delhi
+1b8e0360-ea6e-47e7-9f90-11655df773d1,2023-06-22,23,Female,1,134,Finance,"₹21,723","₹80,674",Instagram Ads,21,Bank Transfer,No,1,Delhi
+5f9f98fd-d730-43f6-abaa-7af458862bf5,2023-05-08,19,Female,1,128,Consulting,"₹7,894","₹54,161",Email Campaign,18,Bank Transfer,Yes,1,Delhi
+9e2a6a34-4c6d-4a08-a105-2a2625ecd5a6,2023-01-05,24,Female,0,540,Education,"₹14,556","₹3,169",Instagram Ads,13,UPI,Yes,0,Delhi
+49dc9bb3-151b-49fc-8eb4-9f8ae21a8be8,2023-11-08,30,Female,0,414,Tech,"₹28,880","₹85,092",Email Campaign,16,UPI,No,0,Delhi
+259a4f3e-c4a4-4524-8c61-9509ad33c0ef,2023-05-15,52,Female,1,434,Consulting,"₹26,535","₹23,052",Google Ads,9,Credit Card,Yes,2,Delhi
+b0de213a-7f0e-4e86-938b-d4bb58e34e75,2023-04-26,40,Female,1,547,Education,"₹31,120","₹72,849",Referral Program,12,Credit Card,Yes,1,Delhi
+a1b1a5e6-0fe7-4dce-9f4d-9eb15a685106,2023-07-24,61,Female,1,505,Retail,"₹20,377","₹74,851",Email Campaign,44,Bank Transfer,Yes,0,Delhi
+a95468e4-108d-466b-b1c2-48bfeef40c01,2024-03-09,53,Female,0,674,Manufacturing,"₹43,904","₹9,036",Facebook Ads,38,Credit Card,No,0,Delhi
+8e7686fe-9cd3-4313-96f2-852bbed06979,2024-06-08,46,Female,1,466,Consulting,"₹31,411","₹32,778",Instagram Ads,19,Credit Card,Yes,0,Delhi
+39432f56-7235-4f93-9a84-024233ed4423,2024-06-12,35,Female,0,52,Retail,"₹33,284","₹28,734",Google Ads,7,Credit Card,No,8,Delhi
+1bfe1828-2229-4ba8-b11b-b6e2ccca632b,2024-08-29,41,Female,0,594,Manufacturing,"₹3,691","₹24,173",Facebook Ads,35,Credit Card,No,2,Delhi
+14c778ac-2e7a-4143-b818-aa8ba718035c,2023-10-21,22,Male,0,706,E-Commerce,"₹33,660","₹31,403",Google Ads,48,Credit Card,No,0,Delhi
+ed44eb25-3988-48d6-a93c-e50b6cf985fb,2024-07-13,29,Male,0,487,E-Commerce,"₹25,500","₹67,321",Referral Program,18,Bank Transfer,No,8,Delhi
+cfe8d1a3-d03f-44c6-b0cf-ceea7b3c56c9,2022-12-24,57,Male,0,112,Manufacturing,"₹39,540","₹72,675",Word of Mouth,16,Bank Transfer,Yes,1,Delhi
+8126bfb5-ba4c-412a-9980-def903cb1235,2023-12-20,50,Female,1,174,Consulting,"₹4,131","₹7,344",Instagram Ads,39,Credit Card,No,7,Delhi
+4e6ad9d4-41f3-4be2-a33e-132af4d7ce6f,2023-12-14,20,Male,1,114,Finance,"₹6,672","₹19,800",Partner Website,4,Bank Transfer,Yes,0,Delhi
+06a89309-5175-4a02-a9d4-7c31c9e2f6e5,2023-10-02,62,Male,1,107,Education,"₹42,580","₹26,372",Instagram Ads,25,UPI,No,0,Delhi
+cefd684a-ecaf-4c27-bb0e-f1af6c434570,2024-06-03,38,Female,1,486,Tech,"₹24,061","₹62,516",Direct Traffic,32,Credit Card,Yes,6,Delhi
+5d3a1a42-c89c-4a37-b4c7-38b175aa4cd2,2023-03-05,38,Male,1,30,Tech,"₹25,317","₹21,538",Referral Program,40,UPI,No,6,Delhi
+ab3c4a7f-db49-4b10-818a-8673e622ccd6,2024-04-12,64,Female,0,80,Healthcare,"₹20,781","₹64,918",Instagram Ads,13,Bank Transfer,Yes,7,Delhi
+512f12c3-2da9-407e-bfe5-aab099406678,2023-05-10,49,Male,1,714,Manufacturing,"₹29,171","₹15,973",Direct Traffic,45,Bank Transfer,No,3,Delhi
+b43321a9-1937-4915-82f2-3eb6dbfffe6d,2023-11-23,32,Male,1,475,Tech,"₹25,864","₹72,155",Partner Website,17,UPI,No,6,Delhi
+2eebed13-619a-4b97-9783-df17057f9b4e,2023-04-16,18,Female,0,478,Consulting,"₹42,174","₹60,500",Email Campaign,49,Bank Transfer,Yes,0,Delhi
+d5cf84a6-b0f9-448e-be0d-89d8f5a6dcd3,2024-10-04,55,Male,1,517,Finance,"₹27,925","₹37,575",Google Ads,37,Credit Card,No,7,Delhi
+e07a690f-34e7-46de-a1f6-7ee4c05953d2,2023-11-15,28,Male,0,63,Manufacturing,"₹29,102","₹43,261",Partner Website,6,UPI,No,7,Delhi
+192cbe3a-5db9-499d-8c01-77f9fac50389,2023-12-04,49,Male,1,377,Finance,"₹23,753","₹28,716",Facebook Ads,19,Credit Card,No,8,Delhi
+32a62025-82b3-4e15-93a3-c532603edcb8,2023-10-12,28,Female,0,124,Consulting,"₹23,972","₹4,236",Referral Program,13,UPI,Yes,0,Delhi
+74a5738f-66af-46ce-b82a-743eb91896b1,2024-01-25,61,Female,1,101,Tech,"₹49,730","₹16,848",Email Campaign,26,Bank Transfer,No,0,Delhi
+db8544c6-cf6a-48f5-90b0-c4230e9c3542,2024-09-27,62,Female,1,580,Tech,"₹8,580","₹3,352",Facebook Ads,14,UPI,No,5,Delhi
+2d93e1c4-7ccc-4e8c-a64c-5e59cad8c0c0,2023-04-09,44,Female,0,183,Healthcare,"₹7,599","₹2,932",Facebook Ads,31,UPI,Yes,0,Delhi
+e64c9aa6-9c9a-48de-84bf-8a1d8d82c319,2022-12-31,61,Male,0,279,Tech,"₹25,931","₹77,449",Referral Program,4,Credit Card,Yes,0,Delhi
+e50ca2f3-95c4-4c98-aff8-cae4fabf944d,2024-06-21,43,Male,0,703,Manufacturing,"₹31,686","₹9,556",Email Campaign,39,Bank Transfer,Yes,0,Delhi
+ed93d0fa-d3c0-425e-b09d-1177d632d7da,2023-06-24,49,Male,0,467,Consulting,"₹48,184","₹87,836",Word of Mouth,8,Credit Card,Yes,0,Delhi
+66ff6b35-f72d-457c-8ff7-cb13e74dec61,2023-11-21,36,Female,0,147,E-Commerce,"₹30,611","₹6,498",Facebook Ads,25,Bank Transfer,Yes,0,Delhi
+ca9d5ecb-8dd7-434d-9fe0-781e4eab1f46,2022-12-31,52,Male,0,335,Consulting,"₹40,351","₹77,118",Facebook Ads,13,Credit Card,No,0,Delhi
+08009d74-66bd-4bda-92d4-1f9a0ca11a3e,2022-10-16,42,Male,0,297,Manufacturing,"₹23,114","₹51,098",Email Campaign,32,UPI,No,9,Delhi
+2ad08570-d895-4d90-ad1f-c013557cc400,2022-11-23,27,Male,0,83,Manufacturing,"₹27,224","₹65,386",Instagram Ads,38,Credit Card,No,0,Delhi
+b7270845-c063-42eb-887d-152319db539f,2023-12-05,33,Female,1,265,Healthcare,"₹42,491","₹10,569",Facebook Ads,38,Bank Transfer,Yes,0,Delhi
+e017ef76-91c2-4151-8273-6fa7ced374d6,2023-08-29,24,Female,1,418,Healthcare,"₹5,440","₹57,882",Google Ads,28,Bank Transfer,No,2,Delhi
+6ca8ee7d-ef1e-40da-9abf-0b76ead717a6,2023-08-28,25,Male,0,430,Tech,"₹29,258","₹71,393",Email Campaign,30,UPI,Yes,3,Delhi
+7a90fbc3-23de-4160-9b2c-edbf1c5f04d4,2023-04-01,18,Female,1,653,Retail,"₹36,724","₹1,340",Facebook Ads,3,Bank Transfer,Yes,6,Delhi
+c8aa63f7-38b4-4a45-b1f5-74757d43c88f,2022-11-10,49,Female,1,332,Consulting,"₹8,288","₹44,949",Referral Program,28,Credit Card,No,3,Delhi
+d454e5a5-d91b-4c63-9af9-34d61422c443,2023-08-05,56,Male,1,236,Consulting,"₹28,582","₹83,302",Partner Website,3,UPI,Yes,0,Delhi
+64021382-0e9d-4a22-9fd1-e291e679cdc8,2024-03-29,26,Male,1,258,Retail,"₹24,534","₹63,443",Google Ads,45,Bank Transfer,Yes,0,Delhi
+99eb8ad9-45de-4be0-9aaa-3c3c36bdb54b,2024-08-18,55,Male,0,607,Healthcare,"₹35,979","₹92,668",Direct Traffic,34,Bank Transfer,No,0,Delhi
+16d7f84b-ab77-4bf7-b0dd-c26d465751d6,2024-06-26,45,Female,1,104,Tech,"₹11,780","₹75,027",Direct Traffic,16,Credit Card,Yes,0,Delhi
+2080c503-5317-4ca1-86e2-b6b4af35c5ab,2023-06-20,28,Male,0,464,Retail,"₹18,552","₹1,138",Partner Website,22,Credit Card,Yes,3,Delhi
+27f9a96e-fba4-4ed3-b2ba-7be4173247e7,2022-10-10,46,Male,1,132,Tech,"₹17,031","₹1,358",Direct Traffic,32,UPI,No,0,Delhi
+3068f610-39b0-4936-b487-0bcebf3b259d,2023-12-17,50,Male,1,451,Tech,"₹23,304","₹76,250",Partner Website,38,Bank Transfer,Yes,0,Delhi
+fc63474b-1af3-460d-8d3b-b1302b48e797,2024-07-16,44,Female,1,335,Tech,"₹29,403","₹86,376",Facebook Ads,8,Credit Card,Yes,7,Delhi
+22a44e32-0e20-4546-83d0-595abe02a560,2024-07-11,62,Male,0,127,Education,"₹45,357","₹31,654",Google Ads,8,UPI,No,0,Delhi
+8454d8af-1648-4542-a68d-dc7bab0719b9,2023-03-01,19,Female,1,364,Manufacturing,"₹10,642","₹26,879",Google Ads,6,Bank Transfer,No,0,Delhi
+9d973b70-8db0-4954-91b9-f4d04b95f5ee,2022-12-27,24,Female,0,464,Tech,"₹48,855","₹82,532",Instagram Ads,14,Bank Transfer,No,0,Delhi
+ca37ed2b-aaf2-4f21-bf12-678c6a72a345,2024-09-22,25,Female,1,476,Education,"₹10,366","₹56,778",Partner Website,32,UPI,No,0,Delhi
+7594b97d-9fd1-41a7-af67-94a5b76cac1d,2022-12-10,42,Male,0,337,Healthcare,"₹5,031","₹38,772",Google Ads,35,UPI,Yes,9,Delhi
+3fb873c5-8eaf-4f05-8cd6-85626fe55a3b,2022-11-29,25,Male,1,278,Retail,"₹45,954","₹59,478",Instagram Ads,10,Credit Card,Yes,4,Delhi
+2f5afc11-8f2b-41c7-9f4b-17607cbf9e72,2022-11-24,33,Male,0,195,Manufacturing,"₹38,598","₹65,353",Email Campaign,3,Bank Transfer,No,5,Delhi
+5196b00d-98a6-45d1-af64-4c85978a2cf1,2022-12-10,43,Male,0,510,E-Commerce,"₹38,778","₹27,762",Instagram Ads,12,Bank Transfer,Yes,1,Delhi
+f2fe4687-1400-498d-98fa-0aae3b86f33a,2023-03-26,42,Male,1,364,Retail,"₹28,638","₹14,283",Referral Program,49,Bank Transfer,Yes,2,Delhi
+56ae709f-f15e-4b80-893b-5d28b14fbb11,2023-12-12,58,Female,0,571,Manufacturing,"₹27,565","₹64,922",Word of Mouth,31,UPI,No,0,Delhi
+e9279c09-2a5b-4ef2-8098-14cf9f65c2f9,2024-03-17,26,Male,1,135,E-Commerce,"₹30,456","₹40,420",Facebook Ads,29,Credit Card,No,0,Delhi
+14ac5007-4ea2-4c4a-9d3b-55c744117471,2023-10-31,22,Female,1,592,Retail,"₹42,232","₹56,568",Email Campaign,5,Bank Transfer,Yes,5,Delhi
+36679c97-69ca-442e-9ec5-cccda117eec0,2023-06-18,23,Male,1,110,Manufacturing,"₹39,761","₹86,090",Word of Mouth,25,UPI,No,8,Delhi
+7f4ea841-7544-4575-95ad-7a6c6b7d498a,2023-04-29,63,Female,1,162,Retail,"₹11,259","₹21,219",Word of Mouth,41,Bank Transfer,No,3,Delhi
+7af0687d-7726-40cf-ad08-c936955dad42,2024-02-08,27,Male,1,167,Retail,"₹5,939","₹58,169",Email Campaign,31,Credit Card,No,0,Delhi
+bbcb09d7-bb44-40d5-a219-e148d46a271f,2024-05-11,41,Female,1,213,E-Commerce,"₹47,741","₹75,965",Referral Program,21,Bank Transfer,Yes,4,Delhi
+fcc174ec-8a5b-474f-997f-7b5f057558d4,2022-12-19,54,Female,1,430,Retail,"₹43,033","₹47,840",Instagram Ads,20,Credit Card,No,0,Delhi
+eb34cb84-3935-4d7f-aba6-452df0c28674,2023-01-31,57,Male,1,359,Retail,"₹28,770","₹45,695",Facebook Ads,39,Credit Card,Yes,0,Delhi
+73e84d47-2801-4450-85c5-f17a76966112,2022-12-03,33,Male,1,537,E-Commerce,"₹13,779","₹85,754",Instagram Ads,22,Bank Transfer,Yes,0,Delhi
+656d2dbf-face-4ee9-9443-8a9756c2056e,2024-01-02,39,Female,1,98,Healthcare,"₹39,779","₹78,988",Google Ads,4,Bank Transfer,Yes,0,Delhi
+99c1e7d2-6718-4544-8ca6-754fc2ead6e4,2023-11-15,56,Female,1,575,Tech,"₹44,751","₹59,342",Instagram Ads,13,Credit Card,No,1,Delhi
+f9dca774-c96b-40b8-b2af-3ca8e3fc6bfc,2023-09-30,63,Male,0,82,Consulting,"₹24,388","₹19,951",Direct Traffic,45,UPI,No,0,Delhi
+aa9615db-1fa9-4645-8c9b-71b41331bb19,2024-03-27,45,Male,0,479,Finance,"₹18,130","₹2,307",Email Campaign,42,Credit Card,No,0,Delhi
+40c34215-9fe2-4d19-a324-569b5b8a4805,2022-11-08,57,Female,1,234,Education,"₹35,644","₹81,388",Facebook Ads,49,Bank Transfer,No,8,Delhi
+cf94758b-29df-46ae-ae75-cbc4425a87f7,2023-02-27,47,Female,1,155,Finance,"₹31,682","₹91,768",Instagram Ads,20,Bank Transfer,No,0,Delhi
+bbc67073-e1db-4629-82f4-ecb8404c14fb,2023-01-15,53,Male,1,72,Finance,"₹26,038","₹36,428",Facebook Ads,13,UPI,Yes,0,Delhi
+fd0b19b1-6452-4865-a0db-0ea3c1ee3d8b,2024-02-14,51,Female,1,140,Manufacturing,"₹12,324","₹93,021",Facebook Ads,17,Credit Card,Yes,0,Delhi
+a20b8ddb-6bcb-4676-a450-b470ac39e1b2,2024-08-22,46,Female,1,692,Tech,"₹32,625","₹76,774",Google Ads,36,Credit Card,Yes,3,Delhi
+65ec798b-a1b1-45c2-9c45-150414458a05,2022-11-07,59,Male,1,212,Manufacturing,"₹7,479","₹39,975",Google Ads,33,Credit Card,No,0,Delhi
+21e81789-90c3-49fe-a894-33d252be074b,2023-04-25,63,Female,1,124,Tech,"₹26,689","₹2,140",Email Campaign,1,Bank Transfer,Yes,0,Delhi
+91ab69a7-f687-408d-85f8-ef8101497752,2024-04-03,58,Male,1,403,E-Commerce,"₹43,100","₹25,842",Referral Program,15,Credit Card,Yes,9,Delhi
+cdbf5215-9501-479a-b0b4-cbc75276d015,2023-07-06,20,Female,0,549,E-Commerce,"₹13,004","₹27,421",Direct Traffic,13,UPI,No,1,Delhi
+27fc2f9b-0670-45c7-b607-6c73783cbdc1,2023-06-26,58,Male,1,389,Consulting,"₹21,169","₹2,708",Word of Mouth,17,Bank Transfer,No,0,Delhi
+3428a91d-173c-4b9f-90e5-a19a2c128a6f,2022-12-27,22,Female,0,725,Tech,"₹7,410","₹4,630",Facebook Ads,24,Bank Transfer,Yes,0,Delhi
+8ddcf9c5-5a09-4f6f-bb3c-0c3ff0b9dc90,2023-04-02,60,Male,1,310,Retail,"₹47,357","₹20,595",Referral Program,8,Credit Card,Yes,6,Delhi
+fda5f8f1-ecd7-4485-baef-db220a029354,2022-11-01,33,Male,1,224,Healthcare,"₹35,464","₹77,021",Word of Mouth,27,UPI,No,0,Delhi
+245187a1-e6a2-411c-a13c-1299f3c2d695,2024-02-19,40,Male,0,224,Consulting,"₹20,631","₹29,308",Word of Mouth,45,Bank Transfer,No,9,Delhi
+8d33c5db-43a2-49e6-a6f2-a995115df794,2024-08-13,57,Female,1,696,Consulting,"₹25,727","₹45,789",Direct Traffic,23,Bank Transfer,No,0,Delhi
+154ba7fa-259d-4d45-ac8f-d72537176a63,2023-10-28,38,Female,0,122,Retail,"₹6,478","₹56,690",Email Campaign,46,Credit Card,No,7,Delhi
+d965a212-c7dd-4ee6-a42f-ee5547ca3166,2022-12-09,38,Female,1,701,Healthcare,"₹22,491","₹27,086",Word of Mouth,8,Credit Card,Yes,0,Delhi
+38444adc-4b4f-4d77-98e4-561f1f598230,2024-06-03,51,Male,1,90,Manufacturing,"₹17,653","₹17,859",Direct Traffic,8,UPI,Yes,9,Delhi
+5c901bd8-0a18-495d-88ae-e58ecbfe88e9,2023-06-18,21,Male,0,663,Healthcare,"₹34,048","₹8,684",Word of Mouth,26,Credit Card,No,1,Delhi
+744be994-f80e-46ac-9ac6-62ca8b83a33c,2024-01-20,41,Female,1,80,Manufacturing,"₹43,176","₹92,088",Facebook Ads,47,UPI,Yes,5,Delhi
+927ea64a-26f7-4951-ad01-f31c2f4c77ac,2024-08-15,54,Male,0,432,E-Commerce,"₹39,571","₹2,207",Facebook Ads,13,Bank Transfer,Yes,6,Delhi
+e03e5a00-7ff1-4d2e-b31f-eddf9d15419b,2024-02-08,47,Male,1,34,Finance,"₹47,954","₹47,099",Partner Website,39,UPI,No,7,Delhi
+acef2208-461b-43fd-8910-71ccb503da59,2022-10-17,34,Female,0,495,E-Commerce,"₹4,483","₹68,496",Referral Program,37,UPI,Yes,0,Delhi
+30ddfb58-22ae-455d-925c-7f37cba69ca5,2024-02-19,59,Female,0,633,E-Commerce,"₹10,003","₹67,093",Instagram Ads,49,UPI,Yes,0,Delhi
+5523187e-529a-41b4-8acb-5f5fcaac2b79,2022-12-05,45,Female,1,711,Finance,"₹30,421","₹30,689",Direct Traffic,28,Bank Transfer,Yes,8,Delhi
+5eb79f85-31ce-453c-adb9-41c74ed315d9,2022-12-16,33,Male,1,563,Healthcare,"₹17,405","₹49,651",Google Ads,25,Credit Card,No,0,Delhi
+aaf7bef4-f4c5-4c6c-bf07-2ee1405992bd,2024-04-10,21,Male,0,434,Consulting,"₹46,338","₹14,893",Direct Traffic,16,Bank Transfer,No,0,Delhi
+f27e302b-721b-43e6-8dde-9d0e1a1befa8,2024-06-01,47,Female,1,542,Healthcare,"₹24,453","₹98,808",Instagram Ads,2,Credit Card,Yes,0,Delhi
+ea5c4041-3375-4c74-aab5-83d5d76fca37,2023-05-06,57,Male,1,674,Manufacturing,"₹27,306","₹67,418",Referral Program,18,UPI,No,0,Delhi
+bcc01329-4313-4976-9187-27842f9a87f7,2024-04-22,46,Male,1,262,Retail,"₹45,500","₹61,011",Google Ads,17,UPI,No,0,Delhi
+aee34c76-caa8-4d67-adee-a856fbbb565d,2024-07-01,47,Male,0,553,Manufacturing,"₹22,668","₹39,635",Instagram Ads,30,UPI,No,0,Delhi
+a689baa8-d98c-4513-9994-e44725bc89bf,2023-12-20,27,Female,0,375,Retail,"₹5,083","₹57,115",Partner Website,39,UPI,Yes,7,Delhi
+d00fb24c-9df9-45d2-a524-ab8d9e886c10,2024-06-09,59,Female,0,75,E-Commerce,"₹39,214","₹96,071",Google Ads,13,UPI,Yes,0,Delhi
+ab358aa9-0ebb-41a5-901d-8a2c98e0120b,2023-07-04,19,Male,0,575,Finance,"₹49,645","₹79,405",Facebook Ads,32,Credit Card,No,0,Delhi
+aa271a0a-6137-465e-9630-7829714d29b4,2024-04-09,35,Male,0,107,E-Commerce,"₹40,396","₹73,702",Instagram Ads,29,Credit Card,Yes,0,Delhi
+3f4bb9a1-f7c3-4a16-9939-36b400099726,2023-02-21,33,Male,0,102,Tech,"₹12,389","₹79,518",Direct Traffic,46,UPI,Yes,5,Delhi
+6353ba20-767e-419d-9717-dfe2e9a7532f,2023-07-02,49,Female,0,278,Healthcare,"₹27,913","₹73,805",Google Ads,30,Bank Transfer,Yes,0,Delhi
+ad473c0d-b10a-4270-b6a7-e037ca581a86,2022-10-28,35,Male,0,76,Retail,"₹12,775","₹59,954",Partner Website,18,Bank Transfer,Yes,0,Delhi
+190bb17d-716c-4290-a733-887accb872aa,2024-05-27,56,Male,0,150,Manufacturing,"₹2,961","₹29,064",Direct Traffic,13,UPI,Yes,0,Delhi
+bb6ebdc7-7752-47b3-9b8c-3da041d39c2b,2024-09-18,42,Male,1,243,Finance,"₹14,791","₹80,063",Word of Mouth,43,Credit Card,No,8,Delhi
+167ae373-9374-44ff-96bc-c19b3fdaa1ba,2023-07-12,24,Female,0,268,Retail,"₹47,304","₹3,454",Google Ads,21,Bank Transfer,Yes,0,Delhi
+521161f1-21ce-4561-aa0a-822638a73d0f,2024-10-04,53,Male,1,85,Manufacturing,"₹11,935","₹21,878",Google Ads,30,Bank Transfer,Yes,7,Delhi
+0332caa7-b49e-4e14-8f1f-c5e1a4d68ed4,2022-11-13,64,Male,1,379,Healthcare,"₹28,435","₹52,098",Partner Website,21,Bank Transfer,Yes,0,Delhi
+f900ad71-4098-4e12-8105-e5b3472bbddc,2023-11-17,28,Male,1,136,E-Commerce,"₹33,953","₹63,154",Word of Mouth,48,UPI,No,3,Delhi
+fb6cac71-d79b-4f30-a865-608d00603a29,2024-05-25,20,Female,0,77,Healthcare,"₹19,044","₹13,991",Instagram Ads,17,Bank Transfer,No,7,Delhi
+78b27399-1e16-452c-9e7a-53ae8aeb3246,2022-10-10,36,Female,0,602,Education,"₹12,758","₹69,344",Email Campaign,40,Bank Transfer,No,9,Delhi
+4f2e4122-7905-4894-a16c-e0917d6e8a98,2024-03-02,32,Male,0,366,Tech,"₹31,341","₹37,593",Instagram Ads,19,Bank Transfer,Yes,0,Delhi
+965d54e5-d12e-4152-9962-c3fe4d7277a3,2023-11-27,30,Male,0,55,Education,"₹49,258","₹37,304",Word of Mouth,15,Bank Transfer,No,8,Delhi
+2626f4a4-b348-4bd7-be63-d933c5309976,2022-11-15,50,Male,1,286,Finance,"₹49,690","₹31,386",Referral Program,9,Credit Card,No,9,Delhi
+05472f8e-a459-42ef-9276-0a5299bbb785,2024-02-16,22,Female,0,37,Retail,"₹11,236","₹56,220",Direct Traffic,10,UPI,No,3,Delhi
+9f785167-ff40-4f5a-969b-7e0eeb1c6d47,2023-01-15,62,Female,0,654,Finance,"₹38,143","₹70,338",Partner Website,44,UPI,No,2,Delhi
+992ee859-f2aa-4829-bd9b-67504e068210,2023-01-04,20,Male,0,282,E-Commerce,"₹44,450","₹95,289",Instagram Ads,31,Credit Card,Yes,0,Delhi
+379a66c9-ea50-4235-8de7-3bcfbf978466,2023-02-10,37,Female,0,721,Manufacturing,"₹35,464","₹22,083",Google Ads,23,Credit Card,No,0,Delhi
+a7f556da-17a3-4de6-94aa-a9dbd179aba7,2023-11-15,37,Male,0,332,Healthcare,"₹28,544","₹19,354",Partner Website,30,UPI,No,0,Delhi
+0fa7b99c-2d3d-4fc5-b4d4-cf293cd8a029,2023-10-21,55,Female,1,668,Education,"₹40,433","₹23,190",Facebook Ads,33,Bank Transfer,Yes,0,Delhi
+41cbb149-8bcb-4d13-9446-282569839e00,2024-02-12,52,Female,0,85,Consulting,"₹16,497","₹7,142",Word of Mouth,9,Bank Transfer,Yes,4,Delhi
+5be91372-a366-4f47-ab0b-01f3e8043f7f,2024-05-29,40,Male,1,555,Education,"₹14,715","₹29,398",Direct Traffic,47,UPI,No,0,Delhi
+2883a966-5397-4064-bac2-a90d4d6e6898,2023-06-01,37,Female,0,503,E-Commerce,"₹33,569","₹52,971",Instagram Ads,1,Bank Transfer,Yes,4,Delhi
+540fbc62-a079-44aa-8b5c-976dcc2f2c8d,2024-05-02,56,Male,1,57,Education,"₹24,411","₹42,862",Partner Website,44,Credit Card,No,0,Delhi
+cbbf2c93-4ade-402d-87e3-0e14813ff2a1,2023-10-03,27,Female,0,107,E-Commerce,"₹17,530","₹99,668",Direct Traffic,35,Bank Transfer,Yes,0,Delhi
+61e84a39-6017-4d4c-a914-c485044dc16a,2022-12-06,21,Female,0,245,Consulting,"₹29,834","₹54,410",Instagram Ads,11,Bank Transfer,Yes,0,Delhi
+a688fde2-5f17-4801-97c1-2f6954b11b48,2023-12-08,43,Female,1,415,Finance,"₹15,071","₹20,503",Partner Website,34,Bank Transfer,No,9,Delhi
+56d8939c-6f0c-4d12-b16f-82ded3ef1a4a,2023-02-25,18,Male,1,394,Healthcare,"₹43,219","₹49,456",Google Ads,16,UPI,Yes,0,Delhi
+81841ca6-bf97-41d8-92dc-5e3075fc24c4,2023-05-02,37,Male,1,695,Retail,"₹29,427","₹83,035",Facebook Ads,9,Credit Card,No,0,Delhi
+d85d7711-ee42-43bc-8ec7-ef4cb0fd0bc6,2024-05-27,58,Male,0,555,Manufacturing,"₹21,214","₹9,016",Facebook Ads,32,Bank Transfer,Yes,0,Delhi
+e9c6c01c-2387-4610-8490-1e8ee7c2ebb5,2022-11-22,54,Male,1,728,Retail,"₹44,041","₹3,384",Referral Program,15,UPI,No,9,Delhi
+eceeeae6-0aae-4858-a7dc-7f25e208a5a7,2023-11-10,33,Male,0,341,Finance,"₹23,887","₹63,320",Partner Website,12,Bank Transfer,Yes,0,Delhi
+194dc7ba-5ee3-4632-bba0-ade062f9f883,2023-12-20,37,Male,0,36,Manufacturing,"₹28,944","₹16,072",Instagram Ads,33,Credit Card,Yes,0,Delhi
+494cd7eb-707f-4b7d-97b1-a51096a4dcb3,2023-06-24,59,Male,1,32,Education,"₹49,408","₹81,018",Facebook Ads,45,Bank Transfer,Yes,1,Delhi
+be102872-0ef2-4f7d-b96e-c322bde1d8b5,2023-09-09,58,Female,1,652,Consulting,"₹20,421","₹41,510",Word of Mouth,14,Credit Card,Yes,1,Delhi
+e6749687-b115-4c7d-bfe2-a7d724756167,2023-11-28,55,Male,0,392,Consulting,"₹13,557","₹49,933",Facebook Ads,8,Bank Transfer,Yes,0,Delhi
+a82822b3-9c08-4a3a-9384-4ff6d54edf4b,2023-10-31,33,Female,0,537,Tech,"₹45,768","₹22,826",Email Campaign,8,Credit Card,No,0,Delhi
+453caab1-fed4-4dc1-bc0e-c7a0db638068,2023-10-28,30,Female,1,303,Finance,"₹25,358","₹69,026",Email Campaign,27,Bank Transfer,Yes,0,Delhi
+973b8e1d-7275-42f4-8d8a-882650f41829,2022-10-20,33,Female,1,535,Finance,"₹49,189","₹26,518",Facebook Ads,12,Credit Card,No,9,Delhi
+1b53708b-660a-414d-9cb1-0c435a315430,2023-07-21,27,Female,1,44,Healthcare,"₹45,138","₹25,045",Partner Website,1,Bank Transfer,No,9,Delhi
+7f23ba0b-fbc6-400b-9d7b-21a0ab036958,2024-03-13,46,Female,0,221,Retail,"₹26,562","₹51,876",Referral Program,43,Bank Transfer,No,3,Delhi
+31ea0ae5-529a-4801-9fe1-6dd0f83bfda4,2023-01-19,23,Male,0,660,Finance,"₹37,350","₹93,446",Facebook Ads,40,UPI,Yes,0,Delhi
+3b9be15a-0df3-4f2f-b950-b00e093dab46,2023-05-06,44,Male,0,514,Finance,"₹46,986","₹91,102",Google Ads,42,UPI,No,5,Delhi
+bf111136-8c27-4147-a667-ab2f425800b7,2024-09-07,40,Female,0,57,Education,"₹21,067","₹52,919",Direct Traffic,11,Credit Card,Yes,0,Delhi
+542b060e-0d1a-40a3-b9df-e0553cd78c83,2023-04-07,58,Female,0,68,Education,"₹30,239","₹28,103",Instagram Ads,39,Bank Transfer,No,6,Delhi
+4b0fad83-fe6a-4971-ae79-032a86317c91,2023-04-28,60,Male,0,302,Manufacturing,"₹43,785","₹37,188",Referral Program,43,Credit Card,No,7,Delhi
+5faa4366-1262-4ae6-9eef-90e1a5f2fd33,2023-04-10,23,Male,1,260,E-Commerce,"₹4,254","₹6,845",Google Ads,31,UPI,No,9,Delhi
+b00b35ff-0150-4aea-b830-395895f862eb,2024-09-28,63,Male,0,115,E-Commerce,"₹27,544","₹87,698",Referral Program,17,Credit Card,No,0,Delhi
+86e7a37d-50d8-427e-a86d-b8f880ef221b,2023-12-18,45,Male,0,503,Tech,"₹2,224","₹37,674",Google Ads,33,Credit Card,No,0,Delhi
+de8eb361-86c8-4b42-98cf-56ce0bde9101,2023-12-15,27,Male,0,155,E-Commerce,"₹1,876","₹20,337",Instagram Ads,32,UPI,Yes,0,Delhi
+fd76b37b-83ae-4162-938a-614bedf9e7bc,2024-09-20,35,Male,1,566,Healthcare,"₹9,206","₹23,313",Instagram Ads,29,Bank Transfer,No,0,Delhi
+f8673ef2-88a2-4e9a-9b60-15b75aa6729f,2023-01-26,35,Male,0,174,Tech,"₹9,394","₹27,943",Email Campaign,21,Credit Card,No,5,Delhi
+fdd9f789-a1b2-488e-846c-30d9ffe2639d,2024-07-01,62,Male,0,554,Manufacturing,"₹18,537","₹78,949",Partner Website,21,UPI,Yes,0,Delhi
+46911cd8-b3e2-4d7d-b505-f29adb62c5df,2024-03-13,18,Male,1,241,Education,"₹18,950","₹1,276",Google Ads,40,Bank Transfer,Yes,8,Delhi
+41a75284-7085-4c2b-ac5a-0628b6e0034d,2023-06-20,64,Male,0,54,E-Commerce,"₹16,906","₹52,151",Direct Traffic,23,UPI,Yes,0,Delhi
+4983c0e8-5034-4c38-8af5-89926f9a6323,2023-01-17,33,Female,0,609,Retail,"₹30,225","₹18,611",Email Campaign,6,Credit Card,No,0,Delhi
+3e4edd92-1ae4-4c4b-b9af-0bab6513e423,2024-09-01,56,Female,0,423,Education,"₹6,426","₹12,944",Google Ads,22,Bank Transfer,No,8,Delhi
+4c46761b-e1bc-4a56-bc8c-8ccaa51b3b0d,2024-05-28,59,Male,0,96,Consulting,"₹39,519","₹53,887",Email Campaign,38,Bank Transfer,No,8,Delhi
+45a208b5-644b-414d-9532-f85ff6093bf7,2022-11-04,26,Male,0,262,Healthcare,"₹9,996","₹82,442",Instagram Ads,37,UPI,No,0,Delhi
+f3c7a357-1e9b-4b74-b888-b83e1fa2b170,2024-09-11,36,Male,1,138,Education,"₹36,568","₹50,847",Referral Program,45,UPI,No,0,Delhi
+d48149b5-1e0b-40ce-8f22-9e103f015d9d,2022-10-15,55,Female,1,175,Healthcare,"₹30,306","₹59,653",Word of Mouth,8,UPI,No,2,Delhi
+4849f1b4-5db6-411d-8de5-193a83e013de,2024-06-01,33,Female,1,140,Healthcare,"₹23,163","₹87,072",Email Campaign,41,Bank Transfer,Yes,4,Delhi
+58af5d69-ad76-4f4e-b744-ee6f06fd50ce,2023-08-20,31,Male,0,257,Healthcare,"₹41,821","₹57,622",Google Ads,49,Bank Transfer,Yes,7,Delhi
+a92d3fed-bfd7-4e27-8d47-2b4515a10437,2024-06-03,39,Female,0,140,Manufacturing,"₹36,995","₹28,810",Google Ads,35,Credit Card,No,9,Delhi
+7c980400-922e-4f71-b9e4-9aecee7312d1,2024-09-08,36,Female,0,499,Healthcare,"₹23,156","₹78,842",Word of Mouth,11,Bank Transfer,No,8,Delhi
+6186b3c5-e641-4a1b-8256-642773a632e4,2023-06-11,25,Female,1,63,Healthcare,"₹26,360","₹11,503",Partner Website,24,Credit Card,No,0,Delhi
+c8070dd2-c9e5-421c-8b6c-754c59be863b,2023-11-19,56,Female,0,652,Consulting,"₹17,332","₹85,761",Direct Traffic,49,UPI,No,0,Delhi
+88494a8c-589f-4283-a877-539c4e9cdd96,2023-09-10,64,Male,0,398,Retail,"₹39,287","₹37,976",Instagram Ads,21,UPI,No,0,Delhi
+cedc42c8-cb9e-4603-b669-568c82a64a87,2024-06-17,48,Female,1,624,Tech,"₹48,731","₹12,590",Google Ads,2,Bank Transfer,Yes,0,Delhi
+ebaeaed0-a570-4275-8a84-b95da0d1fa17,2024-06-23,36,Male,0,583,Finance,"₹22,227","₹11,886",Facebook Ads,40,UPI,Yes,2,Delhi
+b13374b3-525c-47e7-bb09-9c7f6eeae0e3,2023-12-12,23,Male,1,454,Consulting,"₹43,315","₹13,866",Referral Program,19,UPI,No,2,Delhi
+7d118826-b6b2-4b90-85a4-3781ff9b138d,2023-01-06,59,Male,1,642,Tech,"₹30,045","₹67,624",Email Campaign,39,Bank Transfer,Yes,4,Delhi
+0c6a4017-0dc1-4901-8bf0-ee456843bbfd,2024-04-14,19,Female,1,547,Healthcare,"₹45,022","₹69,899",Partner Website,28,Credit Card,No,0,Delhi
+4c55d70d-d186-4a0b-b187-761216afe3a1,2023-12-20,31,Female,0,721,Retail,"₹3,020","₹33,792",Direct Traffic,17,Bank Transfer,No,5,Delhi
+a2252382-3772-41b5-9d28-21bef76d5c49,2023-06-03,57,Female,0,311,Education,"₹3,581","₹10,764",Word of Mouth,6,Credit Card,No,6,Delhi
+e8b79700-d7c4-4405-9a77-c86145b770cf,2024-07-14,39,Female,0,349,Retail,"₹34,696","₹87,156",Referral Program,19,Bank Transfer,Yes,0,Delhi
+f6050813-c1bb-4f81-8ccc-3ea71b72504e,2023-06-22,33,Female,0,472,Consulting,"₹37,235","₹43,727",Instagram Ads,38,Bank Transfer,Yes,0,Delhi
+81f6bc36-dc80-4b4b-b767-926e5d006911,2024-08-22,60,Female,0,344,Healthcare,"₹39,713","₹79,471",Partner Website,28,UPI,No,0,Delhi
+60e38e0a-17f2-4cae-838d-6c8131254b28,2024-09-26,56,Male,0,406,Retail,"₹15,066","₹9,068",Direct Traffic,2,Bank Transfer,Yes,1,Delhi
+31c3775d-2a1b-4818-b27f-f4aaf6d54b4c,2023-08-22,38,Male,0,318,E-Commerce,"₹14,542","₹8,295",Email Campaign,38,Bank Transfer,Yes,2,Delhi
+c3d56442-0809-4b2c-9ef8-11dded8b8939,2024-08-28,34,Male,1,466,Retail,"₹25,998","₹42,160",Email Campaign,37,Credit Card,No,0,Delhi
+3fab70e5-a420-4eb1-9598-db2e0b440d83,2023-08-18,51,Male,0,691,Healthcare,"₹11,829","₹12,390",Word of Mouth,4,UPI,Yes,0,Delhi
+09391068-6b22-42f4-8ae7-56a5cf18563c,2023-06-22,52,Female,1,306,Manufacturing,"₹32,156","₹21,131",Facebook Ads,22,Credit Card,Yes,5,Delhi
+53342713-3730-4e7f-99e3-308f556faedc,2023-03-30,36,Male,0,611,E-Commerce,"₹2,659","₹95,754",Word of Mouth,26,Credit Card,No,0,Delhi
+fc3e2149-1434-408c-9fce-64f1e5c8c214,2023-07-21,37,Male,0,532,Retail,"₹38,400","₹76,969",Instagram Ads,49,UPI,No,3,Delhi
+c3db3977-1831-4c44-afd5-e53890706d4c,2023-11-18,38,Male,0,653,Finance,"₹19,863","₹16,038",Partner Website,43,UPI,Yes,0,Delhi
+d2e8c1ff-2d2d-487d-9013-16f8fbafe402,2023-03-30,32,Male,1,545,Finance,"₹48,201","₹53,327",Partner Website,36,UPI,No,0,Delhi
+b950b719-5368-4495-b397-4ada28f60a72,2023-01-20,23,Male,1,379,Retail,"₹43,741","₹94,718",Google Ads,13,Bank Transfer,Yes,0,Delhi
+1b1a8d9d-d958-49b1-bf8e-741bcce2b019,2023-06-21,24,Male,1,475,Manufacturing,"₹19,533","₹78,064",Facebook Ads,32,UPI,No,1,Delhi
+9bc21ac6-12a5-48ee-8299-a3180248079e,2024-02-19,36,Female,1,379,Education,"₹11,305","₹22,281",Facebook Ads,17,UPI,No,1,Delhi
+f237f1a2-706a-4dfa-8379-e3ee955ae9d7,2024-08-16,37,Male,0,636,Healthcare,"₹36,351","₹55,189",Partner Website,41,UPI,No,0,Delhi
+69309744-1de3-454f-8300-64ca10af62a0,2023-06-09,34,Male,1,693,Finance,"₹27,332","₹49,511",Partner Website,36,Credit Card,No,5,Delhi
+bfa55510-a74b-4859-810d-58f06140a8b4,2022-12-15,62,Female,0,166,Education,"₹14,444","₹9,605",Referral Program,46,Credit Card,Yes,0,Delhi
+a415a44f-2e13-450b-93f4-0c99609c889d,2024-05-23,57,Male,0,272,Retail,"₹20,373","₹2,381",Direct Traffic,19,Bank Transfer,No,0,Delhi
+b632fd04-e21e-4d28-ab4b-d0dd1841297c,2023-06-11,19,Female,1,572,Consulting,"₹40,872","₹67,634",Referral Program,35,Credit Card,No,9,Delhi
+0872f149-4cdb-4cad-91fb-9e8a8307d8a0,2023-07-25,24,Female,1,69,Education,"₹24,428","₹20,810",Referral Program,46,Bank Transfer,No,1,Delhi
+a713b8f7-0f15-481f-9fb6-600f101ba5de,2024-01-14,35,Male,1,258,E-Commerce,"₹15,879","₹25,322",Facebook Ads,40,Credit Card,Yes,4,Delhi
+b8a890f0-7a43-46f3-9e9c-280cd603e7c1,2022-12-01,65,Female,1,577,Tech,"₹37,251","₹42,869",Google Ads,28,UPI,Yes,3,Delhi
+3a326239-26c4-48a3-ac7c-a8165cf5cd0b,2023-06-13,59,Female,1,252,Finance,"₹35,046","₹33,955",Email Campaign,1,Credit Card,No,0,Delhi
+a16d7e76-fc60-45b0-96fb-dd85b285d95e,2023-02-16,18,Male,1,35,Retail,"₹24,786","₹62,388",Referral Program,42,Bank Transfer,No,7,Delhi
+69609142-314d-49eb-ac7e-b504f361a6f8,2024-04-09,57,Male,1,351,Consulting,"₹5,610","₹11,207",Google Ads,18,Credit Card,No,8,Delhi
+f6d651cb-55f3-402b-9741-ecf222532fdb,2023-04-11,28,Female,1,497,Healthcare,"₹12,587","₹88,329",Word of Mouth,48,UPI,No,0,Delhi
+2f680ff4-ffe1-46b4-bbe6-2ffb686d8811,2024-02-12,33,Male,0,104,Consulting,"₹24,262","₹68,628",Instagram Ads,40,Bank Transfer,No,0,Delhi
+7d853853-5a34-44d4-90d6-659c0b79d36f,2023-05-15,20,Female,1,33,Manufacturing,"₹17,581","₹29,220",Referral Program,33,UPI,No,0,Delhi
+aef449d4-69e8-4ced-a7d3-6645d1619fd5,2023-05-30,60,Female,1,675,E-Commerce,"₹35,447","₹85,050",Word of Mouth,12,UPI,Yes,0,Delhi
+49547ec7-ec8c-43d3-8c98-05dbeb5d1bd3,2024-10-06,22,Female,0,147,Retail,"₹10,096","₹75,085",Email Campaign,8,Bank Transfer,No,8,Delhi
+32299e20-aa6f-4f45-a25c-c028af9b9c1a,2023-07-23,60,Female,1,635,Healthcare,"₹38,519","₹23,031",Instagram Ads,24,UPI,No,2,Delhi
+c0b33bc3-adb4-48d1-a45b-cbfdb45353c7,2024-05-21,28,Male,0,533,Manufacturing,"₹42,503","₹71,721",Instagram Ads,16,UPI,No,0,Delhi
+13784208-cd5c-409c-aba1-f821c004315a,2024-01-23,22,Female,0,603,Manufacturing,"₹18,813","₹81,807",Email Campaign,4,Credit Card,No,0,Delhi
+4e700299-c596-4a0c-bb31-695fe941aa96,2023-03-02,35,Female,1,470,Retail,"₹48,139","₹72,312",Referral Program,38,UPI,No,6,Delhi
+ac53d90b-55dc-4445-8b98-014dd35853b3,2024-07-21,24,Male,0,223,E-Commerce,"₹1,513","₹60,766",Facebook Ads,44,UPI,No,1,Delhi
+0f9c4f21-d1d4-49d1-8234-359570c7d74c,2024-05-08,57,Male,0,421,Education,"₹49,878","₹13,449",Email Campaign,27,UPI,Yes,3,Delhi
+1bbfd3ca-d854-4af4-bdfb-e501864cd686,2023-10-13,41,Male,0,55,Education,"₹24,205","₹90,833",Email Campaign,9,UPI,Yes,6,Delhi
+d493cbeb-5f32-4f1f-8755-1d25e8e8929d,2023-03-01,27,Male,0,464,Manufacturing,"₹2,328","₹57,699",Email Campaign,47,Bank Transfer,Yes,3,Delhi
+ddc37d27-329e-4c0a-adb2-b2b090a17941,2024-05-01,44,Male,1,202,Education,"₹8,409","₹82,253",Instagram Ads,16,Credit Card,Yes,0,Delhi
+d481656a-788f-4a53-89ad-172dca42a161,2024-08-04,21,Male,0,329,Tech,"₹38,856","₹47,092",Direct Traffic,12,UPI,Yes,0,Delhi
+9d9548d7-0191-4f15-b10a-aef17c0261d9,2023-10-23,54,Female,1,674,Manufacturing,"₹13,609","₹64,671",Google Ads,31,UPI,Yes,0,Delhi
+19f786bd-a506-46a6-8b1f-ac6f28c031eb,2024-08-25,49,Female,0,355,Manufacturing,"₹2,523","₹11,350",Word of Mouth,24,Bank Transfer,No,0,Delhi
+d6432da0-72e9-474d-ad58-dbe75a671e69,2023-04-23,63,Female,0,439,Healthcare,"₹15,037","₹97,158",Facebook Ads,14,UPI,No,9,Delhi
+13a15a54-eeac-49e1-9b03-03221d54b963,2024-01-05,59,Male,0,147,Education,"₹27,161","₹69,487",Referral Program,45,Bank Transfer,No,0,Delhi
+32d2c603-2136-4a9d-8762-e11dfb796e4a,2024-03-06,56,Male,0,254,E-Commerce,"₹39,159","₹18,622",Referral Program,25,Credit Card,No,8,Delhi
+ec3b26f3-1878-4d6a-9a55-e05fecb74958,2022-12-28,30,Female,1,561,Manufacturing,"₹34,348","₹71,263",Word of Mouth,34,Credit Card,No,5,Delhi
+f5a8974a-9c15-4616-b508-c4e55740950e,2024-04-10,37,Female,1,142,Consulting,"₹38,304","₹54,117",Google Ads,3,UPI,No,1,Delhi
+ba424f10-b991-4b3f-9148-5b915aa2eb34,2023-08-21,23,Male,0,169,E-Commerce,"₹15,879","₹59,394",Email Campaign,24,UPI,Yes,7,Delhi
+16b5a7dd-a020-4f2f-9c2a-e756ce20094a,2022-12-20,22,Male,0,588,Tech,"₹28,266","₹24,782",Direct Traffic,42,UPI,No,3,Delhi
+98d4769c-c4fa-43e4-8957-5cba19624afc,2022-11-13,59,Female,1,30,Healthcare,"₹44,090","₹29,454",Facebook Ads,9,Bank Transfer,Yes,8,Delhi
+46934f46-ca7c-4adc-93eb-9084d9b321da,2023-12-27,54,Male,0,119,Retail,"₹3,063","₹68,904",Referral Program,26,UPI,Yes,3,Delhi
+edb839cc-0ca1-48ee-8451-f04a2bbb1c21,2024-04-01,18,Female,0,683,E-Commerce,"₹36,560","₹16,592",Word of Mouth,20,UPI,No,0,Delhi
+91f8c7d7-65e8-4cf7-9ac5-225251074816,2023-08-07,27,Male,0,349,Manufacturing,"₹29,697","₹23,173",Partner Website,40,Credit Card,No,5,Delhi
+667f0abb-dc69-482a-aea2-717d837d225a,2024-07-18,18,Male,1,579,Tech,"₹4,086","₹34,204",Direct Traffic,10,UPI,No,0,Delhi
+f003b0ae-303d-476c-9fd2-d7737dff5c3c,2024-07-24,18,Female,1,168,Finance,"₹16,587","₹36,596",Word of Mouth,19,Credit Card,No,0,Delhi
+0c316a38-4ad3-4b3d-8e75-b995e685780d,2023-11-08,53,Female,1,540,Tech,"₹49,368","₹35,324",Direct Traffic,3,UPI,No,1,Delhi
+1c79b92f-0080-499d-b05c-a51c40422edd,2023-07-26,21,Male,0,288,Tech,"₹23,725","₹62,202",Referral Program,24,Credit Card,No,9,Delhi
+19d5e11f-d444-4206-bfc1-b68e7fb841bf,2023-10-09,46,Female,0,702,Healthcare,"₹30,250","₹90,400",Email Campaign,5,UPI,No,0,Delhi
+f6440698-96d9-43e7-be4e-0aa2718e8b3f,2024-03-05,57,Female,1,719,Retail,"₹7,143","₹31,750",Partner Website,3,Credit Card,Yes,0,Delhi
+782867e9-e8af-4a92-b647-cc8da14c1465,2023-10-18,22,Male,1,39,Finance,"₹28,023","₹77,112",Google Ads,27,Bank Transfer,No,0,Delhi
+42db97a7-f6fe-4fc6-abad-4ae44a5cd068,2023-10-15,32,Male,1,290,Education,"₹37,227","₹17,566",Facebook Ads,16,Credit Card,No,0,Delhi
+a8b99e0f-311f-4215-bd7e-10f09a1a9eca,2023-10-22,27,Female,1,679,Education,"₹11,505","₹8,190",Google Ads,49,Credit Card,Yes,2,Delhi
+30083173-852f-482b-83bb-9ccc802c2299,2024-07-17,30,Female,0,201,E-Commerce,"₹44,043","₹89,607",Google Ads,15,Credit Card,No,9,Delhi
+15acde4b-7b46-4789-a2d7-acedc12956c4,2024-03-22,47,Male,1,42,Tech,₹661,"₹39,333",Word of Mouth,35,UPI,No,5,Delhi
+cdbe1ebf-f1d8-446b-a063-a375104c0c19,2024-06-04,21,Male,0,197,Consulting,"₹16,529","₹81,905",Direct Traffic,12,UPI,Yes,0,Delhi
+26081374-c61b-4ea3-93c6-800623ee579e,2023-10-10,60,Male,1,671,Healthcare,"₹14,726","₹90,571",Facebook Ads,41,UPI,No,3,Delhi
+621d88eb-5392-48eb-ab95-dd44a0e64a78,2023-07-03,21,Female,0,625,Consulting,"₹29,231","₹2,589",Facebook Ads,44,Bank Transfer,No,0,Delhi
+b219bfa6-8cde-4b62-a75b-22542b2cacba,2022-11-17,54,Female,1,350,Healthcare,"₹44,422","₹26,235",Referral Program,26,Bank Transfer,No,6,Delhi
+13c2ffb8-c35f-4bed-b4e0-160c9404dba7,2023-07-15,47,Female,1,348,Education,"₹45,348","₹1,159",Referral Program,47,Credit Card,No,0,Delhi
+7ab0a3d6-6ed3-4ebd-8ee1-2256aa589ed8,2023-12-19,53,Female,1,642,E-Commerce,"₹3,890","₹13,145",Facebook Ads,34,Bank Transfer,No,1,Delhi
+0ea1d3f5-49a4-4702-9b3e-4aa626e8e259,2023-08-10,19,Male,1,358,E-Commerce,"₹6,497","₹81,909",Partner Website,23,Credit Card,No,7,Delhi
+5fce1926-7dfc-4834-ae2d-27857b7a357e,2023-08-02,40,Male,0,579,E-Commerce,"₹13,193","₹32,921",Instagram Ads,31,Credit Card,Yes,0,Delhi
+87e3c2a3-e82f-4910-a3e3-00366acef88c,2022-11-14,23,Female,1,448,Finance,"₹42,592","₹17,237",Referral Program,20,Credit Card,No,0,Delhi
+b2efde49-627b-4fc5-9c5e-33c1adee063d,2022-11-27,24,Female,0,635,Retail,"₹1,041","₹9,244",Instagram Ads,12,Bank Transfer,No,0,Delhi
+d0fd7683-9cfc-4570-b44c-f3c54696c973,2024-02-21,23,Female,0,124,Finance,"₹22,317","₹15,743",Word of Mouth,23,UPI,Yes,0,Delhi
+365a54d6-90aa-46c5-9fce-61b3a305e218,2022-10-23,60,Female,0,610,Manufacturing,"₹38,361","₹98,102",Partner Website,4,Bank Transfer,Yes,0,Delhi
+fc31d78d-ba56-44c5-9109-2e618641f2f5,2024-10-01,30,Male,0,347,Manufacturing,"₹13,928","₹47,101",Facebook Ads,23,Credit Card,No,6,Delhi
+042fe593-fb72-4841-94c8-a6bec4a2cbe1,2023-07-27,41,Male,1,265,Consulting,"₹44,434","₹85,227",Partner Website,48,Credit Card,Yes,0,Delhi
+f9a5f225-ae13-4c6c-8651-b57bf5e8e504,2023-03-01,40,Male,0,363,Retail,"₹49,331","₹57,378",Referral Program,48,Bank Transfer,No,8,Delhi
+94a05245-70c1-4804-80b1-e2f756c80c60,2023-01-19,18,Male,0,405,Education,"₹10,758","₹72,126",Google Ads,1,Credit Card,No,1,Delhi
+4df6b937-6a34-4b59-bf68-c701798487ee,2024-03-06,23,Male,0,488,Retail,"₹16,544","₹57,071",Word of Mouth,25,Credit Card,Yes,8,Delhi
+de7100db-dc54-4075-94b0-a615ff16450d,2024-09-20,63,Female,1,166,Healthcare,"₹29,911","₹72,121",Facebook Ads,2,Bank Transfer,No,4,Delhi
+12870220-e667-4e00-b00f-378485dd731a,2023-09-01,49,Male,1,617,Manufacturing,"₹5,969","₹75,763",Email Campaign,30,Bank Transfer,No,8,Delhi
+4bf8e5e9-348f-4a1b-883d-fce6ae3d429f,2023-01-06,36,Female,1,576,Tech,"₹29,354","₹94,814",Word of Mouth,3,Bank Transfer,Yes,0,Delhi
+982fcba0-2808-44f7-8cf9-e8ddf14a309a,2024-08-17,26,Male,1,542,Tech,"₹6,756","₹13,237",Direct Traffic,21,Credit Card,Yes,0,Delhi
+decfc6a4-4acf-4fa5-91bd-4f20f3b03c47,2024-01-07,65,Male,0,325,Education,"₹11,220","₹16,649",Instagram Ads,25,Credit Card,Yes,4,Delhi
+60e7713c-68c6-4410-8cad-b9d2ee0e482c,2023-02-03,58,Male,0,349,Healthcare,"₹34,437","₹38,713",Partner Website,20,UPI,Yes,2,Delhi
+64b6613c-6d52-440b-b35b-591830222e24,2024-02-15,39,Female,1,601,Consulting,"₹34,098","₹74,463",Facebook Ads,49,UPI,No,0,Delhi
+61bdfd25-2098-4358-b848-72fd9102859b,2024-04-08,18,Male,0,378,Finance,"₹2,151","₹46,409",Word of Mouth,22,Bank Transfer,Yes,0,Delhi
+65893cda-ac96-4c26-a356-1bf55b2ba100,2022-11-12,47,Male,0,258,Healthcare,"₹19,694","₹49,766",Partner Website,21,UPI,Yes,9,Delhi
+3ab8a6a3-2101-4796-9c3d-9572640795c3,2024-01-14,40,Female,0,299,Tech,"₹25,551","₹47,154",Facebook Ads,33,Credit Card,Yes,0,Delhi
+7d142ece-817c-4374-b27b-cb869cfbbd39,2023-08-31,20,Male,1,320,Tech,"₹27,886","₹8,016",Referral Program,38,UPI,Yes,0,Delhi
+562d6f4a-5b71-4b6a-bf78-a1ff7844005a,2022-12-10,41,Female,1,194,Consulting,"₹10,018","₹80,563",Word of Mouth,15,Credit Card,Yes,0,Delhi
+1bf53e6f-3507-4fb2-b7c9-03d1ef85df42,2023-08-07,38,Female,0,34,Manufacturing,"₹46,526","₹49,688",Referral Program,46,Bank Transfer,No,6,Delhi
+3a98cd46-55df-4917-a338-e9a183850ab6,2024-01-25,19,Female,1,408,Healthcare,"₹16,684","₹90,678",Word of Mouth,15,Bank Transfer,Yes,0,Delhi
+9cc5b848-35dc-4575-9e5e-4fffc4557d1d,2024-03-30,47,Male,1,107,Healthcare,"₹34,287","₹55,238",Referral Program,46,Credit Card,No,3,Delhi
+e19c06f6-3677-4b17-9532-ebbddc20569c,2024-08-27,49,Male,1,439,Tech,"₹22,121","₹59,608",Direct Traffic,25,UPI,Yes,5,Delhi
+ec7a9379-7e9b-4c43-af8b-3883a199f647,2023-02-07,22,Male,1,603,Finance,"₹10,528","₹90,081",Partner Website,21,Bank Transfer,Yes,3,Delhi
+c6ebde4c-1cd9-44ec-9083-ab09425b194f,2022-11-21,48,Female,1,161,Education,"₹12,948","₹32,897",Email Campaign,24,Bank Transfer,Yes,1,Delhi
+27356dcb-1327-4c83-88b0-4e5769907392,2022-11-01,65,Male,0,630,E-Commerce,"₹45,753","₹51,961",Word of Mouth,5,UPI,Yes,7,Delhi
+a7362666-8cb8-41cf-90f3-41c6a9a76411,2024-07-22,32,Male,1,71,Education,"₹34,551","₹69,703",Direct Traffic,6,UPI,Yes,0,Delhi
+7ef200e8-381e-4674-9678-e101d77114c1,2023-07-12,44,Female,0,118,Healthcare,"₹30,947","₹45,757",Word of Mouth,49,Credit Card,Yes,7,Delhi
+85ac4ff6-dc9b-4af8-bc23-567c182e1b16,2024-03-01,49,Male,0,431,Education,"₹18,894","₹27,917",Referral Program,43,UPI,Yes,3,Delhi
+ea6bc2b8-7f1d-4917-b381-ebe0faf2e946,2023-09-22,64,Female,1,325,Tech,"₹35,001","₹23,736",Facebook Ads,48,UPI,Yes,5,Delhi
+862ac734-2c8d-4dd4-823a-881824955559,2024-09-26,36,Male,0,324,Tech,"₹30,754","₹28,990",Word of Mouth,44,UPI,No,0,Delhi
+86a62676-2e01-4011-8224-d0036aaa9596,2023-03-15,60,Male,0,645,Consulting,"₹19,009","₹63,551",Direct Traffic,47,Credit Card,Yes,0,Delhi
+7eea9314-d3a0-4e61-9fc2-c3c8c499fec5,2023-09-03,36,Female,0,555,Healthcare,"₹49,498","₹59,161",Referral Program,23,Credit Card,No,0,Delhi
+7c2b59d8-8200-40be-a2d6-afde6bdf708b,2024-02-15,42,Female,1,720,Consulting,"₹14,972","₹80,623",Google Ads,4,Bank Transfer,Yes,0,Delhi
+11c242d2-058e-492b-96dd-f42f3b44cb0c,2023-11-10,24,Female,1,666,Healthcare,"₹46,157","₹23,440",Referral Program,27,Credit Card,No,0,Delhi
+7a3d4468-e010-4fe7-8242-800b6639de53,2023-05-09,49,Female,0,451,E-Commerce,"₹3,971","₹36,205",Partner Website,18,Bank Transfer,Yes,0,Delhi
+afc04f61-ada8-4971-ab93-cba53a982b26,2023-08-18,43,Male,1,52,E-Commerce,"₹42,296","₹81,811",Email Campaign,21,UPI,Yes,0,Delhi
+dcdcabc5-067e-45d6-870b-ce51bd50d83a,2023-02-11,52,Male,1,604,Manufacturing,"₹30,768","₹56,103",Google Ads,28,Bank Transfer,Yes,2,Delhi
+08f1d1b5-8210-444d-9462-2cd43a8d852f,2024-03-30,44,Male,1,172,Healthcare,"₹8,829","₹71,812",Partner Website,35,Bank Transfer,No,6,Delhi
+acc60a8f-cedb-435b-a5f8-26bbbe0eb6bf,2024-03-24,39,Female,1,694,Finance,"₹35,365","₹42,627",Partner Website,22,UPI,No,0,Delhi
+66ea265b-043f-4d57-8a8f-5394fa4f4858,2022-11-27,42,Male,0,174,Education,"₹47,350","₹20,008",Partner Website,40,Bank Transfer,No,3,Delhi
+02554daf-ba18-4682-9c4f-c55e6fd3be5b,2022-12-19,54,Male,0,254,Healthcare,"₹47,198","₹72,274",Facebook Ads,23,Credit Card,No,8,Delhi
+e9710ffb-c48d-4595-b03a-cb6245ca9025,2023-04-01,34,Female,1,532,Retail,"₹28,772","₹33,402",Partner Website,3,Credit Card,Yes,0,Delhi
+e067835f-951a-4228-a626-128383efe92c,2023-06-02,33,Female,1,645,Manufacturing,"₹43,345","₹54,384",Facebook Ads,40,Credit Card,Yes,8,Delhi
+56864e24-2875-4a5c-ab80-a68f0887f465,2024-02-26,29,Female,0,133,Retail,"₹6,897","₹6,793",Partner Website,10,Credit Card,Yes,5,Delhi
+099b746d-7864-4d87-824e-491defb05bb9,2024-05-08,24,Male,0,68,Tech,"₹32,873","₹6,571",Instagram Ads,25,Bank Transfer,No,0,Delhi
+730e48d5-defd-4ebe-a5d4-ee99e7973342,2022-10-26,43,Male,1,227,E-Commerce,"₹36,025","₹97,867",Direct Traffic,49,Bank Transfer,Yes,7,Delhi
+4c4af8b3-aa39-4498-abf9-08394b813c99,2023-06-24,59,Male,0,675,Education,"₹25,070","₹17,209",Google Ads,8,UPI,No,0,Delhi
+53d256e5-154a-457a-bb93-9e613d00e81a,2023-11-13,51,Male,1,608,Healthcare,"₹18,784","₹91,930",Instagram Ads,11,Bank Transfer,No,0,Delhi
+50921e0e-6ee3-482d-8d50-6ffc397b0524,2023-04-15,29,Male,1,420,Retail,"₹19,494","₹44,148",Partner Website,5,Bank Transfer,No,3,Delhi
+63132dac-f88d-4581-a8e2-92dfbb4edac0,2023-05-20,47,Female,0,208,Education,"₹23,784","₹92,218",Google Ads,45,Bank Transfer,No,9,Delhi
+3340e379-6c70-4abd-9925-9b8fbc74503a,2024-05-24,38,Female,0,583,Tech,"₹18,333","₹3,224",Google Ads,37,UPI,No,3,Delhi
+a6be718f-ea53-49e1-a515-eef34ded78f1,2023-09-04,22,Female,1,477,E-Commerce,"₹25,622","₹49,695",Word of Mouth,45,Credit Card,Yes,0,Delhi
+501a63ff-d09c-408d-b9e4-de84c92b1889,2024-10-05,25,Male,1,529,Finance,"₹5,517","₹33,441",Email Campaign,38,Bank Transfer,No,0,Delhi
+86fcf7fb-d52c-4bfc-a237-81ab2dc40b87,2023-03-01,58,Female,0,44,Manufacturing,"₹16,870","₹40,129",Instagram Ads,29,UPI,No,0,Delhi
+b8cf08dd-cde3-478b-8cf2-8416abae4a52,2023-03-15,41,Male,1,652,Education,"₹29,752","₹63,368",Email Campaign,5,UPI,Yes,8,Delhi
+7618facb-5ebf-4ace-9b04-f91e522b62c8,2024-02-07,36,Female,0,698,Education,"₹8,499","₹93,122",Google Ads,9,UPI,No,7,Delhi
+2be80218-d8b1-496c-9b63-164e40a58e88,2024-08-04,20,Male,1,318,Finance,"₹22,936","₹45,760",Facebook Ads,48,Credit Card,No,0,Delhi
+0511ca62-92e9-4445-b60c-ead4bc800101,2024-03-24,61,Male,0,507,Education,"₹43,463","₹24,478",Google Ads,2,Bank Transfer,Yes,5,Delhi
+5ef5e74e-cde9-450c-b599-c3fd18425257,2023-09-21,45,Male,0,260,Tech,"₹2,596","₹72,854",Email Campaign,1,UPI,Yes,3,Delhi
+fd091f57-2a4d-463d-8f70-05c4702ad499,2024-02-29,30,Male,0,449,Tech,"₹48,701","₹95,230",Instagram Ads,40,Credit Card,Yes,0,Delhi
+91aabacb-a47b-495f-900e-62b10acfff42,2024-09-07,64,Female,1,186,Finance,"₹25,779","₹86,716",Partner Website,30,UPI,No,0,Delhi
+5846e332-ce2f-4da6-895a-12d29149f120,2023-01-07,56,Male,1,579,Manufacturing,"₹43,863","₹13,180",Word of Mouth,11,UPI,Yes,4,Delhi
+b0983ddd-fd9a-4260-ac49-3ad3b32ed5a4,2023-08-18,61,Male,0,470,Healthcare,"₹49,209","₹99,538",Word of Mouth,28,UPI,Yes,0,Delhi
+ad07d329-7a90-4504-8219-5b4089c7a301,2024-03-10,40,Male,1,126,Retail,"₹26,701","₹16,372",Word of Mouth,44,UPI,Yes,7,Delhi
+162f25bc-b120-49d3-a8e4-af49a36e7d52,2024-08-28,18,Male,0,440,Healthcare,"₹20,215","₹30,796",Partner Website,12,UPI,No,0,Delhi
+766c9409-d218-4dd2-9603-b81e993afa4b,2022-12-03,55,Male,0,318,Education,"₹29,809","₹59,272",Word of Mouth,39,Credit Card,Yes,0,Delhi
+5dcac321-0042-45e8-9d6f-8e96c4c6ba7a,2022-11-10,48,Female,1,283,Retail,"₹15,578","₹90,963",Instagram Ads,26,Bank Transfer,No,0,Delhi
+b11c7fce-b6dd-4cc8-9998-85b958525904,2024-09-18,55,Female,1,225,Consulting,"₹5,605","₹99,826",Partner Website,13,Bank Transfer,No,9,Delhi
+091710c6-fd97-407a-98d1-9c7cfa893d51,2023-11-24,32,Female,0,627,Finance,"₹29,812","₹94,635",Word of Mouth,8,Bank Transfer,Yes,9,Delhi
+a14abfcf-4726-4882-9f9b-e1c4503bfb83,2023-10-31,21,Female,1,551,Finance,"₹3,339","₹55,040",Partner Website,28,Bank Transfer,No,0,Delhi
+7859f4f6-2bed-4363-905f-db25ac875917,2024-09-19,20,Female,1,546,Manufacturing,"₹3,884","₹76,357",Email Campaign,30,Credit Card,No,0,Delhi
+5167d3c3-cff3-4824-937d-9aae630ab0a0,2024-09-08,48,Female,0,664,Retail,"₹44,119","₹72,368",Direct Traffic,9,Credit Card,Yes,0,Delhi
+b8ec5de2-5864-4a92-ae40-8a5d72bc4252,2022-10-14,35,Male,0,147,Tech,"₹43,321","₹79,356",Direct Traffic,39,Credit Card,No,5,Delhi
+2844d58b-7e37-4b79-8b95-3ff54e103c97,2023-03-24,60,Female,1,188,Retail,"₹13,993","₹17,211",Instagram Ads,31,UPI,Yes,0,Delhi
+40c12836-5999-4f33-8d4c-f6782b2d9c14,2023-12-11,20,Female,0,257,Education,"₹17,569","₹6,842",Referral Program,21,UPI,No,0,Delhi
+3c9a8b84-f30c-40a7-8b82-30e27f48d5ef,2024-04-06,43,Male,0,245,Tech,"₹47,407","₹64,115",Facebook Ads,47,UPI,No,0,Delhi
+296a1aad-ec78-4bcf-911b-5e380b450583,2023-05-20,27,Male,1,725,E-Commerce,"₹8,031","₹67,852",Word of Mouth,34,Bank Transfer,Yes,0,Delhi
+4d8f8172-f971-41e3-9ebd-fb9ccbb8309a,2024-02-26,65,Male,0,44,E-Commerce,"₹37,551","₹46,968",Facebook Ads,31,UPI,Yes,1,Delhi
+234302b8-ff1d-4213-a3c1-548631375b45,2024-05-29,52,Female,0,186,Consulting,"₹8,236","₹18,508",Partner Website,25,Bank Transfer,No,1,Delhi
+31ff08be-1832-4b2e-9737-f51505b5f93f,2023-10-12,33,Male,1,677,E-Commerce,"₹8,210","₹23,005",Facebook Ads,12,UPI,No,0,Delhi
+f0c55a0e-5903-4660-863e-8faf58a09e36,2024-07-22,21,Male,1,290,Finance,"₹2,119","₹55,575",Instagram Ads,1,Bank Transfer,Yes,6,Delhi
+1629409a-9bdc-49f1-afbe-90dbf87ec4e7,2023-07-22,42,Male,0,186,Retail,"₹14,475","₹81,742",Instagram Ads,22,UPI,No,6,Delhi
+8e740c39-02a8-44ad-b2ba-e8ba658fce82,2023-12-18,42,Female,0,76,E-Commerce,"₹46,103","₹19,971",Google Ads,40,UPI,No,3,Delhi
+cbef5d93-e2f8-453a-8621-71d2d77bb2b9,2024-01-05,22,Female,1,353,Healthcare,"₹23,752","₹26,599",Direct Traffic,37,Credit Card,No,0,Delhi
+b15cc309-0b59-4dd4-a2dc-84ef972448ae,2024-01-22,47,Male,1,714,Manufacturing,"₹15,761","₹88,592",Word of Mouth,47,UPI,No,2,Delhi
+1b710989-e263-4268-afcd-0d7d62adcc5a,2024-05-21,50,Male,1,159,Healthcare,"₹1,931","₹67,914",Google Ads,1,UPI,Yes,2,Delhi
+d0d5203d-e53c-41b6-8f91-1a8fa2532a6f,2023-03-17,54,Male,1,440,E-Commerce,"₹9,567","₹68,055",Facebook Ads,1,Credit Card,Yes,7,Delhi
+82ed735b-0073-4750-a988-7da4fd5d859a,2024-03-14,31,Female,0,124,Consulting,"₹37,981","₹88,697",Referral Program,42,Bank Transfer,Yes,0,Delhi
+ba4860dd-9d92-42ec-be5c-7007c5499e98,2024-02-15,47,Female,1,656,Manufacturing,"₹27,537","₹6,355",Google Ads,42,Credit Card,Yes,0,Delhi
+1c62b26d-3460-4020-a52a-abf47c763c3e,2024-09-07,26,Male,1,321,Education,"₹10,057","₹55,120",Google Ads,21,Credit Card,Yes,1,Delhi
+eee3dc18-538d-46c1-b90b-ae67d82421b7,2023-05-07,33,Female,0,312,Healthcare,"₹9,935","₹75,619",Instagram Ads,15,Bank Transfer,Yes,6,Delhi
+363219eb-f360-4ddd-95cb-0e8a2361c974,2023-07-04,19,Male,1,98,Consulting,"₹38,266","₹39,342",Referral Program,17,UPI,No,0,Delhi
+6d91c5da-f3c4-40cf-9745-862d1002aed7,2023-02-12,32,Female,0,689,Retail,₹662,"₹86,992",Partner Website,22,Bank Transfer,Yes,0,Delhi
+323710ce-fdaf-42f4-87b1-3b96b1628237,2024-08-30,32,Male,1,40,Retail,"₹35,242","₹79,860",Facebook Ads,38,UPI,No,6,Delhi
+a339d7f2-1adf-46a5-8939-f9649cec77e1,2024-08-23,52,Female,1,283,Healthcare,"₹20,175","₹3,257",Google Ads,35,UPI,No,2,Delhi
+bce8ea74-a636-4764-9a7e-8e82f4ef5a2f,2023-06-13,29,Male,1,579,E-Commerce,"₹8,961","₹28,364",Referral Program,45,Bank Transfer,No,0,Delhi
+9f62e305-4cc7-4f1d-921b-e4057c5764a7,2023-06-25,54,Male,0,163,Consulting,"₹17,515","₹25,972",Direct Traffic,16,Credit Card,Yes,0,Delhi
+9f471712-242e-4044-aada-1ffe6a288d17,2023-01-30,49,Male,0,52,Retail,"₹33,091","₹27,654",Word of Mouth,8,Bank Transfer,No,8,Delhi
+fdcc3812-ec8e-4de8-afe0-c480a7c3d3ae,2023-02-05,62,Female,1,375,Education,"₹28,547","₹81,769",Referral Program,47,UPI,Yes,0,Delhi
+5dae255f-4261-46d3-9ed4-93cc41f702f9,2023-09-18,56,Female,0,331,Tech,"₹35,282","₹82,423",Direct Traffic,17,Bank Transfer,No,6,Delhi
+acbe3adf-3212-4beb-b8e6-15753a75bfc1,2023-06-01,54,Male,0,392,E-Commerce,"₹10,333","₹30,320",Facebook Ads,17,Bank Transfer,No,2,Delhi
+68a11ca6-c679-4685-8090-62d79ce2d08e,2023-07-15,29,Male,0,425,Consulting,"₹8,396","₹21,808",Referral Program,26,UPI,Yes,8,Delhi
+a784e703-fd04-40ba-9ca9-4f93cf6f566b,2023-06-21,28,Male,0,247,Education,"₹33,472","₹53,389",Direct Traffic,13,Credit Card,No,0,Delhi
+c61771e0-a27b-4d6c-b888-517465ff227c,2024-08-05,33,Female,0,170,Consulting,"₹42,300","₹96,690",Referral Program,17,Bank Transfer,No,6,Delhi
+91e1ea12-016d-401c-9fdf-4fc28297a5b4,2023-09-04,64,Male,0,645,Manufacturing,"₹31,008","₹35,773",Referral Program,38,UPI,No,8,Delhi
+dbbe209b-5644-4eb6-9251-b1dd9c06fd2d,2023-01-18,60,Female,1,239,Education,"₹5,847","₹52,168",Word of Mouth,17,UPI,No,0,Delhi
+62bd7b44-59af-48bc-ae89-ff6b003804f8,2024-08-15,39,Female,1,652,E-Commerce,"₹30,814","₹28,747",Direct Traffic,48,Bank Transfer,Yes,0,Delhi
+42d20aef-4f22-42bf-b7b3-19eb4f893b6c,2023-10-19,41,Male,0,645,Manufacturing,"₹3,143","₹77,396",Direct Traffic,14,Credit Card,No,9,Delhi
+4990ac21-3530-4a75-a3da-9ba60b5950bd,2024-03-29,43,Male,1,712,E-Commerce,"₹41,285","₹84,692",Google Ads,45,Bank Transfer,No,8,Delhi
+9df42340-8560-4fd5-86aa-76c2f1bb0f0b,2023-12-02,42,Female,1,489,Retail,"₹19,181","₹58,505",Facebook Ads,6,Credit Card,Yes,0,Delhi
+73610fd6-86af-406f-a964-9c96595e994f,2023-03-31,27,Male,1,385,Tech,"₹38,828","₹86,896",Word of Mouth,35,Credit Card,No,0,Delhi
+19fcdb94-881c-4075-be01-d41cce83ed15,2023-07-04,38,Male,1,353,E-Commerce,"₹16,392","₹19,135",Referral Program,46,Credit Card,No,0,Delhi
+f464029c-d23d-4abc-98ff-7ac92266cbba,2024-07-06,59,Male,0,162,E-Commerce,"₹47,799","₹91,887",Referral Program,14,Credit Card,No,2,Delhi
+0679d65c-fa31-4085-bad8-f59a4dabdad8,2023-09-30,29,Male,1,156,Retail,"₹17,573","₹97,035",Google Ads,47,Bank Transfer,No,6,Delhi
+d1ef2ace-1430-47e8-9390-99ef85e00126,2024-03-21,44,Female,1,135,Finance,"₹37,268","₹48,377",Facebook Ads,8,UPI,Yes,3,Delhi
+9f71a2f8-4131-4c70-b8cc-59156735a643,2024-03-13,22,Male,0,633,Retail,"₹31,182","₹24,554",Instagram Ads,15,UPI,No,0,Delhi
+a6ccca88-34ac-4add-801b-fe33aa66420d,2023-02-18,56,Female,0,407,Manufacturing,"₹32,762","₹63,491",Word of Mouth,27,UPI,Yes,2,Delhi
+287682fc-514b-4c68-8a73-dced988b5526,2024-01-08,19,Male,1,80,Retail,"₹31,858","₹56,621",Google Ads,13,UPI,No,0,Delhi
+03742f46-4a4b-4c5f-88c7-f9fcb6514a21,2024-02-20,29,Male,1,58,Retail,"₹14,789","₹59,283",Facebook Ads,49,UPI,No,8,Delhi
+78fd5fbe-2b29-4e93-a86c-2e0ba007082e,2023-11-02,56,Male,1,491,Tech,"₹8,427","₹86,140",Word of Mouth,31,UPI,No,0,Delhi
+6346b33d-dc17-47c8-9d6b-52c22f8e8b06,2024-07-25,39,Female,1,325,Retail,"₹48,830","₹17,923",Referral Program,35,Bank Transfer,Yes,6,Delhi
+a93cbf67-b083-474e-94f6-9b5e88a5d2c0,2023-05-02,60,Male,1,326,Consulting,"₹1,671","₹48,591",Facebook Ads,6,Credit Card,No,5,Delhi
+1fdce18d-f307-4533-92df-4e99861e734d,2023-09-23,18,Female,1,436,E-Commerce,"₹12,418","₹63,261",Facebook Ads,5,UPI,No,0,Delhi
+08971fae-616d-4c10-8e49-9e51e54801ce,2024-01-01,42,Male,0,642,Consulting,"₹42,403","₹55,336",Partner Website,22,Bank Transfer,Yes,0,Delhi
+9510abfd-7eeb-4e6d-85eb-89a0367eb978,2024-05-12,52,Male,1,434,Tech,"₹39,610","₹75,083",Facebook Ads,49,UPI,Yes,4,Delhi
+8f7a9d60-c5a9-4b72-8c07-dc3f3d66217a,2024-07-25,25,Male,1,375,Healthcare,"₹12,429","₹61,948",Instagram Ads,23,UPI,Yes,0,Delhi
+8c7224c5-9567-4433-b235-d57c4af1377b,2023-12-22,38,Female,0,651,Finance,"₹3,039","₹34,002",Facebook Ads,25,Credit Card,Yes,0,Delhi
+22dcbb1b-b538-4ff7-be0c-9f1b5d1f202f,2024-03-30,32,Male,0,449,Consulting,"₹37,227","₹81,098",Instagram Ads,34,Credit Card,No,1,Delhi
+c6d642a9-30e6-4b63-9ec0-4f4caeabdafa,2024-05-12,54,Female,0,211,Tech,"₹46,451","₹74,016",Referral Program,26,Credit Card,No,0,Delhi
+2f9dfeef-3292-4245-888a-11b37de8fb99,2023-07-31,33,Female,0,30,Manufacturing,"₹23,169","₹27,672",Instagram Ads,47,UPI,No,8,Delhi
+4b9eb72a-8e89-4965-95be-6476b0cdaf94,2024-07-20,64,Female,1,596,Healthcare,"₹5,932","₹5,213",Word of Mouth,5,UPI,No,7,Delhi
+73744c47-ee6a-446d-9a42-766d09cbcdaf,2022-12-05,20,Female,1,400,Tech,"₹21,144","₹11,293",Referral Program,26,UPI,Yes,0,Delhi
+bf09b37b-a0a1-4012-8827-aa0e30485e76,2024-08-16,26,Male,1,690,Tech,"₹19,245","₹56,860",Referral Program,20,Credit Card,No,0,Delhi
+37b05ad3-e611-45ae-8d1a-8d58c38e2d65,2024-06-16,64,Female,1,460,Finance,"₹28,728","₹63,507",Instagram Ads,6,Bank Transfer,No,2,Delhi
+e408bf6b-33ae-4b21-ac63-4f3f98c41f61,2024-10-06,34,Female,1,338,E-Commerce,"₹35,021","₹58,134",Direct Traffic,6,UPI,No,7,Delhi
+aa49ce5f-cd91-46db-8951-daf1c866e2a5,2022-11-11,20,Male,1,166,Consulting,"₹32,203","₹3,100",Google Ads,18,UPI,No,8,Delhi
+fe22b9b0-346f-4509-91d9-ddd0832f1d17,2023-12-27,22,Female,0,231,Manufacturing,"₹27,428","₹62,997",Email Campaign,4,UPI,Yes,7,Delhi
+dca4d6b9-9958-4678-9df3-d38bbdf54851,2023-10-08,30,Female,1,465,Education,"₹18,822","₹29,172",Direct Traffic,17,Bank Transfer,No,7,Delhi
+b3e5e5b6-422c-4be7-9ab3-2fe120390a05,2023-11-04,30,Male,0,342,Consulting,"₹22,860","₹21,132",Facebook Ads,14,UPI,No,5,Delhi
+df9aa31a-b4d3-4a1d-83c0-3b9fbc01adcc,2024-09-20,51,Female,0,146,Education,"₹29,555","₹19,199",Partner Website,14,Bank Transfer,No,0,Delhi
+52c8d023-6a1e-4497-9813-a79c23201055,2023-03-22,40,Female,1,695,Tech,"₹43,391","₹37,609",Email Campaign,13,UPI,Yes,0,Delhi
+519c58f9-2085-40b7-aa9a-18d813d4ec23,2023-11-11,39,Male,0,604,Retail,"₹16,876","₹43,965",Facebook Ads,7,Bank Transfer,Yes,0,Delhi
+4da6e112-3f82-47ac-809d-9c37de99673f,2023-11-21,33,Male,1,273,Manufacturing,"₹7,088","₹9,016",Direct Traffic,44,UPI,No,2,Delhi
+6c3fe64c-6dcf-4d83-b396-55e5d13106ff,2023-05-19,41,Female,0,566,Healthcare,"₹25,500","₹40,779",Direct Traffic,15,Credit Card,No,0,Delhi
+de2d9cc4-409e-431e-8e5e-c47772d07017,2022-12-23,61,Female,1,631,Retail,"₹6,804","₹32,881",Facebook Ads,19,Credit Card,No,7,Delhi
+f99d9eff-ec29-47ad-93c6-957eea413cbf,2023-03-11,39,Male,0,104,Retail,"₹7,845","₹83,594",Referral Program,43,Credit Card,Yes,6,Delhi
+4dd705ab-5619-4008-b4d6-36df97930da8,2023-10-18,63,Male,1,415,Consulting,"₹29,800","₹25,472",Facebook Ads,47,Credit Card,No,0,Delhi
+cf5c484a-d5c4-43e7-aeaf-de4ee7d11241,2024-07-20,30,Female,1,239,Manufacturing,"₹24,759","₹52,813",Partner Website,44,UPI,No,3,Delhi
+564be996-891e-47b0-833f-c5e9fd0b1cb2,2024-01-23,18,Female,1,504,E-Commerce,"₹25,970","₹37,021",Direct Traffic,35,Credit Card,No,4,Delhi
+8fb8136f-06ca-42a8-a3a5-65ca5c3afc68,2023-04-14,30,Female,1,447,Tech,"₹23,517","₹55,131",Facebook Ads,17,Bank Transfer,Yes,3,Delhi
+3eca7259-d796-4ed2-b976-090645b8ca63,2024-08-24,63,Female,1,376,Tech,"₹15,852","₹25,087",Instagram Ads,35,Credit Card,No,8,Delhi
+1e77c810-47d3-46ef-a6c2-769eb32cc195,2023-08-17,59,Female,0,558,Tech,"₹33,865","₹13,828",Email Campaign,19,Credit Card,No,3,Delhi
+c3d51798-9ba8-418e-ac98-deaa70bcc6fc,2023-12-08,32,Male,0,669,Tech,"₹19,946","₹62,610",Instagram Ads,20,Credit Card,Yes,7,Delhi
+8a1cf239-fb77-4f6d-bc8b-fb0a31869c4c,2023-06-16,29,Male,0,208,Consulting,"₹2,836","₹97,664",Partner Website,36,UPI,Yes,0,Delhi
+0c4fa0a6-97f4-40c7-a4ef-b719eb080061,2024-06-07,39,Male,1,211,Education,"₹10,379","₹2,401",Facebook Ads,35,Credit Card,No,7,Delhi
+65f42f9c-479f-4ad8-a4b1-6f00bb1e661d,2024-01-09,41,Female,0,693,Tech,"₹32,816","₹86,179",Word of Mouth,32,Bank Transfer,Yes,7,Delhi
+117c25f1-6b19-4452-95d5-2389e4346b1d,2024-07-06,60,Male,1,54,Education,"₹33,840","₹16,193",Partner Website,48,Credit Card,No,2,Delhi
+c6b67e76-6123-48f1-afa7-65ae1b30b851,2023-11-15,43,Female,1,209,Education,"₹8,021","₹93,389",Referral Program,44,Credit Card,Yes,3,Delhi
+7de40b76-98a5-43a2-8cda-9f6a69e5784c,2023-02-04,48,Female,0,530,E-Commerce,"₹6,671","₹45,864",Instagram Ads,40,Credit Card,Yes,0,Delhi
+1b7a90fd-3cf2-43b1-b53a-04084e5755d2,2022-11-05,48,Female,0,190,Tech,"₹23,981","₹21,307",Instagram Ads,24,Bank Transfer,No,0,Delhi
+b78970bd-03d1-472e-aab1-2d0dfb8ca418,2023-08-24,27,Male,1,206,Finance,"₹18,974","₹20,611",Google Ads,17,Credit Card,No,2,Delhi
+e42fee43-66f0-4273-bff5-071932350c15,2024-03-24,22,Male,0,314,Healthcare,"₹47,260","₹44,791",Facebook Ads,7,Bank Transfer,No,9,Delhi
+c8dfa6b7-06df-4da0-a1e1-bda643aa7d36,2023-11-08,20,Male,1,92,Retail,"₹45,129","₹12,950",Referral Program,43,Bank Transfer,Yes,9,Delhi
+1a160bca-be56-4f7e-aabf-36bd9afad33d,2023-05-05,55,Female,1,691,Education,"₹45,732","₹77,240",Word of Mouth,1,Credit Card,No,0,Delhi
+87d990b0-8d43-4740-aff1-c5174a2024f2,2023-03-18,33,Male,1,695,Manufacturing,"₹21,508","₹78,403",Instagram Ads,35,Bank Transfer,No,0,Delhi
+1b0b3d32-d2c2-41a9-9abc-06e5f6f43bdc,2024-01-14,37,Male,1,185,Manufacturing,"₹2,133","₹3,745",Instagram Ads,32,UPI,No,0,Delhi
+c0a0cf27-1d76-4e2b-86f8-e438f5379e42,2024-01-06,59,Female,1,498,Healthcare,"₹12,985","₹56,243",Referral Program,36,Credit Card,No,0,Delhi
+991be0e5-d106-47c4-84d9-d2eb6aabb010,2024-01-13,58,Female,0,78,Manufacturing,"₹44,117","₹4,866",Partner Website,13,Credit Card,No,7,Delhi
+d92bf144-b721-486b-aecd-fee7d645156a,2023-11-25,50,Female,0,113,Finance,"₹4,148","₹33,245",Partner Website,6,Bank Transfer,Yes,0,Delhi
+6f71ac42-36c2-4010-8c91-286152a04fe9,2023-08-09,49,Male,1,390,Manufacturing,"₹48,445","₹45,724",Facebook Ads,14,Bank Transfer,No,0,Delhi
+ef31ed73-711e-4010-bb35-a6cc866c566e,2023-09-09,18,Female,1,718,Retail,"₹13,640","₹72,354",Direct Traffic,37,Credit Card,No,3,Delhi
+862ca78f-c280-4b53-b5ef-15f44524a575,2024-06-12,49,Male,0,177,Retail,"₹18,421","₹52,374",Google Ads,48,UPI,Yes,3,Delhi
+b381aed8-db93-4bc5-a5ef-2c127ed23a57,2023-06-15,46,Female,0,659,Education,"₹14,857","₹31,116",Instagram Ads,15,Bank Transfer,No,0,Delhi
+e419b093-f77f-468d-9ce4-36dd1a027aac,2024-08-27,61,Female,1,371,Tech,"₹46,636","₹82,029",Direct Traffic,47,Bank Transfer,No,0,Delhi
+f1c4fb2f-1365-41b8-8214-0506fa529a7d,2023-12-31,22,Female,0,505,E-Commerce,"₹3,637","₹94,574",Direct Traffic,4,UPI,No,0,Delhi
+073787e6-0caf-4009-a236-6070f4ad02d8,2023-12-11,55,Male,1,92,Finance,₹597,"₹21,447",Google Ads,40,UPI,No,0,Delhi
+112c042d-373e-4afb-afa5-0b3162d90092,2023-12-14,55,Female,0,389,Education,"₹11,907","₹31,431",Direct Traffic,16,Credit Card,No,3,Delhi
+0b433569-7731-4861-9bec-95f3a4f3c2d5,2024-03-13,44,Male,1,590,Finance,"₹31,075","₹18,908",Direct Traffic,28,UPI,Yes,5,Delhi
+8b9da081-7065-418b-bd6f-3487973c9f15,2024-04-22,34,Female,0,356,Tech,"₹13,222","₹30,336",Partner Website,16,Credit Card,Yes,0,Delhi
+30e77dde-b1f9-4536-943f-e990bc2cfaf1,2023-06-27,57,Male,1,170,Consulting,"₹13,424","₹41,992",Partner Website,4,UPI,Yes,0,Delhi
+c1aceaf9-8254-4e9d-819b-5dc1b457a22b,2023-03-27,34,Male,0,244,Manufacturing,"₹4,250","₹56,350",Email Campaign,45,Bank Transfer,No,0,Delhi
+6dc3c09d-cffe-471a-bcaf-a7cc747e5bb8,2023-08-02,34,Female,0,464,Manufacturing,"₹28,233","₹70,561",Word of Mouth,26,Credit Card,Yes,0,Delhi
+a1796657-c984-4675-9f78-553fe4f964c6,2022-10-28,63,Male,1,347,E-Commerce,"₹9,035","₹52,955",Facebook Ads,28,Credit Card,No,0,Delhi
+dbaa16ff-790c-4edd-81fd-3a7a072cc4c9,2023-03-30,60,Female,0,61,Tech,"₹24,987","₹62,240",Direct Traffic,32,Credit Card,No,8,Delhi
+5969817d-1813-4139-ad15-1bdddff424e5,2024-09-25,27,Male,1,699,Education,"₹31,151","₹21,093",Email Campaign,45,UPI,No,2,Delhi
+94851e15-7091-44ae-b1cd-1592200a1935,2023-04-06,27,Male,0,314,E-Commerce,"₹5,166","₹7,155",Word of Mouth,2,Bank Transfer,Yes,9,Delhi
+854cc88c-162b-46ad-a20b-faa2d34782cc,2023-11-05,24,Female,1,334,Tech,"₹49,277","₹47,607",Email Campaign,31,Credit Card,Yes,0,Delhi
+ffb3580f-caa7-4dfa-81e4-caf3a974c011,2023-10-22,44,Female,0,458,Healthcare,"₹17,494","₹34,487",Email Campaign,3,Credit Card,Yes,0,Delhi
+2d60bbdb-ff1a-4dfc-be17-ededb5d976fe,2023-09-03,65,Male,1,506,Retail,"₹2,227","₹56,668",Facebook Ads,8,Credit Card,No,2,Delhi
+5987bd49-a500-4e28-814b-f105df4d0b18,2023-02-20,28,Female,0,315,E-Commerce,"₹35,122","₹21,963",Facebook Ads,24,Credit Card,Yes,7,Delhi
+052f9f92-be42-4955-ba49-d189df682000,2023-10-13,59,Male,1,173,E-Commerce,"₹11,300","₹51,124",Referral Program,15,Bank Transfer,No,0,Delhi
+0d20248a-534b-41fa-9e91-00eab7953c6b,2023-06-10,34,Male,0,453,Education,"₹38,323","₹53,870",Google Ads,43,UPI,Yes,5,Delhi
+ad7ab244-b6e6-4ec4-8c26-e4d2bb95b800,2023-08-18,51,Female,1,48,Finance,"₹43,539","₹57,547",Google Ads,31,Bank Transfer,Yes,0,Delhi
+fdca8c89-33d5-4600-a84f-302581cc497a,2023-12-05,63,Male,1,47,Healthcare,"₹19,208","₹65,110",Referral Program,9,Credit Card,No,0,Delhi
+77796139-e232-4443-872b-759b60249a5c,2023-04-09,32,Male,1,619,Education,"₹13,319","₹54,554",Referral Program,39,Bank Transfer,No,6,Delhi
+1ab6ca3f-273a-4731-a33a-74c7d0ae3d74,2023-08-13,61,Male,0,400,Tech,"₹9,869","₹21,936",Partner Website,45,Credit Card,Yes,8,Delhi
+793033ba-bfee-411a-984b-41706946e958,2023-08-13,38,Female,1,204,Tech,"₹9,783","₹5,426",Word of Mouth,2,UPI,Yes,3,Delhi
+eefc6242-b086-4eea-ad9a-cfe4b1bfb741,2023-05-12,24,Female,0,223,Tech,"₹31,073","₹89,839",Email Campaign,8,UPI,Yes,0,Delhi
+4d6ba9e1-5344-446c-8be9-605ba0d4a207,2022-11-26,64,Male,1,531,Consulting,"₹13,671","₹28,606",Direct Traffic,7,UPI,No,0,Delhi
+4a73f00c-7ac1-4500-aa90-e2889f26c42e,2023-09-28,58,Female,0,142,Tech,"₹31,433","₹48,832",Referral Program,44,Credit Card,No,1,Delhi
+696f2f22-cfad-4024-bda8-65d595cdd47d,2024-04-02,50,Male,1,143,Finance,"₹6,274","₹29,151",Instagram Ads,39,Bank Transfer,Yes,0,Delhi
+cb9f9fb4-f077-48d9-b57d-b7ef2eb5c6bb,2023-02-11,20,Male,0,251,Healthcare,"₹7,019","₹80,303",Google Ads,42,UPI,Yes,0,Delhi
+3a6f01fa-6222-4580-9cdd-345276c4e9d4,2023-03-29,55,Female,0,707,Manufacturing,"₹11,483","₹12,308",Referral Program,16,Credit Card,No,0,Delhi
+41a2e2e0-62b2-4b3a-b78b-1531999ecc8f,2024-06-14,27,Female,1,673,Retail,"₹31,432","₹63,522",Instagram Ads,35,Credit Card,Yes,8,Delhi
+6f4866eb-9f40-4491-b087-13742eb20d54,2023-12-30,26,Female,0,293,Finance,"₹31,298","₹46,671",Instagram Ads,30,Bank Transfer,No,0,Delhi
+d0dc5c4b-c24a-4e22-933a-7468308594b4,2023-09-10,53,Female,0,84,Finance,"₹18,633","₹91,306",Instagram Ads,10,UPI,No,2,Delhi
+e2bbe3af-a802-4515-a06d-06d89964c419,2024-08-15,37,Female,1,672,Consulting,"₹15,439","₹95,108",Partner Website,38,Credit Card,No,9,Delhi
+becc9205-8198-4cd4-823a-0743de2e73c2,2023-02-18,58,Male,0,487,Manufacturing,"₹1,281","₹3,204",Partner Website,18,Bank Transfer,No,0,Delhi
+eb2bdde2-57ce-4dc2-9342-64573cbad877,2022-12-31,39,Female,0,191,Manufacturing,"₹49,550","₹93,769",Direct Traffic,5,UPI,No,7,Delhi
+6aedb68a-b305-44c7-87fe-714943ff8529,2024-06-15,64,Female,0,409,Retail,"₹28,124","₹88,265",Direct Traffic,29,Bank Transfer,No,0,Delhi
+52c585b3-568a-4feb-bbed-24bbd98d1417,2024-03-02,32,Male,1,116,Retail,"₹7,323","₹32,131",Instagram Ads,39,Bank Transfer,Yes,2,Delhi
+b1d976f5-7afd-4aa5-9a19-554cb6a54ced,2023-04-05,25,Female,0,84,Manufacturing,"₹18,989","₹53,428",Word of Mouth,34,Credit Card,No,7,Delhi
+31666119-43e5-4fa0-bc52-86c287f5e21a,2024-09-30,28,Male,1,505,Tech,"₹40,461","₹34,870",Partner Website,43,Credit Card,No,0,Delhi
+9dd0820a-5e18-4f72-9bb7-708f2f29f614,2023-01-30,35,Male,0,207,Finance,"₹29,618","₹50,067",Email Campaign,45,Credit Card,Yes,6,Delhi
+6eb1cc59-8007-4e2a-bb35-358661a248eb,2024-04-09,20,Male,0,420,Education,"₹35,381","₹59,585",Instagram Ads,23,Bank Transfer,No,4,Delhi
+bfaecb14-75ea-4976-a07f-6f0aeef975a7,2023-01-09,35,Female,0,378,Retail,"₹16,780","₹22,607",Email Campaign,5,Credit Card,Yes,2,Delhi
+e5c3c0fb-beb2-4bd6-a267-0c746e46f047,2023-09-07,32,Female,1,37,Consulting,"₹22,763","₹25,968",Email Campaign,30,Bank Transfer,No,0,Delhi
+d84133ff-f642-429e-ab5d-6b5b6ead1548,2023-04-03,30,Female,0,342,Consulting,"₹14,065","₹99,934",Instagram Ads,6,Bank Transfer,Yes,0,Delhi
+00722431-c50f-4236-8569-18df7f662ad4,2023-06-15,65,Male,0,472,Retail,"₹20,854","₹12,908",Google Ads,46,Credit Card,Yes,7,Delhi
+c1627a16-b179-49a3-868d-f8644d867adc,2023-04-20,54,Female,1,357,Manufacturing,"₹43,451","₹27,423",Word of Mouth,44,UPI,No,8,Delhi
+93165dfd-2443-4ccd-8fba-9d08317eebbc,2024-05-27,23,Male,0,83,Healthcare,"₹26,143","₹75,707",Instagram Ads,4,UPI,No,2,Delhi
+97fac3b3-e22e-4ccd-b5f7-c58e582763ad,2023-07-16,42,Male,1,268,Education,"₹24,148","₹79,257",Direct Traffic,29,UPI,No,0,Delhi
+fa88fe25-7b02-4bd9-a147-abb4fb809b0c,2023-07-27,46,Female,1,258,Education,"₹42,471","₹62,215",Instagram Ads,23,Bank Transfer,No,0,Delhi
+e98b4de1-b81e-488c-aa7d-06965579dcf7,2024-08-12,36,Female,0,608,Retail,"₹19,158","₹56,835",Partner Website,6,Bank Transfer,Yes,7,Delhi
+ea5479a1-4e70-4cbe-9e0a-de48349b0bdf,2023-06-11,26,Female,1,80,Tech,"₹21,753","₹50,429",Instagram Ads,32,Bank Transfer,Yes,0,Delhi
+5b3ef915-9094-48ec-a558-e8905ff8313b,2023-10-18,28,Male,0,638,Healthcare,"₹49,063","₹83,152",Google Ads,42,Credit Card,Yes,0,Delhi
+4c94fd28-f8c0-4197-aaad-da8ee048804e,2023-11-08,22,Female,1,633,Education,"₹26,890","₹39,458",Partner Website,18,Bank Transfer,No,0,Delhi
+0fda50bd-f14e-4da1-88ce-e2c1d422ab38,2022-12-28,24,Male,1,293,Retail,"₹23,628","₹47,169",Direct Traffic,15,Credit Card,Yes,0,Delhi
+768c4b09-56f1-4b5d-b3e0-118e9351e0b4,2023-05-18,51,Male,0,447,Consulting,"₹13,989","₹8,659",Facebook Ads,40,Credit Card,No,6,Delhi
+91d986f5-a872-4620-99ba-997cf2b41605,2023-09-30,38,Male,1,125,Education,"₹38,814","₹61,614",Facebook Ads,32,UPI,No,0,Delhi
+394e37ad-5b3a-42d8-a69c-031fbc221cb9,2023-11-15,52,Female,1,117,E-Commerce,"₹33,158","₹78,240",Email Campaign,9,UPI,Yes,0,Delhi
+34dc30a4-45ce-49b5-8a67-0583af1d0fc5,2023-03-21,18,Female,1,107,Healthcare,"₹7,352","₹33,793",Word of Mouth,37,UPI,No,2,Delhi
+0d08075c-a1f0-4ea5-9e30-2dcfeafb3fb5,2023-07-18,36,Male,1,317,Healthcare,"₹29,950","₹47,473",Email Campaign,10,Credit Card,Yes,1,Delhi
+cef833d3-4ec0-4bd7-b9d9-9b5d749ddf26,2024-01-18,39,Female,1,149,E-Commerce,"₹3,051","₹97,762",Google Ads,20,Credit Card,No,0,Delhi
+3b0f89f9-4460-4b95-b088-ba65cd5303e7,2022-11-26,50,Female,0,520,Finance,"₹6,911","₹90,388",Referral Program,6,Credit Card,Yes,0,Delhi
+ac8c6a1f-6655-4c9a-b539-ab848ce701c0,2024-06-09,38,Female,1,481,Consulting,"₹49,659","₹98,618",Direct Traffic,48,Bank Transfer,No,6,Delhi
+e77922d5-00c0-4f08-8de0-0a20a91d7c81,2023-03-12,57,Female,0,529,E-Commerce,"₹33,743","₹89,330",Word of Mouth,3,Credit Card,Yes,9,Delhi
+6d21ee5f-bea4-43b3-ade9-c371ea7c8aeb,2024-07-06,54,Female,1,194,Manufacturing,"₹22,300","₹56,751",Direct Traffic,42,UPI,Yes,1,Delhi
+f7bdda64-7a55-4ee3-be4c-9dfc7d4fd0be,2023-10-25,57,Male,0,211,Manufacturing,"₹10,903","₹79,915",Facebook Ads,11,UPI,No,0,Delhi
+faf5b4cc-651c-48fa-a154-6ecaeb3ccc83,2023-11-09,49,Female,0,498,Retail,"₹7,739","₹55,254",Email Campaign,43,Credit Card,No,0,Delhi
+a7becccf-a673-4ba6-97fa-026101bd6846,2022-11-01,39,Male,1,36,Healthcare,"₹7,210","₹8,006",Direct Traffic,17,Credit Card,Yes,5,Delhi
+82507957-5151-44d0-9a23-4d84fc8a9d7d,2023-08-08,55,Female,1,359,Finance,"₹21,884","₹75,218",Facebook Ads,32,UPI,No,0,Delhi
+28ea7001-9078-4067-adbe-1690f457c881,2024-06-19,32,Female,1,702,Finance,"₹21,538","₹66,344",Google Ads,4,Credit Card,No,6,Delhi
+d315aca5-7f12-47eb-952c-f183a8314706,2024-08-10,50,Male,0,180,Education,"₹41,346","₹34,840",Google Ads,4,UPI,No,0,Delhi
+70323ed5-d643-41dd-8141-a08e7c7b7315,2024-05-26,32,Female,1,114,Education,"₹22,947","₹33,430",Referral Program,17,Bank Transfer,Yes,3,Delhi
+3fb58030-95ec-4202-910c-0ce56fc8780c,2023-02-25,38,Female,0,176,E-Commerce,"₹2,785","₹24,091",Direct Traffic,41,UPI,Yes,9,Delhi
+bdd1b178-d476-45e5-89a6-5c9045e8f436,2023-05-09,37,Female,0,653,Finance,"₹38,491","₹33,983",Referral Program,19,Bank Transfer,No,0,Delhi
+56c491dd-a878-427d-a1fb-57790685ea0f,2023-01-19,18,Female,0,410,E-Commerce,"₹14,021","₹24,989",Partner Website,5,Credit Card,No,0,Delhi
+cf401e8b-39a7-4b74-bfce-0144f12ea7fb,2023-11-29,44,Female,1,577,Consulting,"₹48,157","₹76,451",Word of Mouth,32,Credit Card,Yes,0,Delhi
+91d65191-3abb-4955-8f69-36e17727aee6,2023-10-04,65,Female,1,314,E-Commerce,"₹7,471","₹19,990",Direct Traffic,22,Bank Transfer,No,0,Delhi
+0d59a2c0-eaf6-4e91-85d1-fa41ce3e61e5,2024-06-25,60,Female,0,729,Education,"₹29,639","₹91,270",Google Ads,6,Credit Card,Yes,0,Delhi
+eaf437f2-f8e3-44b1-9c3c-21bda13cc819,2023-02-15,53,Female,0,111,Healthcare,"₹20,409","₹81,360",Email Campaign,35,Bank Transfer,No,0,Delhi
+ef57c652-b40d-43f6-8aea-435386e78531,2024-05-04,56,Female,1,543,E-Commerce,"₹12,031","₹37,081",Facebook Ads,22,Credit Card,No,9,Delhi
+62a16b29-cbec-42e5-882a-218c6c39db81,2024-10-02,22,Female,0,552,Tech,"₹15,221","₹12,033",Instagram Ads,1,UPI,No,0,Delhi
+839e0297-2d0a-494f-8231-c9e2f45cfa29,2023-02-27,27,Female,1,415,Healthcare,"₹19,706","₹17,241",Referral Program,20,Credit Card,Yes,9,Delhi
+0ca6b829-6e31-452d-a724-7a91d2bf1072,2023-03-05,52,Male,0,500,Finance,"₹38,211","₹6,939",Instagram Ads,22,UPI,Yes,1,Delhi
+2571ee09-5b07-45e0-a09e-f4a92b68b650,2024-06-27,61,Male,1,148,Finance,"₹7,030","₹48,562",Direct Traffic,48,UPI,Yes,0,Delhi
+b2a63f67-b2d9-4e41-99cd-72f1b1945b63,2024-07-20,62,Female,0,425,E-Commerce,"₹11,616","₹36,063",Email Campaign,11,Bank Transfer,Yes,9,Delhi
+067eddf2-961f-4725-870c-23738780e605,2023-03-12,37,Female,1,561,Healthcare,₹758,"₹77,721",Referral Program,13,Credit Card,No,6,Delhi
+81feb916-7c7a-4c44-9deb-540b0959be51,2024-06-23,23,Female,0,290,Education,₹782,"₹28,045",Instagram Ads,42,Bank Transfer,No,0,Delhi
+cb958542-c328-4df7-a965-f82c487c46df,2024-04-03,61,Female,1,285,Education,"₹14,437","₹45,769",Word of Mouth,3,Credit Card,Yes,0,Delhi
+907b5639-4b1a-49c5-bca6-0572c29fb516,2024-09-11,39,Male,1,255,Manufacturing,"₹2,398","₹48,118",Email Campaign,9,UPI,No,0,Delhi
+e0d36fb3-41f2-4135-8aed-53e9a7669b5b,2024-08-01,31,Female,0,82,Finance,"₹4,635","₹85,703",Facebook Ads,12,UPI,No,7,Delhi
+10cad18e-619b-4fc3-93d1-8bd321fa4037,2024-08-07,32,Male,0,529,Retail,"₹7,129","₹22,625",Word of Mouth,23,Credit Card,Yes,0,Delhi
+d861d4fa-9d37-4499-80a3-460fb9e4f955,2023-04-05,22,Female,1,535,Manufacturing,"₹44,436","₹28,076",Email Campaign,14,Credit Card,No,0,Delhi
+1ef691e7-f5cc-4505-8f45-85e6a78f2ad0,2023-10-04,35,Male,0,393,Education,"₹20,084","₹65,805",Partner Website,33,Bank Transfer,No,0,Delhi
+43c405d6-de8b-46dd-b774-8970899ac53e,2024-02-18,29,Male,1,309,Healthcare,"₹24,051","₹45,605",Referral Program,18,Credit Card,Yes,0,Delhi
+c47e590a-e561-4e6f-9fc0-78002aeab034,2024-04-12,59,Female,0,622,Consulting,"₹33,880","₹85,565",Google Ads,49,Credit Card,No,6,Delhi
+06e64a07-e1c0-4c71-8d8d-bca038160b7d,2024-03-28,19,Female,1,187,Education,"₹47,471","₹89,509",Facebook Ads,41,Credit Card,No,0,Delhi
+440b3c3a-0e12-45a5-b8e7-7e24690daf03,2024-04-25,34,Female,1,661,Healthcare,"₹17,571","₹40,121",Direct Traffic,9,Bank Transfer,No,8,Delhi
+a963c49c-7180-4b04-b886-fbeed20d44a4,2024-06-05,46,Female,1,88,Manufacturing,"₹20,574","₹66,101",Word of Mouth,23,Credit Card,Yes,0,Delhi
+9bfaace4-2db7-4243-960f-35ff3e95b3b4,2024-06-27,47,Male,1,157,Finance,"₹25,688","₹32,433",Word of Mouth,10,UPI,Yes,4,Delhi
+1e9214f0-02a4-490b-a05e-ff2975d5883a,2024-07-08,38,Female,1,144,Education,"₹2,807","₹44,309",Instagram Ads,19,Bank Transfer,No,6,Delhi
+332729f9-3f7a-4a65-90e1-e8df966f1747,2024-08-11,19,Male,1,238,E-Commerce,"₹40,401","₹68,468",Referral Program,47,Bank Transfer,No,7,Delhi
+df2b6e59-f295-4a47-89f4-9b557ea5da83,2024-05-29,42,Male,0,555,Healthcare,"₹11,705","₹45,254",Direct Traffic,5,UPI,No,0,Delhi
+87c0117f-b5a3-4c8c-b508-d51254c4c7f5,2024-01-25,64,Male,0,550,Finance,"₹6,406","₹68,293",Google Ads,47,UPI,Yes,4,Delhi
+71341b9a-a9cd-4982-93cb-3029d99c396c,2023-04-30,54,Male,0,581,Consulting,"₹3,091","₹97,258",Email Campaign,23,UPI,Yes,0,Delhi
+a957935d-65a0-42c4-b266-383ae7a405b7,2023-10-12,23,Female,1,266,Consulting,"₹15,649","₹38,853",Google Ads,30,Credit Card,Yes,0,Delhi
+b984678a-60ff-4486-b94b-ba6d934358b4,2023-08-08,20,Male,1,310,Retail,"₹45,418","₹39,405",Referral Program,25,UPI,No,0,Delhi
+b7187295-73b6-4726-87fc-ce03cf213e0c,2022-10-29,30,Male,1,388,Healthcare,"₹40,451","₹67,652",Referral Program,28,Credit Card,No,0,Delhi
+8a65cef8-c992-4bb2-8329-ce2338c12f9d,2024-04-21,51,Female,1,230,Manufacturing,"₹25,650","₹44,527",Partner Website,34,Bank Transfer,No,0,Delhi
+207638b2-1ba9-4248-8c25-006e5961a8c4,2023-09-08,22,Male,0,307,Retail,"₹32,352","₹78,227",Partner Website,45,Bank Transfer,No,7,Delhi
+ec4740f9-8c3c-4e30-9850-7fa1a4cb9d05,2023-08-23,26,Female,0,264,Retail,"₹43,370","₹1,492",Google Ads,48,UPI,No,0,Delhi
+b5c31fe8-37eb-4321-ad60-b9e337286cea,2024-01-05,28,Female,1,523,Tech,"₹1,783","₹94,418",Email Campaign,47,Credit Card,Yes,7,Delhi
+c3624b40-7abb-4422-af4e-9045291e1682,2024-06-06,22,Male,0,33,Education,"₹34,191","₹9,811",Google Ads,25,UPI,No,8,Delhi
+f1044bb3-197a-4a70-a0ad-b4b3ef09733c,2022-11-18,48,Female,0,695,Healthcare,"₹1,625","₹94,344",Referral Program,10,UPI,No,9,Delhi
+0050810b-8297-4180-86c2-1c66197e18c8,2024-02-22,60,Male,1,471,Retail,"₹2,029","₹25,272",Referral Program,14,Credit Card,No,9,Delhi
+83b7e194-9498-4015-8bc0-0cdd249ffbe8,2023-01-13,36,Female,0,58,Tech,"₹26,670","₹94,935",Instagram Ads,42,UPI,Yes,2,Delhi
+bfc745b9-85c1-4bb6-b15f-31454287e278,2022-12-19,31,Male,1,138,Manufacturing,"₹8,938","₹73,010",Partner Website,46,Bank Transfer,No,7,Delhi
+08f18895-5b0a-41ca-b015-6900c4cda4b6,2024-03-31,45,Male,0,639,Finance,"₹20,595","₹93,492",Direct Traffic,30,UPI,Yes,7,Delhi
+fbed4b16-cb53-4c84-9350-ca9fe92934b2,2022-11-19,50,Female,1,104,E-Commerce,"₹16,654","₹48,153",Direct Traffic,41,Credit Card,Yes,0,Delhi
+becfe6a4-07ad-40be-8ff5-166f2d336819,2023-04-15,48,Male,1,175,E-Commerce,"₹8,504","₹55,110",Direct Traffic,25,Credit Card,Yes,9,Delhi
+676960c3-1231-4aac-a0a4-6dafb401ebd0,2023-09-22,46,Female,1,157,Healthcare,"₹10,252","₹14,979",Instagram Ads,14,Bank Transfer,Yes,0,Delhi
+03afc413-5cb0-4da6-b3a2-0f0e2753327e,2022-11-16,23,Male,1,71,Retail,"₹43,860","₹29,328",Facebook Ads,35,Credit Card,Yes,1,Delhi
+44c9fbf0-e327-4df0-862e-bc6eea230f65,2023-03-01,59,Female,0,385,E-Commerce,"₹27,319","₹13,867",Direct Traffic,48,Credit Card,No,2,Delhi
+141c2f0c-3b72-4b60-9384-cf4371681f0b,2024-03-08,64,Female,1,70,Education,"₹37,132","₹60,234",Referral Program,34,Bank Transfer,No,2,Delhi
+e48fc5a8-3d12-4674-bc32-10f0ca560d8f,2024-03-21,65,Male,1,63,E-Commerce,"₹27,015","₹26,851",Instagram Ads,10,UPI,Yes,8,Delhi
+10f20a6f-8e17-456a-b05e-8fe6cb7a31fe,2023-02-25,34,Male,1,46,E-Commerce,"₹24,717","₹32,279",Google Ads,35,Bank Transfer,Yes,0,Delhi
+c6ab51a7-8cf8-4a49-b08c-7cc8a2d45cf8,2024-04-05,29,Male,0,706,E-Commerce,"₹23,672","₹97,063",Partner Website,11,UPI,Yes,0,Delhi
+8e237013-6e1f-4fdd-b73b-cecf3470892a,2023-12-20,27,Male,1,182,Consulting,"₹33,494","₹74,402",Partner Website,11,Bank Transfer,No,0,Delhi
+9e0ae15e-9f78-4bd9-8f76-d367ef83c4d8,2023-10-03,28,Female,0,407,Tech,"₹15,536","₹16,449",Email Campaign,21,UPI,No,9,Delhi
+1a1d3516-aa77-4941-87a3-ff7f1cfc7baf,2024-10-03,61,Male,1,617,Retail,"₹12,239","₹77,221",Google Ads,21,Bank Transfer,Yes,7,Delhi
+5b2f2b1d-d5a3-445a-b326-cdbe7602bd1a,2023-01-08,53,Female,0,628,Education,"₹32,720","₹90,080",Email Campaign,22,UPI,No,8,Delhi
+3423de17-a140-4ed2-b3e1-22cb1360e193,2023-10-01,34,Female,0,658,Retail,"₹49,916","₹6,451",Instagram Ads,45,Bank Transfer,No,0,Delhi
+545f77dd-3052-477a-9132-6b14b39df0f3,2023-01-06,21,Male,1,371,Consulting,"₹10,087","₹88,178",Word of Mouth,7,UPI,Yes,7,Delhi
+e1d0879d-50b4-4176-aba1-27b1985ec6f1,2023-02-28,51,Male,0,56,Healthcare,"₹45,017","₹42,316",Direct Traffic,17,Bank Transfer,Yes,0,Delhi
+d840921c-7849-4dc3-a597-16c5a9065817,2024-06-02,22,Male,1,316,Healthcare,"₹30,629","₹64,064",Facebook Ads,2,Credit Card,No,0,Delhi
+69ab56dc-73f1-4bec-a4fb-525fba6b93b8,2023-03-12,65,Female,1,675,Healthcare,"₹1,145","₹64,761",Google Ads,12,UPI,No,6,Delhi
+24021997-390f-49fa-8f0e-abf837e6ddc4,2023-04-21,41,Female,1,197,Manufacturing,"₹31,430","₹39,870",Google Ads,42,Bank Transfer,No,5,Delhi
+3c480f45-108b-4933-bc12-9d29ed1fb0ba,2024-01-25,36,Male,0,639,E-Commerce,"₹16,799","₹97,566",Google Ads,18,UPI,Yes,0,Delhi
+e43deedc-f59c-4735-90fd-9775c8b7e63a,2022-12-11,60,Female,0,297,Manufacturing,"₹30,590","₹31,873",Email Campaign,11,UPI,Yes,0,Delhi
+f1b135b9-8ed3-47bd-a932-a01ead707024,2024-07-06,49,Female,1,484,Tech,"₹22,453","₹59,627",Instagram Ads,16,Bank Transfer,Yes,0,Delhi
+446022d5-a861-484f-9a9a-0a4d0bf3c7da,2022-10-26,53,Male,1,714,Healthcare,"₹46,943","₹67,155",Google Ads,49,UPI,No,7,Delhi
+0c63e844-134b-45e3-b43a-ea33c586730c,2023-02-21,65,Male,0,430,Consulting,"₹26,975","₹26,372",Word of Mouth,18,Bank Transfer,No,7,Delhi
+e96a6f5c-9e05-4f88-8eeb-934827070e6d,2024-09-26,37,Male,1,505,Education,"₹19,388","₹4,642",Google Ads,35,Credit Card,Yes,6,Delhi
+174e3d20-993b-49f2-90fd-819b00cd82e9,2023-07-22,28,Female,1,663,Retail,"₹44,232","₹29,001",Partner Website,26,UPI,No,3,Delhi
+79cd3bb6-2475-4b1b-80de-dc00f2938445,2023-06-12,31,Female,1,587,E-Commerce,"₹16,587","₹35,064",Direct Traffic,16,Credit Card,Yes,7,Delhi
+c7edf7a4-8132-4c4f-9813-2f1e283bb840,2023-03-29,27,Male,0,605,Finance,"₹46,805","₹95,826",Facebook Ads,6,UPI,No,5,Delhi
+a85c77dd-b584-4506-bc0d-4a824d0ba676,2024-03-02,26,Male,0,159,Education,"₹46,537","₹15,122",Direct Traffic,44,UPI,Yes,0,Delhi
+07ae4e1f-c40b-41e2-b696-1110abeb1468,2022-12-14,45,Male,0,392,E-Commerce,"₹9,846","₹25,820",Partner Website,43,UPI,No,0,Delhi
+9d8ecb3f-9dd8-4ea0-8f21-472cda7b760c,2023-09-03,33,Male,1,722,Manufacturing,"₹1,087","₹69,431",Partner Website,47,Bank Transfer,No,0,Delhi
+0b7a64e3-a05a-4b0c-91fa-c96669bd64ed,2024-09-26,46,Female,1,321,Manufacturing,"₹13,263","₹56,745",Facebook Ads,47,Credit Card,Yes,8,Delhi
+a2113601-44cd-492e-8198-e92bdc78aa6a,2024-04-01,52,Female,1,400,Education,"₹42,445","₹51,081",Word of Mouth,48,UPI,Yes,0,Delhi
+7f3bfcb4-4b99-4c50-85a9-d897f09af16c,2024-10-08,45,Female,0,58,Manufacturing,"₹4,579","₹71,902",Instagram Ads,42,Bank Transfer,Yes,4,Delhi
+ae4c730b-5f12-4dd6-98a1-3b0e590c1350,2022-11-01,46,Female,1,178,Healthcare,"₹36,616","₹9,711",Partner Website,12,UPI,Yes,1,Delhi
+25990fd5-9c0b-42f3-a5ac-def3c4de6216,2023-10-08,39,Female,1,325,Tech,"₹20,715","₹86,132",Instagram Ads,13,Bank Transfer,Yes,0,Delhi
+baba0997-f4c6-4696-a07a-95d48b4fae8e,2023-03-31,45,Female,1,40,Retail,"₹26,317","₹19,793",Partner Website,4,UPI,No,8,Delhi
+19832509-2d5c-4791-8b29-99de0192602c,2023-11-19,57,Female,1,541,Tech,"₹25,265","₹9,199",Referral Program,39,Credit Card,Yes,0,Delhi
+9ad851a6-471e-46c1-b1d4-238b3060d690,2023-06-15,42,Female,0,705,E-Commerce,"₹30,612","₹77,253",Facebook Ads,2,Credit Card,Yes,0,Delhi
+96518835-630e-4f54-83fd-60744f1db50b,2024-02-16,55,Female,0,142,Retail,"₹26,056","₹37,191",Partner Website,26,UPI,Yes,2,Delhi
+4a02c1da-df27-419f-95e8-2a310e8bb544,2023-11-01,40,Male,1,216,Consulting,"₹18,599","₹11,211",Referral Program,27,Bank Transfer,Yes,0,Delhi
+32ab5b7c-a0df-4f38-8d32-ecbfa7cf6cac,2023-01-08,23,Male,0,256,Retail,"₹44,053","₹64,069",Direct Traffic,27,UPI,Yes,0,Delhi
+3d7fade0-0217-49b9-81b1-6f124679b8eb,2024-10-08,53,Female,0,339,Tech,"₹45,596","₹89,896",Email Campaign,15,Bank Transfer,No,0,Delhi
+7b6c4b68-21a6-4d6b-b964-563ed08afc34,2023-01-28,40,Female,1,127,Education,"₹6,950","₹57,746",Referral Program,8,UPI,Yes,0,Delhi
+9f8698b1-a1f8-49c5-897b-5ef271f9357a,2023-11-06,19,Male,1,84,Retail,"₹13,730","₹22,542",Google Ads,7,Bank Transfer,Yes,8,Delhi
+60ed9fe0-6a99-4737-8c21-d315881c90fe,2024-02-12,58,Female,0,652,Consulting,"₹29,509","₹32,312",Partner Website,47,Credit Card,Yes,0,Delhi
+2998d411-9180-42fa-afbe-8720b45df8b1,2023-09-26,48,Female,1,693,Consulting,"₹5,933","₹46,242",Referral Program,46,UPI,No,0,Delhi
+2da4b240-c41f-49d0-9b53-39791522eb5b,2024-05-22,18,Female,0,435,Consulting,"₹34,366","₹94,783",Instagram Ads,40,Credit Card,No,0,Delhi
+9025b23f-4857-40b7-a05e-9bbfe33effd1,2023-11-06,41,Male,1,98,Tech,"₹40,364","₹88,893",Email Campaign,12,Credit Card,Yes,5,Delhi
+5249ed77-b798-460d-8660-dc21d82a0eb4,2024-02-16,43,Male,0,341,Retail,"₹19,210","₹56,388",Word of Mouth,13,UPI,Yes,0,Delhi
+e3599401-ef06-4b0a-b0f0-c9707341ff6e,2024-07-12,18,Male,1,318,Finance,"₹11,939","₹28,691",Partner Website,43,UPI,No,4,Delhi
+9e179135-9db0-4927-8cb1-2565598a5944,2024-06-22,56,Female,0,577,Education,"₹42,355","₹78,960",Google Ads,17,Bank Transfer,No,0,Delhi
+c8f7488c-46f5-4760-8409-90362b18574e,2022-12-02,30,Female,0,177,Healthcare,"₹16,521","₹85,388",Word of Mouth,17,Bank Transfer,No,0,Delhi
+f4ced771-dd79-4d70-8b1a-588aa5e5a423,2023-05-21,30,Female,0,496,Retail,"₹6,916","₹23,601",Referral Program,36,Credit Card,Yes,0,Delhi
+6c4b676e-65d0-45c5-aed1-1b1a0a7be587,2022-11-06,44,Male,1,273,Consulting,"₹7,480","₹19,020",Word of Mouth,21,Bank Transfer,Yes,7,Delhi
+c405dbe9-c631-4319-ba61-27ea9b1fa6be,2023-06-01,50,Female,0,520,Finance,"₹18,558","₹9,155",Word of Mouth,8,Bank Transfer,No,9,Delhi
+7e052d77-af77-4f11-b815-6666d7c806f3,2024-09-05,43,Female,0,536,Healthcare,"₹11,601","₹70,119",Email Campaign,5,UPI,Yes,7,Delhi
+e9f08b1b-f79a-4e23-b5f1-bcf19f5133b8,2024-04-05,49,Female,1,394,Healthcare,"₹41,218","₹82,051",Direct Traffic,26,Bank Transfer,No,2,Delhi
+25724e01-1e9c-46bd-b05b-c1bd6f322973,2024-03-08,55,Male,1,511,E-Commerce,"₹33,102","₹37,777",Word of Mouth,16,Credit Card,No,6,Delhi
+62e38231-02d7-49d8-9dc4-f96ba84cef0e,2023-01-04,22,Female,0,230,Retail,"₹9,622","₹20,710",Word of Mouth,36,Bank Transfer,No,4,Delhi
+aba36e6a-af68-4891-8df5-731954244dce,2023-03-24,26,Female,0,183,Tech,"₹13,076","₹25,532",Partner Website,28,Credit Card,Yes,0,Delhi
+af63314d-cf5c-4bdc-94e2-2ff78731826d,2024-03-26,32,Female,1,479,Retail,"₹28,016","₹19,601",Direct Traffic,29,UPI,No,2,Delhi
+4bfd7cbb-1dfb-460e-b637-5f018de6d6a3,2022-12-25,19,Female,1,530,Finance,"₹22,933","₹64,227",Email Campaign,47,Credit Card,No,0,Delhi
+cf767964-aace-4786-ad81-73f5f8a8ae5e,2024-09-25,65,Female,1,102,Healthcare,"₹1,589","₹5,967",Google Ads,12,Bank Transfer,Yes,8,Delhi
+0e965fdb-fa89-416c-8d37-4df51f0df86b,2022-11-20,35,Male,1,325,Retail,"₹37,846","₹85,289",Referral Program,37,UPI,No,6,Delhi
+6c70f364-bd16-4a00-be21-ea6ec568f9ee,2023-02-05,24,Female,1,46,Tech,"₹9,627","₹21,022",Email Campaign,30,Bank Transfer,Yes,9,Delhi
+b031a576-8e08-46e5-bd88-731fd10f2a94,2023-04-01,57,Male,0,670,E-Commerce,"₹10,987","₹44,463",Email Campaign,23,UPI,No,0,Delhi
+a6bf164d-5b3b-427b-aada-c5d3a349dc79,2023-07-03,65,Male,1,246,Retail,₹655,"₹75,671",Facebook Ads,16,UPI,Yes,2,Delhi
+bb4fc33d-452f-4863-835b-e8c7d0d42250,2022-11-15,53,Female,0,90,Education,"₹2,458","₹6,722",Email Campaign,14,Bank Transfer,No,8,Delhi
+231207ba-4ee1-4263-aa98-b296099aaef1,2024-05-24,31,Male,0,645,E-Commerce,"₹11,193","₹28,413",Direct Traffic,10,Bank Transfer,No,0,Delhi
+c147f006-911e-40cd-9ed8-d0d44f35f714,2023-03-11,48,Male,0,71,Tech,"₹39,612","₹93,772",Facebook Ads,7,UPI,No,0,Delhi
+6f4b4f5d-bf26-443d-a656-84ea60d9a3f4,2023-01-08,21,Male,1,54,Finance,"₹39,047","₹82,050",Referral Program,45,UPI,No,0,Delhi
+e2068dfa-a12f-4a62-a32a-7f5b1bfd8407,2023-11-23,63,Female,0,68,Healthcare,"₹29,295","₹86,867",Word of Mouth,37,Bank Transfer,No,0,Delhi
+61056fc6-95ee-4765-abdb-53fedb234bce,2023-02-22,48,Male,0,160,Retail,"₹21,947","₹84,596",Partner Website,29,Credit Card,Yes,9,Delhi
+39c46127-a58e-4e41-bc37-950c0f3cac64,2023-12-25,41,Female,1,527,Tech,"₹37,098","₹67,732",Partner Website,3,Bank Transfer,Yes,0,Delhi
+46d41672-b5d5-42f3-9a71-c1ef951498a5,2023-01-30,23,Male,0,258,E-Commerce,"₹42,314","₹13,297",Referral Program,15,UPI,No,6,Delhi
+e2fc0d0a-1cd5-4a2a-af4c-7ba673ee3bf6,2022-11-08,51,Male,0,137,Education,"₹25,715","₹69,323",Referral Program,36,Bank Transfer,No,4,Delhi
+2b443cd3-e9ab-4038-b821-4f9e4e0e8ce5,2023-04-16,18,Male,1,201,Tech,"₹10,294","₹24,816",Direct Traffic,47,Credit Card,No,0,Delhi
+fa2070c1-8d90-4c11-bc98-b58a265367e4,2023-10-31,39,Female,0,464,Manufacturing,"₹33,709","₹41,695",Instagram Ads,46,Bank Transfer,Yes,7,Delhi
+33af6607-c172-49e7-8a4a-e1bf0a919dfe,2023-09-30,23,Female,0,507,Consulting,"₹22,924","₹20,702",Word of Mouth,19,UPI,Yes,0,Delhi
+eeea6a13-d126-49af-8e82-c54420f22a64,2024-04-19,38,Male,0,131,Education,"₹47,746","₹26,242",Referral Program,13,Bank Transfer,No,6,Delhi
+7fbe4817-b468-47a3-93fe-f2b9dd51796c,2023-09-28,63,Female,1,553,E-Commerce,"₹37,896","₹56,841",Email Campaign,42,UPI,Yes,0,Delhi
+6730ebd5-df75-432b-8ba6-a3e8dff8e425,2023-12-07,18,Male,1,304,Finance,"₹6,870","₹68,712",Direct Traffic,21,UPI,No,0,Delhi
+6d11d2cc-c013-4bbf-bb8f-3ae26b511725,2024-07-27,47,Male,1,642,Healthcare,"₹10,028","₹86,663",Partner Website,37,Bank Transfer,No,0,Delhi
+bce836d9-584d-4b1a-b69f-78177b84ca79,2024-02-10,39,Male,0,73,E-Commerce,"₹28,776","₹93,764",Google Ads,27,UPI,No,0,Delhi
+381bceec-8436-4860-b0aa-deba4b8f1708,2023-03-06,26,Male,0,46,Consulting,"₹44,833","₹54,574",Direct Traffic,29,UPI,Yes,0,Delhi
+a5566f5c-8f2c-49ea-9f08-25c5ea9070e2,2024-01-29,54,Female,1,359,Finance,"₹8,679","₹86,744",Partner Website,20,Credit Card,No,0,Delhi
+5df39741-d5da-4b4c-b71e-87b2090c9e1e,2023-04-05,22,Male,0,598,Retail,"₹49,281","₹29,482",Facebook Ads,25,Credit Card,No,2,Delhi
+82d61155-346f-4aa5-98c0-b6afb647b572,2024-04-19,22,Female,0,526,Tech,"₹17,343","₹10,171",Direct Traffic,6,Credit Card,No,2,Delhi
+f5736f2a-be2c-4a0f-8802-c1987d2bb50a,2024-08-22,48,Female,1,41,Manufacturing,"₹24,452","₹99,932",Partner Website,36,Credit Card,Yes,6,Delhi
+4a4ec0eb-d193-4ecd-8bf3-935be26edd03,2023-01-05,32,Female,1,347,Education,"₹33,660","₹4,696",Instagram Ads,2,UPI,Yes,0,Delhi
+22dd12b8-621d-4372-b2ed-1dc4304c1056,2024-03-17,19,Male,0,621,Education,"₹45,398","₹21,058",Direct Traffic,22,Bank Transfer,Yes,1,Delhi
+5c670d15-5ef0-4749-8b28-c9283b4ce550,2022-11-06,60,Female,0,245,Tech,"₹30,016","₹21,313",Direct Traffic,32,UPI,No,0,Delhi
+f89d7116-d497-4b79-b58d-82bd7fd1fec7,2024-06-23,48,Male,0,368,Manufacturing,"₹10,949","₹20,149",Word of Mouth,16,UPI,Yes,2,Delhi
+d208d35e-de3a-427b-830e-3b35e996f24a,2023-05-02,50,Female,1,690,Tech,"₹21,625","₹54,521",Referral Program,18,UPI,No,2,Delhi
+eba8c9be-62e3-4b60-95b0-41744670c822,2024-08-26,44,Female,1,110,Retail,"₹7,918","₹46,740",Word of Mouth,5,Bank Transfer,Yes,0,Delhi
+124d20f4-119e-4df0-8c56-4b09c7857836,2023-01-14,58,Female,1,514,Consulting,"₹23,246","₹5,956",Direct Traffic,36,Credit Card,No,1,Delhi
+656abe40-be0a-46d1-93bc-0a135c882a2d,2023-07-31,48,Male,1,403,Finance,"₹2,954","₹76,731",Referral Program,30,UPI,Yes,6,Delhi
+d180891c-7162-4c01-918c-b109cf70e9ce,2023-02-16,54,Male,0,229,E-Commerce,"₹18,261","₹83,612",Partner Website,45,UPI,No,7,Delhi
+c658b850-431a-4b0f-8ab3-eb2a482df720,2023-01-28,31,Female,1,566,Education,"₹15,723","₹67,641",Google Ads,19,Credit Card,Yes,0,Delhi
+4db1621d-800f-4aad-8f95-62e193cec33e,2024-03-16,43,Female,1,495,Retail,"₹7,201","₹64,811",Google Ads,23,UPI,Yes,7,Delhi
+2f6cf688-3fd5-4d3b-b2b3-fe5014207708,2023-08-22,45,Male,1,118,Finance,"₹3,097","₹53,160",Direct Traffic,34,Bank Transfer,Yes,0,Delhi
+6ad95f63-199c-49b0-86c7-67bc52d79c04,2023-10-28,35,Female,1,297,Retail,₹641,"₹52,313",Instagram Ads,13,UPI,No,9,Delhi
+96167520-d9f2-4209-bd03-c61e85bfbc2c,2023-10-18,48,Female,1,684,Manufacturing,"₹3,159","₹64,232",Facebook Ads,43,UPI,Yes,3,Delhi
+4699bc9e-7c22-4524-84f7-2918120c4bd9,2024-07-23,30,Female,0,600,Education,"₹21,480","₹16,417",Partner Website,29,Credit Card,Yes,6,Delhi
+c1f69497-8bf6-48fa-84d4-4e09fe1657eb,2022-10-27,41,Male,0,518,E-Commerce,"₹9,531","₹25,729",Referral Program,36,UPI,Yes,4,Delhi
+f6666f81-f826-4d7c-8ff2-c0c330ef7ac4,2024-01-27,59,Female,1,567,Tech,"₹15,537","₹31,099",Direct Traffic,22,UPI,Yes,0,Delhi
+de24e765-1903-46b6-8db7-7ae43fe5eb7a,2024-07-06,19,Male,0,76,Tech,"₹47,238","₹99,134",Partner Website,47,Bank Transfer,No,1,Delhi
+39cd70b7-bc33-4d28-9688-75957316a4fa,2023-09-20,48,Female,1,317,Finance,"₹38,929","₹30,961",Direct Traffic,36,Credit Card,Yes,0,Delhi
+6b8dd435-93c8-4f3a-b5a7-4e631608139b,2024-10-08,25,Male,1,45,E-Commerce,"₹6,642","₹13,602",Instagram Ads,9,Credit Card,No,0,Delhi
+0efaa8d8-5f7b-48b0-a3e9-b1b2eeef8c18,2023-12-23,51,Female,0,430,Consulting,"₹12,609","₹10,256",Email Campaign,39,Bank Transfer,No,4,Delhi
+64456f87-3209-4719-971a-4e8b542c0076,2024-01-29,26,Female,0,115,Healthcare,"₹22,510","₹87,120",Email Campaign,19,UPI,No,2,Delhi
+fbc191a6-8cc6-47df-aebe-0d468b9bfde1,2023-12-27,64,Male,1,279,Manufacturing,"₹9,287","₹35,681",Instagram Ads,38,Credit Card,No,0,Delhi
+57582062-75d1-41fd-869e-44d3fbbc7d86,2024-09-12,24,Male,1,420,Finance,"₹43,364","₹92,328",Referral Program,6,Credit Card,Yes,0,Delhi
+42c74710-0299-46e5-ab7b-ab9ce0f1a32a,2023-08-24,21,Male,1,364,Healthcare,"₹8,972","₹88,440",Word of Mouth,47,UPI,No,7,Delhi
+958bd1ca-dc38-43a1-b42d-232ca0bb2bd8,2022-11-21,36,Male,0,658,Retail,"₹23,883","₹65,789",Instagram Ads,15,UPI,No,6,Delhi
+95c7181d-cc12-4cc6-8d8a-3c50249cbaae,2024-09-23,37,Male,1,548,Manufacturing,"₹4,749","₹44,361",Direct Traffic,20,Credit Card,No,6,Delhi
+48d243d1-d91d-40eb-919b-ba29ae008174,2024-07-04,52,Male,1,166,Retail,"₹48,217","₹65,503",Referral Program,9,UPI,No,9,Delhi
+3ca31b75-e61b-4c10-adf2-cc04fcb0b01e,2023-01-19,34,Female,1,717,Consulting,"₹35,018","₹35,540",Google Ads,32,Credit Card,Yes,2,Delhi
+1e6c6cb9-d49d-42e3-88cf-9b851c44d897,2024-07-30,59,Male,0,527,E-Commerce,"₹18,851","₹27,536",Instagram Ads,4,UPI,Yes,0,Delhi
+66ff6139-c935-45cc-8d4d-6b69247539f6,2024-06-15,25,Female,1,506,Education,"₹4,588","₹85,700",Referral Program,18,UPI,No,5,Delhi
+22196bbe-5cf8-4389-ac0c-ce94ccb9083a,2023-09-11,65,Female,1,623,Manufacturing,"₹15,782","₹64,043",Instagram Ads,5,Bank Transfer,No,1,Delhi
+f29c5873-1ce5-49ab-9d8a-bebe0dad914a,2022-11-11,19,Male,0,252,Healthcare,"₹19,830","₹79,532",Instagram Ads,20,UPI,No,0,Delhi
+0e98cdbf-ed04-4f15-b38e-c076e406cfbd,2024-06-26,62,Female,1,401,Consulting,"₹42,909","₹57,575",Word of Mouth,23,Bank Transfer,Yes,8,Delhi
+779c2108-54b4-48f0-a563-497566f726c9,2023-01-19,61,Male,1,431,Education,"₹22,278","₹3,871",Word of Mouth,11,UPI,Yes,6,Delhi
+f08c8ad4-fe9d-43f4-a859-a35a4b220721,2023-08-25,43,Female,0,472,Tech,"₹24,764","₹47,002",Direct Traffic,37,Credit Card,Yes,0,Delhi
+d9fe5c3e-bb91-4389-8962-f85d1707518b,2023-02-11,22,Female,1,519,Healthcare,"₹5,575","₹50,812",Referral Program,22,Credit Card,Yes,8,Delhi
+3cbacd2d-c7b3-4168-8b51-231fad55d5da,2024-04-16,51,Male,0,644,Finance,"₹10,912","₹23,626",Referral Program,4,UPI,Yes,0,Delhi
+3b1d4d12-574c-4e16-a66f-728b7eebbba5,2023-03-03,61,Male,0,302,Tech,"₹48,954","₹60,979",Facebook Ads,29,UPI,No,3,Delhi
+1d778d84-1bee-445e-af4b-eb698d2617c2,2024-09-20,36,Female,1,555,Consulting,"₹28,865","₹77,057",Instagram Ads,44,Credit Card,Yes,2,Delhi
+c5b8a6d5-1f75-49ab-886f-19a6addc15e5,2023-03-20,36,Female,1,188,Tech,"₹7,730","₹67,668",Email Campaign,34,UPI,Yes,5,Delhi
+a065b255-14c4-4083-9517-8bdc48e85ee0,2023-11-29,47,Female,1,181,Finance,"₹48,700","₹81,070",Instagram Ads,13,Bank Transfer,No,0,Delhi
+14df8bb4-d267-400d-85f2-7eccb55d547b,2024-09-27,60,Male,1,649,Manufacturing,"₹11,502","₹90,390",Instagram Ads,42,Bank Transfer,Yes,0,Delhi
+3e81ce7a-76db-4c00-9610-f6c0cf1dcd03,2023-08-19,59,Female,0,217,Tech,"₹14,447","₹43,998",Referral Program,9,Bank Transfer,Yes,0,Delhi
+b7f5c92d-674f-42c7-8d53-5b46123a0770,2023-05-18,22,Male,1,127,E-Commerce,"₹14,186","₹64,814",Instagram Ads,42,Bank Transfer,Yes,0,Delhi
+8641fa50-483c-4393-acae-c2476c6e3cf9,2024-09-11,46,Male,0,160,Healthcare,"₹29,804","₹46,607",Partner Website,31,Bank Transfer,No,2,Delhi
+738ec4f3-4c0a-4ac5-9bb3-95e512d8f4bc,2023-07-17,18,Male,1,200,Education,"₹13,574","₹8,812",Instagram Ads,7,UPI,Yes,0,Delhi
+99c2d32f-f3f1-4cd8-9a81-0318c1086398,2024-04-06,59,Female,1,212,Tech,"₹4,993","₹62,844",Partner Website,4,UPI,No,0,Delhi
+56726a29-dc7a-4c4c-9970-28b4bfbb02fe,2023-11-29,32,Male,1,393,Healthcare,"₹34,728","₹71,093",Word of Mouth,19,Bank Transfer,No,0,Delhi
+6273bf78-9727-4948-9193-6bc610854a93,2023-04-15,28,Female,0,68,Retail,"₹14,640","₹3,179",Email Campaign,42,UPI,Yes,1,Delhi
+cae7be43-9bed-4233-8ea6-7eaa06573100,2023-02-11,21,Female,1,556,Healthcare,"₹32,155","₹44,798",Direct Traffic,30,UPI,Yes,7,Delhi
+841343aa-0af6-4790-80ba-f99cafb2eb3d,2024-01-09,54,Male,1,526,Education,"₹43,972","₹75,601",Referral Program,31,Bank Transfer,Yes,0,Delhi
+e69aad06-3fec-493a-8b4b-3b4e08348b79,2022-10-24,60,Male,1,545,Healthcare,"₹49,937","₹9,275",Instagram Ads,35,UPI,Yes,0,Delhi
+413e2b20-0e5f-491a-95df-bb80f944fb8e,2023-10-15,18,Female,1,378,Finance,"₹49,916","₹51,574",Partner Website,21,UPI,No,1,Delhi
+68e47538-90d4-4d74-b41b-31205c4e42b9,2023-06-06,44,Male,0,426,Consulting,"₹7,316","₹48,857",Partner Website,31,UPI,Yes,0,Delhi
+34fdaba0-e21c-420e-9cf9-d8ecb0a67b01,2024-03-20,28,Female,1,190,Education,"₹12,139","₹21,700",Word of Mouth,19,Bank Transfer,No,0,Delhi
+7856d48a-48fc-4b70-b92a-caa5911bd5a3,2024-06-04,26,Female,0,45,Consulting,"₹47,692","₹40,464",Partner Website,31,UPI,No,0,Delhi
+fed4d42b-a80b-4ca4-ae98-4e97142fa996,2023-05-17,36,Female,0,522,Manufacturing,"₹47,233","₹43,351",Direct Traffic,32,Credit Card,No,0,Delhi
+98c8b521-1fc3-4d42-9b4c-1679c9f25299,2023-10-04,55,Female,0,455,Consulting,"₹29,992","₹94,330",Google Ads,2,Credit Card,No,8,Delhi
+4d6a3802-8b32-458c-9bdb-9dae244b7224,2023-08-10,22,Female,0,137,Retail,"₹11,740","₹95,319",Facebook Ads,10,Bank Transfer,No,7,Delhi
+907575cd-1f15-4471-a141-aa4a7a627c44,2024-07-09,45,Female,0,479,Finance,"₹33,198","₹83,534",Direct Traffic,2,Credit Card,Yes,9,Delhi
+8c20f03d-f371-4930-9e7c-8dfdae4ef229,2024-06-16,38,Female,0,340,Manufacturing,"₹27,457","₹14,869",Email Campaign,2,Bank Transfer,No,0,Delhi
+d11b9536-5cfd-4124-b286-03e263b1dad6,2024-01-05,32,Male,1,199,Healthcare,"₹33,308","₹61,315",Direct Traffic,24,Credit Card,No,0,Delhi
+395fde74-d5ad-48b9-8919-b8c1473aaacd,2023-10-09,54,Male,0,575,Education,"₹6,327","₹94,688",Word of Mouth,17,Credit Card,Yes,7,Delhi
+32808879-7b13-4cfa-870e-d93a7dddcb82,2022-12-04,33,Female,0,443,Retail,"₹33,262","₹21,954",Word of Mouth,32,Credit Card,Yes,1,Delhi
+a28f76f4-d7f2-4594-b94f-658e0a108165,2023-09-08,30,Male,0,280,Finance,"₹8,759","₹32,555",Direct Traffic,16,Bank Transfer,No,7,Delhi
+0d45f53f-b708-42fb-b115-74a417ee56d1,2023-06-28,65,Male,1,170,Manufacturing,"₹15,349","₹64,353",Instagram Ads,16,Bank Transfer,No,0,Delhi
+3ebb7f8f-08ae-4758-9a7b-a493ed138409,2024-04-08,34,Female,1,303,Manufacturing,"₹16,732","₹83,190",Google Ads,46,UPI,Yes,9,Delhi
+d3139c69-0841-42c6-8f58-ab41db1f4a31,2023-10-28,26,Female,0,445,Retail,"₹41,072","₹46,026",Instagram Ads,39,Bank Transfer,No,0,Delhi
+810f7eb6-1b1d-4827-b18e-fe71fd70dc6b,2023-03-14,23,Male,1,637,E-Commerce,"₹24,673","₹47,976",Instagram Ads,31,Credit Card,Yes,0,Delhi
+12ac3e19-19af-4666-b84a-c9f2940826a7,2024-02-17,64,Male,0,68,Healthcare,"₹5,874","₹81,578",Direct Traffic,43,Credit Card,Yes,4,Delhi
+22f33bdf-07cd-490e-9036-51ff89770f29,2023-01-25,62,Male,0,58,Retail,"₹21,674","₹92,502",Referral Program,24,Bank Transfer,No,9,Delhi
+9b4dccf5-40f4-4f1b-806e-1fcd247a04dc,2023-12-13,59,Female,1,506,Manufacturing,"₹24,067","₹46,095",Referral Program,1,Bank Transfer,Yes,0,Delhi
+ac86c4c4-5f56-436d-bdfc-06bd46ce1a7d,2023-12-17,43,Female,0,347,Tech,"₹35,792","₹15,270",Referral Program,11,Bank Transfer,No,3,Delhi
+87d40318-d86f-42f8-8e8f-0f6771895d5e,2024-03-06,49,Female,1,274,Finance,"₹9,777","₹31,908",Google Ads,21,UPI,No,5,Delhi
+25e879b6-5f28-4403-9dc8-9bfbc92a06f4,2024-05-03,19,Male,1,726,Retail,"₹32,100","₹16,523",Instagram Ads,4,Credit Card,No,0,Delhi
+842859a8-d792-4815-bfb0-aeaee0d01fe3,2023-08-17,42,Male,0,301,E-Commerce,"₹10,385","₹63,433",Facebook Ads,7,UPI,Yes,0,Delhi
+8e6e9762-bcd0-49da-a0f5-23bd7178b2d4,2023-12-17,61,Female,0,469,Manufacturing,"₹1,278","₹48,068",Email Campaign,26,UPI,No,0,Delhi
+a74bf4b0-3b2d-4336-b614-d207c1fb9301,2023-07-01,26,Female,1,268,Healthcare,"₹29,665","₹20,991",Referral Program,47,Credit Card,Yes,0,Delhi
+ced24e9e-2aaa-4cfa-8026-7726d8874e58,2024-03-21,25,Male,0,406,Consulting,"₹1,992","₹11,775",Referral Program,12,Credit Card,No,0,Delhi
+b917fca0-ef9f-4fb6-8923-daf68606c210,2023-10-13,61,Female,0,295,Manufacturing,"₹30,962","₹78,801",Word of Mouth,31,Bank Transfer,No,2,Delhi
+e5e51624-d22d-449e-b000-b16794bd5681,2024-04-08,44,Male,0,388,Healthcare,"₹14,115","₹85,995",Instagram Ads,17,Bank Transfer,Yes,0,Delhi
+c24b150a-5e15-4562-b0a7-0067b85cdfe0,2024-05-02,37,Female,1,369,Retail,"₹45,400","₹62,250",Instagram Ads,33,UPI,No,0,Delhi
+375ee27d-22fd-4e08-b979-335dece22cb3,2023-11-19,53,Male,1,418,Healthcare,"₹43,446","₹17,673",Google Ads,11,Bank Transfer,No,0,Delhi
+4b2fd00e-4a36-4ee3-ab06-73f11dead1e8,2024-07-27,21,Female,0,606,Education,"₹8,351","₹28,056",Google Ads,28,Bank Transfer,Yes,7,Delhi
+5365d1dd-beda-4e00-97d0-52aaa2d552d2,2024-01-21,62,Male,1,718,Education,"₹16,788","₹7,614",Referral Program,32,Credit Card,Yes,0,Delhi
+5cdb5661-8726-45c2-9682-4e844646f44b,2023-03-26,49,Male,1,32,Education,"₹7,656","₹8,415",Instagram Ads,1,Credit Card,Yes,0,Delhi
+51265107-1f9f-4b82-81fc-9dba28ade6f1,2024-09-20,38,Female,1,458,E-Commerce,"₹2,544","₹89,691",Facebook Ads,47,Bank Transfer,No,0,Delhi
+cb706dc2-5d97-49b2-82ad-60f70b3c0ca4,2024-02-02,42,Female,1,171,E-Commerce,"₹7,868","₹44,884",Email Campaign,28,Credit Card,Yes,5,Delhi
+7babd7c9-d21a-40fc-b7cc-bfb968ad6060,2023-02-08,34,Male,1,405,Tech,"₹20,400","₹17,964",Direct Traffic,42,Bank Transfer,Yes,0,Delhi
+2ec5c128-646b-4949-a91c-92575e2737e5,2024-07-04,40,Male,0,699,E-Commerce,"₹31,100","₹38,726",Instagram Ads,7,Credit Card,No,0,Delhi
+dd7e33cf-78d5-4263-a4b6-262ec80cf9fc,2024-08-30,31,Female,0,353,Consulting,"₹46,903","₹38,044",Word of Mouth,2,Credit Card,Yes,0,Delhi
+06fb9d53-11d4-4469-9769-4c43564e3a4d,2024-03-08,60,Male,0,175,Retail,"₹26,134","₹58,149",Direct Traffic,42,Credit Card,No,7,Delhi
+237561c8-726d-4035-bada-851abf32e88d,2024-05-02,50,Male,1,322,Manufacturing,"₹9,668","₹38,544",Instagram Ads,24,Credit Card,No,6,Delhi
+1e77cd02-2f61-42f7-950a-30357e6fecd0,2023-09-09,52,Female,1,694,Manufacturing,"₹21,461","₹50,976",Partner Website,4,Bank Transfer,Yes,8,Delhi
+f4f78d7f-5265-4db6-9f66-11259d1c9a04,2023-03-21,62,Female,0,461,Tech,"₹44,596","₹33,252",Google Ads,44,UPI,No,5,Delhi
+5560b40b-3890-429a-86ca-4735546dab9b,2024-06-26,56,Male,1,614,E-Commerce,"₹46,587","₹4,832",Word of Mouth,19,Credit Card,Yes,0,Delhi
+5bf3499c-8b80-4b05-8403-3f32062c20ba,2022-11-18,18,Male,0,428,Consulting,"₹24,352","₹91,811",Email Campaign,26,Bank Transfer,Yes,0,Delhi
+4975881d-9cd9-4631-9d0a-c6f789f0b103,2024-03-08,61,Male,0,373,Healthcare,"₹33,610","₹81,437",Referral Program,11,Bank Transfer,Yes,8,Delhi
+b85063d0-5cbe-4491-bae4-b8f6ddae0c2c,2024-01-31,60,Female,0,169,Tech,"₹32,674","₹35,148",Word of Mouth,40,Credit Card,Yes,6,Delhi
+d7d577db-0416-4dda-b433-787aa394d1fb,2023-04-16,25,Male,1,216,Consulting,"₹34,715","₹62,240",Instagram Ads,43,UPI,No,0,Delhi
+8ee9227f-335d-479e-8dd6-1ed90b1e9050,2024-05-20,47,Male,1,90,Healthcare,"₹27,455","₹89,454",Referral Program,11,Credit Card,No,0,Delhi
+c781e1ce-ce1f-42d2-848c-7cac26d61bf5,2024-08-29,34,Female,0,409,Consulting,"₹7,081","₹86,076",Instagram Ads,45,Bank Transfer,Yes,7,Delhi
+31a5c7be-6640-4d3d-a668-e2f74397ee2f,2024-03-06,37,Male,0,469,Healthcare,"₹45,119","₹78,116",Referral Program,3,UPI,Yes,3,Delhi
+b4bb3711-4025-4f97-a3af-4acc95838fee,2024-01-24,31,Female,0,348,Finance,"₹6,817","₹54,459",Email Campaign,12,Bank Transfer,No,6,Delhi
+bf8e56eb-3250-4db1-8c08-5e5b3c61443c,2023-08-15,37,Female,0,331,Consulting,"₹43,356","₹39,402",Google Ads,3,Credit Card,Yes,7,Delhi
+797df9a5-7e86-4568-a341-e2fad7aac864,2024-07-19,21,Female,1,373,Manufacturing,"₹46,214","₹58,727",Email Campaign,42,UPI,No,0,Delhi
+0526bd2b-03c8-472a-a14b-2eddd376a7ae,2024-06-02,44,Female,1,40,Education,"₹27,149","₹39,578",Partner Website,27,Bank Transfer,Yes,3,Delhi
+8f111e72-6af6-41c5-98e5-cfc306aaf76e,2024-05-14,34,Male,0,91,E-Commerce,"₹23,632","₹91,453",Facebook Ads,49,Bank Transfer,No,4,Delhi
+7ab30ef1-14c7-42c1-8eff-d77f0325f1ef,2023-06-22,51,Male,0,255,Healthcare,"₹17,289","₹23,318",Google Ads,2,Bank Transfer,No,0,Delhi
+4c4c0385-10c4-41bf-9f48-440b7d5ef3bf,2024-09-20,30,Female,1,182,Finance,"₹15,067","₹76,715",Email Campaign,49,Credit Card,No,0,Delhi
+d9c1e20b-0a49-4ff7-b439-0b8eddb9234f,2024-04-02,44,Female,1,593,Consulting,"₹15,368","₹78,787",Partner Website,16,UPI,Yes,0,Delhi
+c0649235-7d56-4b31-853f-a1426e7276a0,2023-02-10,33,Male,0,600,Manufacturing,"₹24,870","₹86,029",Facebook Ads,2,Credit Card,Yes,0,Delhi
+55459fc3-47b6-4fa6-9a9b-030bba2814f3,2024-02-18,64,Female,0,613,Education,"₹43,033","₹21,466",Partner Website,30,Credit Card,Yes,0,Delhi
+fd106e7e-f5ab-406f-97c0-9a879c2f53ee,2022-12-15,21,Female,0,689,Healthcare,"₹30,983","₹96,742",Instagram Ads,20,Credit Card,Yes,9,Delhi
+60a6ff40-82ff-461e-84da-cbf804623b2e,2023-02-06,52,Male,1,604,Consulting,"₹12,966","₹46,475",Direct Traffic,38,UPI,Yes,9,Delhi
+1de3defe-f981-4693-a671-c679100d49b4,2022-12-17,54,Male,1,339,Consulting,"₹29,303","₹61,142",Instagram Ads,28,Credit Card,No,1,Delhi
+9fe8b084-fa7d-4d5e-878f-edb21896d212,2024-01-13,36,Male,1,272,Healthcare,"₹18,730","₹86,160",Referral Program,25,Credit Card,No,0,Delhi
+8e2d739c-32ed-4e96-b2a1-22239e55206d,2023-12-09,61,Female,0,522,Tech,"₹18,362","₹27,564",Google Ads,32,Credit Card,No,3,Delhi
+ebab1625-2986-4eb0-ba12-44085507e36d,2022-11-17,65,Male,0,395,Tech,"₹43,855","₹23,412",Instagram Ads,10,Credit Card,No,0,Delhi
+8479dcde-8be5-41e4-b273-4b5613080f92,2022-12-15,35,Male,1,359,Manufacturing,"₹31,759","₹94,526",Word of Mouth,42,Bank Transfer,No,2,Delhi
+d9eccc5a-5380-4d4d-862e-87bf49782a9e,2023-05-04,62,Female,1,136,Education,"₹34,039","₹52,001",Partner Website,40,Credit Card,No,1,Delhi
+7fd80aa3-7467-42fc-8cd0-a03aff0ff8ef,2023-07-30,62,Male,0,255,Healthcare,"₹22,409","₹58,649",Google Ads,33,Bank Transfer,No,0,Delhi
+016fab89-cdc4-446c-a25c-870c947b2930,2023-05-15,51,Male,1,247,Manufacturing,"₹31,295","₹61,957",Direct Traffic,13,Credit Card,Yes,0,Delhi
+ef1c40ff-8787-472e-b39c-3d997a8402b9,2024-03-05,56,Female,1,535,Manufacturing,"₹49,568","₹36,517",Word of Mouth,41,UPI,No,4,Delhi
+e386333c-e0e0-4d91-840e-896a2ac4f1ab,2024-09-23,26,Male,0,288,Retail,"₹9,270","₹14,156",Instagram Ads,42,Bank Transfer,Yes,1,Delhi
+69988053-eea1-42d5-abe9-257f40fa8657,2024-07-28,23,Female,1,546,Consulting,"₹11,593","₹24,064",Referral Program,47,Bank Transfer,No,4,Delhi
+bb400dc9-c4ba-4396-9fe4-e678d4d8ce71,2024-01-04,42,Female,0,83,E-Commerce,"₹47,071","₹26,711",Email Campaign,37,Bank Transfer,No,3,Delhi
+940b7dfa-811e-4506-9933-a7401d1307b9,2023-10-26,49,Male,0,76,Consulting,₹693,"₹31,106",Referral Program,16,Bank Transfer,Yes,2,Delhi
+224a9488-ed48-4868-99bb-57db8b0e6956,2024-02-23,49,Male,0,718,Tech,"₹35,275","₹66,458",Word of Mouth,45,UPI,No,0,Delhi
+3ea5d286-4a8d-4bb0-8a51-084b98c98cac,2024-02-13,63,Female,0,550,Education,"₹18,069","₹17,589",Facebook Ads,22,Credit Card,Yes,0,Delhi
+c5dd4a2b-b5d2-47a5-9fc2-5db82349522c,2022-10-30,45,Male,0,128,Consulting,"₹11,690","₹90,272",Instagram Ads,20,Bank Transfer,No,0,Delhi
+54b31527-af01-4678-80c2-65c317039a37,2022-10-30,50,Male,0,49,Healthcare,"₹43,252","₹87,511",Word of Mouth,43,UPI,Yes,0,Delhi
+400b8cfa-618d-47b0-b0ba-cec579e94483,2024-08-10,29,Male,0,602,Manufacturing,"₹32,827","₹8,214",Facebook Ads,27,Bank Transfer,No,5,Delhi
+e26e1d26-5895-48e2-835a-47e538610899,2024-05-13,41,Female,1,519,Healthcare,"₹42,570","₹97,117",Facebook Ads,41,Credit Card,Yes,5,Delhi
+bd01b115-209a-4a32-8386-d478fae94c69,2023-03-30,47,Male,0,448,Retail,"₹20,889","₹86,731",Partner Website,16,Bank Transfer,Yes,0,Delhi
+6daf80d2-e594-41a4-9c52-0ec8f9a5a73e,2024-07-29,41,Female,0,719,Education,"₹40,697","₹28,127",Google Ads,34,UPI,No,6,Delhi
+535f9a05-65dc-455c-98a3-fa83fb680052,2024-01-20,47,Male,1,91,Manufacturing,"₹2,761","₹6,141",Partner Website,32,Credit Card,No,0,Delhi
+1489de9f-c885-4e48-b6bd-09a7c729e325,2024-08-01,61,Male,1,174,Healthcare,"₹28,869","₹29,884",Instagram Ads,26,UPI,Yes,2,Delhi
+28a1d7ff-ddb8-48f5-aea8-a88b09d8f2bc,2024-10-02,24,Male,1,245,Tech,"₹27,012","₹91,421",Facebook Ads,25,Credit Card,No,7,Delhi
+e772c9be-0deb-4efb-8fc2-8656cfd8fbb5,2022-10-19,33,Female,0,32,E-Commerce,"₹7,216","₹3,708",Direct Traffic,2,Credit Card,Yes,6,Delhi
+a1bb20cf-7bbb-4b41-8430-5668e45ae75f,2023-11-18,43,Male,1,189,Retail,"₹21,759","₹19,375",Word of Mouth,12,Credit Card,No,0,Delhi
+b53d0bef-31a1-4bbf-af60-3468a77b53fa,2023-06-26,64,Male,0,149,Education,"₹29,433","₹16,088",Email Campaign,40,Bank Transfer,Yes,0,Delhi
+fa127966-e8ae-45b4-9ab2-8e4770684f3c,2023-06-12,28,Male,0,118,Retail,"₹42,189","₹58,615",Facebook Ads,9,UPI,No,0,Delhi
+9885662e-7434-4f27-ac58-3d89c5a3d8fb,2024-02-03,56,Female,0,358,Tech,"₹4,878","₹46,046",Word of Mouth,12,UPI,Yes,0,Delhi
+51c7be5f-570c-46ab-85f8-f7b400294080,2024-08-27,39,Female,0,609,Education,"₹41,083","₹11,014",Direct Traffic,26,UPI,No,4,Delhi
+b499a656-85f9-4d80-9262-9791a6930cd5,2024-03-20,31,Male,1,386,Retail,"₹47,046","₹65,425",Email Campaign,9,Credit Card,Yes,5,Delhi
+e2331b17-4721-49e4-b679-6cd1d38d0319,2024-06-28,18,Male,1,639,Finance,"₹20,335","₹4,273",Partner Website,10,Bank Transfer,Yes,6,Delhi
+0ec0f6d6-895d-4ec2-9a3a-e5233242e61a,2023-11-07,60,Female,0,296,Tech,"₹29,533","₹48,135",Partner Website,32,Credit Card,No,5,Delhi
+786b425e-5071-4c35-b7ac-b1a3dba9287a,2024-01-15,41,Male,0,646,Tech,"₹24,500","₹31,881",Google Ads,34,UPI,No,0,Delhi
+e74810ac-5263-49bc-8dfe-e45c94a69514,2023-02-01,43,Female,0,352,Tech,"₹45,996","₹98,022",Word of Mouth,48,Bank Transfer,Yes,9,Delhi
+4b984e4f-7525-4a6a-9ef9-03675744a0a7,2022-12-04,18,Female,1,664,Finance,"₹10,832","₹79,077",Facebook Ads,20,Bank Transfer,Yes,7,Delhi
+5bdcd319-a2d4-4bb3-8dd1-770b8a2cc9fd,2023-01-21,32,Male,0,570,Finance,"₹43,104","₹9,712",Referral Program,39,Bank Transfer,Yes,7,Delhi
+55c5e0f1-2e2c-4786-889b-7505fdf20981,2023-08-24,51,Female,0,678,Healthcare,"₹3,300","₹75,704",Partner Website,2,UPI,Yes,0,Delhi
+8a58a180-7f20-4058-b742-7a6a51b9aa9a,2024-09-15,24,Male,1,224,Manufacturing,"₹30,038","₹53,874",Partner Website,1,Bank Transfer,No,0,Delhi
+5415388e-c38e-4b51-9651-321804180036,2023-09-29,62,Female,1,361,E-Commerce,"₹30,619","₹70,087",Google Ads,36,Bank Transfer,Yes,0,Delhi
+593e057a-2b5c-4766-8a5a-4175254beb47,2024-07-27,51,Male,0,199,Retail,"₹8,833","₹13,297",Email Campaign,24,Credit Card,Yes,4,Delhi
+e8ea9dac-297f-41ff-a3b0-11c0f71885cf,2024-04-05,43,Female,1,550,Healthcare,"₹5,910","₹28,128",Google Ads,27,Credit Card,Yes,0,Delhi
+f552b34d-b751-4017-bc87-a41be9003a9d,2024-04-01,35,Female,1,492,Retail,"₹18,339","₹69,368",Direct Traffic,2,Bank Transfer,No,5,Delhi
+24b7ba30-4dc9-4884-8f54-3de7051dd6a7,2023-11-27,53,Male,0,69,E-Commerce,"₹31,019","₹95,019",Facebook Ads,31,Bank Transfer,Yes,8,Delhi
+3e6b7102-073b-49be-a9c8-d9653110af52,2023-01-08,45,Male,1,566,Manufacturing,"₹6,308","₹88,599",Word of Mouth,14,Credit Card,No,4,Delhi
+8b434d96-f75a-4b43-84f0-934e366349b3,2024-06-23,30,Male,0,290,Finance,"₹7,296","₹89,499",Instagram Ads,2,Credit Card,No,0,Delhi
+d5bdb7a6-27f9-4b05-b2e7-41dec9b47e3a,2024-01-03,24,Male,1,424,Manufacturing,"₹21,680","₹79,958",Instagram Ads,29,Credit Card,No,0,Delhi
+35b8f794-88bb-4790-8c7d-a9bf17a8edbe,2023-10-08,58,Male,0,255,Finance,"₹43,556","₹33,920",Word of Mouth,15,UPI,No,3,Delhi
+6043a1c8-f156-46c0-b2fd-b70be1e504c3,2023-05-24,51,Female,0,153,E-Commerce,"₹18,209","₹12,156",Email Campaign,12,UPI,No,9,Delhi
+c2c43678-3df1-42e0-8966-81ccda776224,2023-01-13,33,Male,0,67,Manufacturing,"₹18,043","₹12,108",Direct Traffic,37,Credit Card,No,0,Delhi
+695ecfbf-90f8-45d2-970b-f6e51e2c3ac9,2023-12-27,29,Female,1,357,Healthcare,"₹37,918","₹32,845",Partner Website,28,Bank Transfer,No,0,Delhi
+f45ce12e-830b-4f74-956f-283299034cae,2023-06-24,48,Male,0,280,Education,"₹29,575","₹3,800",Email Campaign,20,Credit Card,Yes,0,Delhi
+045fd24a-ae07-4d19-8a5f-d09073d39832,2024-01-13,18,Male,1,205,Healthcare,"₹38,255","₹43,712",Partner Website,39,UPI,Yes,6,Delhi
+34ef9126-4ad6-418b-8f1a-b0d87ddee31c,2023-11-25,53,Female,0,631,Retail,"₹48,468","₹3,610",Partner Website,24,Bank Transfer,No,2,Delhi
+8a68ae81-a6b0-4ceb-81b3-177878ec538d,2023-01-10,57,Male,0,483,Healthcare,"₹37,965","₹78,603",Instagram Ads,21,UPI,Yes,6,Delhi
+7277555d-9b33-4d03-943c-b1801ab5fb44,2024-06-06,50,Female,1,66,E-Commerce,"₹31,002","₹34,872",Email Campaign,10,Bank Transfer,Yes,0,Delhi
+ec385171-a19e-474b-bdde-e065a6c6ef20,2023-10-30,61,Female,0,345,Tech,"₹17,224","₹11,728",Direct Traffic,46,UPI,No,0,Delhi
+aaea8f52-c067-4da0-815a-e817d38feacb,2024-05-24,20,Female,0,717,Retail,"₹4,328","₹96,102",Google Ads,14,Bank Transfer,Yes,0,Delhi
+6cdae6cb-69ba-463b-b8fd-fdec2e110747,2023-08-11,60,Male,1,622,Manufacturing,"₹17,587","₹96,319",Partner Website,37,Bank Transfer,No,9,Delhi
+732facbf-37a4-4f15-b5b4-f7ed50aafba4,2024-09-12,38,Male,0,143,Retail,"₹13,105","₹21,583",Referral Program,18,Bank Transfer,Yes,8,Delhi
+ab9c8300-193d-46b3-a2c0-625675cce35b,2023-11-05,50,Female,0,69,Education,"₹31,837","₹86,774",Referral Program,24,Bank Transfer,No,0,Delhi
+795ea8d4-eb3e-49c4-9210-4bdde9753171,2023-12-27,45,Female,0,330,Finance,"₹5,982","₹8,263",Google Ads,14,UPI,No,3,Delhi
+c0467b80-5763-4dd2-9712-579ecdd1be74,2022-10-30,29,Male,0,253,Manufacturing,"₹27,505","₹68,450",Referral Program,34,UPI,Yes,0,Delhi
+5564917c-f849-4c9d-8485-d0c0d602c134,2023-02-28,56,Male,1,347,Consulting,"₹23,260","₹90,285",Facebook Ads,12,Bank Transfer,Yes,3,Delhi
+aabb1f84-2f23-46c3-b84f-afa6b396e616,2023-01-25,32,Female,1,378,Retail,"₹5,963","₹20,456",Partner Website,22,Bank Transfer,No,0,Delhi
+048ae3bc-54c6-4914-bcfa-0266e9d195d9,2024-07-31,28,Female,0,144,Manufacturing,"₹47,128","₹92,118",Google Ads,6,UPI,No,8,Delhi
+02e5feaa-5cee-4b50-b31b-3e0e9d92395d,2023-12-14,62,Male,1,727,Manufacturing,"₹5,412","₹66,942",Email Campaign,36,Bank Transfer,No,1,Delhi
+b171094b-cbdf-4c39-b0b1-0a4e01dfe915,2023-07-02,42,Male,0,352,Manufacturing,"₹5,148","₹14,689",Partner Website,45,Bank Transfer,Yes,0,Delhi
+9bedfd0c-961b-4cb8-b5f5-ddc7fc363c79,2023-06-30,38,Female,1,597,Finance,"₹34,123","₹33,934",Google Ads,36,Bank Transfer,Yes,0,Delhi
+63cb069b-336f-4932-acd6-f1dfed1ce659,2023-10-17,20,Female,0,69,Consulting,"₹36,134","₹34,276",Instagram Ads,22,Credit Card,Yes,0,Delhi
+ef059c9c-3341-4840-a8e2-2a82944bec3a,2024-06-17,62,Male,0,69,E-Commerce,"₹45,102","₹20,873",Direct Traffic,14,Bank Transfer,Yes,0,Delhi
+983048eb-94bd-459c-9e23-ac499b0a2316,2024-07-17,39,Female,0,318,Healthcare,"₹49,562","₹14,050",Email Campaign,16,Credit Card,No,0,Delhi
+551a09a6-8329-49b5-9b51-3a8581986bc0,2024-05-02,64,Male,0,291,Manufacturing,"₹49,834","₹67,216",Direct Traffic,36,Bank Transfer,No,9,Delhi
+78158646-03d9-43b1-9a8e-0c31c10debf3,2023-01-16,27,Female,0,245,Tech,"₹3,612","₹85,444",Instagram Ads,25,UPI,No,0,Delhi
+a0507c21-5631-4b8a-844f-7027a98a41df,2022-12-09,54,Male,0,176,E-Commerce,"₹22,554","₹85,040",Partner Website,32,Credit Card,No,0,Delhi
+6bbad298-cb6d-41dd-af8d-57cd475dfb42,2024-04-19,48,Male,1,365,Education,"₹4,992","₹22,644",Email Campaign,33,Credit Card,Yes,0,Delhi
+b05c4bc7-ede3-4504-9569-c0b8fa036312,2023-07-11,42,Female,0,197,Finance,"₹22,707","₹63,021",Direct Traffic,45,Bank Transfer,No,8,Delhi
+99e8ef3d-5b8d-49d2-ba7b-da54ce0d1f33,2024-04-15,65,Male,1,121,Retail,"₹15,614","₹38,125",Referral Program,36,Bank Transfer,No,0,Delhi
+df5affbc-63ec-4283-bc41-c799610a0d61,2023-02-08,25,Female,0,382,Finance,"₹34,785","₹67,899",Direct Traffic,20,Credit Card,Yes,0,Delhi
+6fd705bf-d1b4-4efc-b064-652b00531dc8,2022-12-12,33,Female,1,600,Retail,"₹16,518","₹43,291",Google Ads,18,UPI,Yes,0,Delhi
+c9553db2-bb31-4406-846d-1c3ba93061f3,2024-09-26,34,Female,1,600,Finance,"₹21,886","₹36,060",Partner Website,38,UPI,No,5,Delhi
+11ef2fa4-2c63-475c-bac5-bd69a858b9f5,2023-01-27,52,Female,1,710,Retail,"₹18,240","₹2,538",Facebook Ads,3,Bank Transfer,Yes,6,Delhi
+00feb479-ed1e-4467-8925-d0ac6df8f28b,2023-11-03,49,Male,0,392,Manufacturing,"₹44,699","₹37,176",Direct Traffic,23,UPI,No,0,Delhi
+7817e415-ffae-486f-b209-ee0e70590304,2023-01-06,20,Female,0,586,Healthcare,"₹8,710","₹42,520",Email Campaign,32,UPI,Yes,6,Delhi
+9264a67b-f2e4-4d33-a3a6-07fc1dcd0711,2024-01-15,55,Male,1,374,Retail,"₹44,863","₹26,675",Email Campaign,45,Bank Transfer,Yes,0,Delhi
+3aa2e3ee-de30-4f2a-8e98-d10bf52bf32a,2022-12-21,32,Female,0,722,Consulting,"₹46,139","₹19,287",Word of Mouth,16,UPI,No,6,Delhi
+57ecb8ae-8421-4667-aa6d-51997b06bc86,2024-03-23,32,Female,1,199,Retail,"₹13,243","₹1,174",Direct Traffic,5,Bank Transfer,Yes,0,Delhi
+db4906e9-1995-427a-929f-3c02d4819dbc,2023-10-17,54,Male,0,385,Tech,"₹42,592","₹93,268",Partner Website,4,Credit Card,No,8,Delhi
+ba6e4fc8-b6b5-4cac-94d2-2c31426c8be9,2024-03-21,25,Female,1,220,Retail,"₹44,799","₹35,998",Partner Website,21,Bank Transfer,Yes,0,Delhi
+ebb06c3f-5960-49cc-a0fb-f7e2f11930ba,2023-04-25,58,Male,1,696,Tech,"₹7,088","₹54,312",Instagram Ads,40,Credit Card,Yes,0,Delhi
+c9ebf66f-2e59-4866-8d8f-c12ea835d004,2023-08-05,22,Female,0,451,Education,"₹3,811","₹13,112",Word of Mouth,14,Credit Card,Yes,3,Delhi
+41ee69fe-5037-40ed-b3b9-221cac6ddc61,2024-10-06,47,Male,1,729,Manufacturing,"₹22,932","₹76,225",Direct Traffic,39,UPI,Yes,0,Delhi
+76441481-10d2-4f84-9d44-6e1b4b7c3a81,2024-04-26,36,Female,0,36,Tech,"₹34,255","₹45,814",Referral Program,31,UPI,Yes,0,Delhi
+e13d4ce7-5c98-46bf-b060-531843f19638,2023-06-28,36,Male,1,162,Healthcare,"₹3,821","₹86,091",Instagram Ads,14,UPI,No,0,Delhi
+3d7ad23e-772a-4ac3-acc3-c6940dca3e8b,2023-09-09,56,Male,1,586,E-Commerce,"₹16,312","₹51,719",Word of Mouth,6,Bank Transfer,Yes,0,Delhi
+2a0caa01-22f4-486d-bf8b-c03f16e73423,2024-03-16,45,Male,0,60,Manufacturing,"₹37,883","₹34,919",Direct Traffic,12,UPI,No,3,Delhi
+4844f643-3be9-43fe-b62c-56170b156efe,2024-09-10,63,Female,0,564,Tech,"₹48,780","₹74,155",Direct Traffic,16,Credit Card,Yes,0,Delhi
+7fc75b83-e38c-4ed0-9337-9ee6f38dfc91,2024-06-03,28,Male,0,455,Manufacturing,"₹13,646","₹72,569",Instagram Ads,17,UPI,No,4,Delhi
+96fad578-d6fa-4f61-99f7-714d0e6e1262,2023-01-09,21,Male,1,423,Consulting,"₹14,154","₹42,328",Referral Program,45,UPI,Yes,6,Delhi
+eb81e96e-6761-466d-9668-9bf9e5cc33e5,2024-02-03,56,Male,0,701,Manufacturing,"₹36,320","₹71,482",Word of Mouth,23,Bank Transfer,No,2,Delhi
+ed664d5b-55a9-4a9f-9dd9-65133a0f0075,2023-09-12,46,Male,1,392,Manufacturing,"₹1,226","₹25,618",Direct Traffic,14,Bank Transfer,No,7,Delhi
+92cf8d05-74c1-423b-8fa2-f86efe9ca101,2023-01-08,35,Male,1,466,Education,"₹4,260","₹35,675",Direct Traffic,7,Credit Card,Yes,0,Delhi
+c7db40e0-4562-42a6-9b40-ff88d369d9c9,2024-05-10,32,Male,0,699,Healthcare,"₹22,690","₹19,919",Word of Mouth,46,Bank Transfer,Yes,0,Delhi
+cac4f896-4ef2-41a4-a949-2ac095bf51c2,2023-11-21,23,Male,0,580,Finance,"₹2,375","₹5,173",Facebook Ads,32,UPI,Yes,4,Delhi
+5ee532b3-73f4-402b-b0f7-a51cb4f332e9,2024-06-01,28,Female,1,111,Finance,"₹23,877","₹27,400",Instagram Ads,15,Bank Transfer,No,0,Delhi
+49c7f294-6bc3-49c3-a5a8-9682b1e54f63,2024-08-21,49,Female,1,385,Tech,"₹47,237","₹51,445",Instagram Ads,44,Credit Card,No,2,Delhi
+ca1ea123-3a80-4f97-8a4b-fcd26349da3e,2022-11-01,28,Female,0,287,Manufacturing,"₹4,533","₹71,305",Email Campaign,17,UPI,Yes,0,Delhi
+f46bd40f-9214-4474-89ec-a8a7818f3302,2024-03-07,52,Male,0,618,Tech,"₹38,711","₹38,564",Referral Program,41,Credit Card,Yes,0,Delhi
+a50eb1de-f9c1-4a16-936e-068613847803,2023-02-15,63,Male,0,553,Education,"₹17,873","₹46,814",Google Ads,47,Bank Transfer,No,0,Delhi
+c7f38505-72f0-4892-afab-42020d6c8cd5,2022-11-19,65,Female,0,324,Education,"₹4,244","₹80,747",Facebook Ads,44,Bank Transfer,No,9,Delhi
+c8d8b43a-a5cf-44b7-ae1f-fcb685b7a183,2024-05-25,18,Male,0,253,Retail,"₹25,495","₹89,791",Word of Mouth,34,Credit Card,Yes,7,Delhi
+9ded79ba-afc9-4698-a851-3e6d7adbb292,2024-02-27,26,Female,1,554,Consulting,"₹17,477","₹28,962",Word of Mouth,5,UPI,No,0,Delhi
+90c5438e-37a2-48bb-8d2a-1696cc6b08b7,2024-01-18,49,Male,1,75,Education,"₹32,902","₹85,892",Word of Mouth,45,Bank Transfer,Yes,2,Delhi
+185635a3-a277-4919-80a9-695afbc570cb,2023-10-27,19,Female,1,696,Retail,"₹35,042","₹86,842",Facebook Ads,27,Bank Transfer,Yes,6,Delhi
+69eef42e-15b6-4dfa-9d07-5d003eae5888,2024-04-03,45,Female,1,142,Healthcare,"₹11,151","₹71,533",Direct Traffic,23,UPI,Yes,0,Delhi
+b83052e0-ef07-4f5a-bb26-fb3872139153,2023-04-10,54,Female,0,262,Tech,"₹34,203","₹57,184",Word of Mouth,40,Bank Transfer,No,6,Delhi
+7db543c9-3e51-4b31-8b44-3fdce404dba0,2023-07-21,58,Female,0,46,E-Commerce,"₹13,895","₹83,912",Word of Mouth,14,Credit Card,No,0,Delhi
+be7588ce-92b8-4e3c-923c-36848a1770ea,2023-02-19,50,Female,0,389,Healthcare,"₹30,308","₹11,578",Referral Program,15,Bank Transfer,No,0,Delhi
+321401f9-c101-40f2-b130-19b0c150584c,2023-04-14,47,Male,1,252,Education,"₹37,076","₹19,624",Partner Website,43,Bank Transfer,No,0,Delhi
+fa95ff99-4bf5-4f79-9482-3202d55fd013,2024-05-20,46,Female,1,729,Healthcare,"₹17,215","₹40,194",Partner Website,33,UPI,Yes,6,Delhi
+a936e5a0-047e-4508-b2ad-650582db1088,2022-12-14,20,Male,0,477,Healthcare,"₹44,909","₹1,389",Email Campaign,31,Credit Card,No,0,Delhi
+fa3d6150-55c1-47fd-aba7-ffe1413c8689,2024-02-09,19,Female,0,394,Consulting,"₹24,806","₹68,391",Email Campaign,35,UPI,Yes,0,Delhi
+36948dd0-8c13-4756-beb5-c33b97f54a4b,2024-03-26,47,Male,1,704,Consulting,"₹19,586","₹14,794",Word of Mouth,17,Bank Transfer,Yes,2,Delhi
+5deeb1d0-1a17-428a-ba42-d129ac6202d8,2024-06-13,48,Female,1,355,Consulting,"₹14,876","₹59,002",Referral Program,28,Bank Transfer,Yes,7,Delhi
+1388562c-5b7f-43ea-8988-ce52ad3398ff,2024-03-13,56,Male,0,496,Healthcare,"₹6,389","₹36,531",Word of Mouth,19,UPI,No,2,Delhi
+3cf3d44f-edf9-4642-a383-3c8561d773a9,2024-01-19,22,Male,0,443,Education,"₹38,322","₹53,815",Email Campaign,46,UPI,Yes,2,Delhi
+01530b91-6563-425a-9c8b-bd472e934895,2023-12-12,41,Female,1,484,E-Commerce,"₹37,136","₹5,986",Facebook Ads,23,UPI,Yes,0,Delhi
+d7ce0fd2-7b4f-4aa9-aa05-496344172e1d,2023-11-03,39,Female,0,615,Manufacturing,"₹21,084","₹33,298",Facebook Ads,32,Credit Card,No,9,Delhi
+e484ff62-59d7-429d-843e-2e5e83680e35,2024-04-01,50,Male,0,262,Healthcare,"₹49,853","₹2,481",Direct Traffic,40,Bank Transfer,Yes,8,Delhi
+689748a3-1925-46f8-b5d0-dab68c48bbaf,2022-12-30,62,Male,0,253,Retail,"₹35,110","₹57,408",Google Ads,13,UPI,No,2,Delhi
+d844b0da-bc61-4657-b728-e26472b1bb7f,2023-12-15,42,Male,1,441,Education,"₹10,558","₹70,267",Partner Website,20,Bank Transfer,No,8,Delhi
+f3126177-8b53-40a9-be1c-da2ab6c60bc4,2024-02-18,28,Male,1,601,Healthcare,"₹9,601","₹17,835",Referral Program,35,Credit Card,No,0,Delhi
+e7a5a2d2-224c-47d3-a335-db8cbe078b23,2023-11-14,58,Female,1,364,E-Commerce,"₹12,997","₹28,798",Instagram Ads,5,Credit Card,Yes,2,Delhi
+d1d291a1-3176-4f0e-a519-55a4f8083a7f,2024-03-08,38,Female,1,251,Manufacturing,"₹5,158","₹92,649",Partner Website,9,Credit Card,No,0,Delhi
+cffe08bd-010c-498b-94e9-321588b46cd5,2023-03-09,40,Female,1,66,Consulting,"₹11,881","₹65,887",Instagram Ads,29,Credit Card,No,6,Delhi
+58e021ed-cc56-4697-811a-7a203d47f1a6,2022-10-22,30,Male,1,307,Education,"₹40,812","₹20,477",Google Ads,6,Bank Transfer,No,0,Delhi
+bfa5cdc7-371b-47e5-9383-1dae396fa8a3,2023-10-18,30,Male,1,225,Finance,"₹40,986","₹18,266",Google Ads,25,Credit Card,No,0,Delhi
+13d5a369-4d36-4b1a-bf65-1de8913d77bf,2024-09-26,28,Female,0,513,Manufacturing,"₹47,119","₹87,328",Word of Mouth,31,Credit Card,Yes,2,Delhi
+23f48d6b-2f77-4d22-806e-8d1cb4dd9b75,2024-04-15,26,Female,0,271,Retail,"₹17,654","₹86,988",Email Campaign,22,UPI,No,0,Delhi
+a273dbc8-9f6a-4137-8723-67fec226888b,2024-07-31,27,Female,0,353,Healthcare,"₹20,039","₹44,526",Google Ads,2,Credit Card,Yes,1,Delhi
+cf8f7f0a-ef33-4c02-9ad5-8fd770cd3184,2024-07-13,36,Male,0,221,E-Commerce,"₹12,277","₹12,889",Google Ads,45,UPI,No,0,Delhi
+475f13de-41a6-4660-b6d7-bc921861a392,2022-11-02,26,Female,0,46,Finance,"₹34,896","₹25,335",Instagram Ads,5,Credit Card,Yes,0,Delhi
+99074be3-4c13-4fd5-b02d-3c0ebd3a4fad,2023-06-04,27,Female,0,553,E-Commerce,"₹30,873","₹12,254",Email Campaign,27,Credit Card,No,0,Delhi
+869b7dfd-1ff6-4fca-968f-9c932fe5a944,2024-05-27,24,Female,0,430,Finance,"₹33,654","₹87,610",Google Ads,25,UPI,Yes,4,Delhi
+fb4f4933-c5c3-4194-9ce8-596a42167dba,2024-01-24,20,Male,1,51,Education,"₹6,531","₹12,442",Partner Website,8,Credit Card,No,0,Delhi
+b60f3e38-22a4-4037-81b4-78be02d85b5f,2023-01-27,44,Male,1,503,Finance,"₹28,497","₹47,289",Direct Traffic,1,Bank Transfer,Yes,5,Delhi
+fa72f1ec-254a-40fc-8336-f73415292f03,2023-05-26,65,Female,0,149,Retail,"₹6,939","₹54,747",Google Ads,20,Bank Transfer,Yes,0,Delhi
+552e7d1a-3105-4bac-82a1-54b46c5c8e94,2022-12-19,19,Male,0,239,Retail,"₹23,285","₹38,327",Direct Traffic,44,Credit Card,Yes,0,Delhi
+339f95aa-b919-4498-84da-0c6a9e1a5c40,2024-09-22,29,Male,1,335,Tech,"₹13,892","₹17,199",Email Campaign,23,Bank Transfer,No,0,Delhi
+d24b296b-3c1f-4e30-bb05-1a8907b392c6,2024-06-13,52,Female,0,299,Retail,"₹29,169","₹73,827",Word of Mouth,32,UPI,Yes,0,Delhi
+5b915c04-046e-4878-acb3-b9f25667f27c,2023-11-22,55,Female,0,716,Manufacturing,"₹29,439","₹1,112",Referral Program,11,Credit Card,Yes,0,Delhi
+49495856-daf6-4d20-b982-53d29e70ac31,2023-12-08,27,Female,1,314,Finance,"₹2,782","₹88,051",Email Campaign,39,Credit Card,Yes,0,Delhi
+d61778c2-2a80-477d-a771-3f77e73ada1c,2023-12-16,35,Male,0,705,Retail,"₹35,124","₹20,581",Instagram Ads,47,UPI,Yes,1,Delhi
+7e2b7cca-9e27-475b-8fd0-2115c6c891b8,2023-07-12,55,Female,1,256,Education,"₹48,938","₹60,722",Referral Program,24,UPI,No,8,Delhi
+17980484-3213-4ceb-b2c2-3d417f3f6ad6,2024-05-08,43,Female,0,410,E-Commerce,"₹24,864","₹93,036",Partner Website,11,UPI,Yes,4,Delhi
+752a298e-6e96-45de-a2b2-e42a7fced96d,2024-03-26,60,Female,1,489,Consulting,"₹2,498","₹98,562",Facebook Ads,29,Credit Card,Yes,0,Delhi
+5f368ba9-2c2c-408f-a460-cb5d904b0cc3,2024-07-03,60,Male,1,36,E-Commerce,"₹32,205","₹17,523",Direct Traffic,26,UPI,Yes,8,Delhi
+998a4738-e568-4c2e-a330-4bd046b881a3,2023-06-16,49,Female,1,58,Tech,"₹38,744","₹67,960",Direct Traffic,16,UPI,No,0,Delhi
+65530651-780b-4f36-a1be-2f325a0797cb,2023-07-17,37,Male,0,62,E-Commerce,"₹9,928","₹20,552",Direct Traffic,35,Bank Transfer,Yes,8,Delhi
+8fa2d3a4-5a7a-4566-9a35-835bcaeadfa4,2024-08-26,43,Female,1,675,Finance,"₹37,937","₹11,808",Email Campaign,20,Bank Transfer,Yes,8,Delhi
+6beafc06-836d-4155-a30d-86150d98c091,2022-10-28,60,Female,0,108,Tech,"₹12,836","₹73,525",Direct Traffic,46,Credit Card,Yes,0,Delhi
+bedbe63a-86a6-44ba-8698-25af5645faaa,2024-07-21,29,Male,0,488,Finance,"₹9,842","₹24,620",Word of Mouth,3,Bank Transfer,Yes,0,Delhi
+bdb76216-cc3e-4c00-b353-d155683e50a9,2024-03-29,37,Female,0,599,Education,"₹40,332","₹1,887",Direct Traffic,1,Bank Transfer,No,6,Delhi
+435cdcf3-d4e0-42bc-b84f-21ea7e2bf2c7,2024-05-25,26,Male,0,567,Tech,"₹7,946","₹32,802",Instagram Ads,47,UPI,Yes,1,Delhi
+ef987e09-8464-4cd9-8536-331b5a6ff178,2023-03-28,61,Female,1,511,Healthcare,"₹38,892","₹86,024",Partner Website,1,UPI,Yes,1,Delhi
+76a9e150-91fd-4905-881e-49bcdcdb491f,2024-03-07,31,Male,1,459,Manufacturing,"₹7,961","₹96,549",Direct Traffic,17,Bank Transfer,No,3,Delhi
+b02775cd-3608-4921-a9b7-57bd5d74b837,2023-02-03,24,Female,0,314,Manufacturing,"₹35,087","₹82,938",Direct Traffic,2,Bank Transfer,No,0,Delhi
+6dff2a65-2e64-4859-a499-24f7a6621b60,2023-08-22,21,Female,0,545,Finance,"₹11,016","₹87,741",Referral Program,29,Bank Transfer,No,5,Delhi
+d7ccbb9d-1b4e-486e-bc69-9dd9ef61b627,2022-11-25,50,Female,1,128,E-Commerce,"₹14,249","₹27,049",Partner Website,20,Credit Card,Yes,0,Delhi
+85614ae4-5306-49f3-98e5-6b3ead4aeb14,2024-03-22,45,Female,0,426,Consulting,"₹18,014","₹78,789",Direct Traffic,6,Credit Card,No,0,Delhi
+8dfa31eb-b66f-497a-a36f-691647eef824,2024-06-08,34,Female,1,518,Consulting,"₹35,926","₹85,526",Email Campaign,8,Credit Card,Yes,7,Delhi
+b8c2e495-ac17-4dfe-94e9-6c85327c73fa,2023-01-22,60,Female,0,68,Healthcare,"₹36,768","₹8,846",Google Ads,29,Bank Transfer,No,0,Delhi
+80ce73ae-e926-4329-86b9-37e9312c62ca,2022-12-27,40,Male,0,300,Tech,"₹25,450","₹91,563",Word of Mouth,48,Bank Transfer,Yes,4,Delhi
+a8902e02-452e-4f93-8a46-f854b4c16188,2023-06-30,18,Male,1,186,Healthcare,"₹35,388","₹47,220",Email Campaign,33,Credit Card,No,0,Delhi
+90cf34cb-1f78-4a5a-8436-0875fd5d4205,2024-06-05,32,Female,0,104,Healthcare,"₹37,288","₹47,163",Facebook Ads,3,Credit Card,Yes,0,Delhi
+45f24d53-25a3-4e7e-87d1-1d4c166f466b,2023-10-14,30,Male,1,159,E-Commerce,"₹10,713","₹4,765",Email Campaign,35,Bank Transfer,No,8,Delhi
+4dcac941-c753-443d-93aa-9807428bb327,2023-08-07,59,Female,0,716,Consulting,"₹36,527","₹82,486",Referral Program,5,UPI,Yes,0,Delhi
+29f16c0d-f2d0-45f9-9175-cbd62ab978dc,2024-09-06,41,Male,0,113,Tech,"₹28,511","₹46,270",Referral Program,27,Credit Card,Yes,0,Delhi
+c25117c7-eef1-41b4-aca1-ffd1dcf96832,2024-05-04,39,Female,0,51,Education,"₹43,349","₹76,277",Direct Traffic,44,Bank Transfer,Yes,8,Delhi
+fe7b97f6-f10c-4254-ba06-d497774e3ddc,2023-12-02,47,Female,1,488,E-Commerce,"₹35,091","₹89,278",Email Campaign,12,Bank Transfer,Yes,0,Delhi
+292b33d4-d438-465d-bf60-bd575f7af334,2023-10-28,32,Female,0,568,Healthcare,"₹18,358","₹91,239",Referral Program,20,UPI,Yes,0,Delhi
+bdf1f0b2-2860-418f-875b-2ff43f89b160,2024-06-10,62,Female,0,411,Healthcare,"₹19,126","₹23,931",Google Ads,45,Bank Transfer,Yes,4,Delhi
+4e61e5f3-05c2-441a-9f5c-7cc0e59aab92,2024-05-17,27,Female,0,469,Education,"₹13,967","₹90,116",Partner Website,20,Bank Transfer,Yes,9,Delhi
+378757b9-6825-4ff4-9e64-1bddf98f1dfa,2022-10-27,21,Male,0,633,Healthcare,"₹40,258","₹56,633",Email Campaign,9,Credit Card,Yes,0,Delhi
+7e8b64c1-b55a-43f9-910d-e1ac89d3ba50,2024-05-20,34,Male,1,50,Healthcare,"₹3,634","₹81,702",Word of Mouth,39,Credit Card,No,0,Delhi
+c50a924e-9784-4f35-8869-17463d8243d4,2023-07-22,39,Female,1,332,Healthcare,"₹17,243","₹52,913",Google Ads,4,UPI,Yes,0,Delhi
+9594b082-e762-47af-b121-ea4f4b59ecd0,2024-10-07,39,Male,0,113,Manufacturing,"₹15,934","₹95,776",Direct Traffic,19,UPI,Yes,1,Delhi
+49bab497-d6b9-4668-b37d-0dcfcf5d3d1e,2023-07-09,43,Female,1,688,E-Commerce,"₹48,275","₹26,991",Partner Website,38,Bank Transfer,No,0,Delhi
+84ed2ed1-aa94-416c-8ffa-8289d690d89f,2022-11-16,36,Male,0,482,Retail,"₹10,733","₹55,845",Word of Mouth,27,Credit Card,Yes,0,Delhi
+4271b4f6-5203-4099-a0f1-566121567879,2024-05-12,38,Male,0,416,E-Commerce,"₹49,646","₹99,505",Direct Traffic,45,UPI,No,0,Delhi
+aee4b733-9439-49e4-a5cc-bdb2ac0e54b0,2022-12-12,53,Male,0,536,Education,"₹1,641","₹56,312",Word of Mouth,43,UPI,Yes,0,Delhi
+b0b92fab-5297-4cba-b269-6b4a282e5e41,2023-10-03,63,Male,1,286,Healthcare,"₹18,519","₹11,561",Direct Traffic,13,UPI,No,0,Delhi
+7aa46b26-8d47-4ff3-9cca-1ffaeebfee36,2022-12-25,26,Male,1,599,E-Commerce,"₹20,884","₹17,901",Word of Mouth,13,Bank Transfer,No,0,Delhi
+ecfe8ab5-2a47-427f-b30e-01a675912a32,2023-11-17,19,Male,1,556,Manufacturing,"₹43,403","₹96,556",Partner Website,22,Credit Card,Yes,4,Delhi
+d4ddcfed-dc03-41de-8f90-807bbd206224,2024-09-13,26,Female,1,191,Consulting,"₹46,234","₹63,875",Google Ads,28,UPI,No,9,Delhi
+d82e5a43-0a0b-4458-a27e-ef394a775d5c,2023-06-12,51,Female,1,192,Education,"₹36,629","₹26,917",Word of Mouth,47,Credit Card,Yes,0,Delhi
+c37b612d-11e6-46be-b0d2-2041a661ebd6,2023-04-20,46,Female,1,553,Finance,"₹23,467","₹63,120",Word of Mouth,45,UPI,Yes,0,Delhi
+b3cc9c57-5327-4e6b-afa9-8cbd5d993edb,2022-10-31,65,Male,1,300,E-Commerce,"₹41,103","₹2,988",Instagram Ads,22,UPI,Yes,2,Delhi
+aa2b0cd0-d5df-417b-b744-1df9f7edf088,2024-07-14,64,Female,1,521,Finance,"₹11,672","₹15,256",Email Campaign,43,Credit Card,Yes,7,Delhi
+990890f4-1d76-4378-bd1f-26a4c3c12b6c,2023-05-31,33,Male,1,237,Healthcare,"₹16,890","₹88,728",Partner Website,19,Credit Card,No,9,Delhi
+daefd151-fd97-4d3b-af7a-b698420eadf8,2022-12-24,43,Male,0,568,Manufacturing,"₹3,767","₹29,230",Direct Traffic,8,Credit Card,Yes,0,Delhi
+384d4611-db3d-470c-8a54-4932ba6be03a,2023-02-15,30,Female,1,613,Manufacturing,"₹39,832","₹60,778",Partner Website,8,Bank Transfer,No,0,Delhi
+f155a27f-82d9-4229-9693-edce2693534d,2024-05-26,23,Male,1,89,E-Commerce,"₹26,667","₹46,833",Referral Program,42,UPI,No,0,Delhi
+694fe844-e4e0-47b5-a07d-fba73785f201,2024-06-22,48,Male,1,459,Education,"₹21,812","₹23,625",Direct Traffic,26,Bank Transfer,Yes,0,Delhi
+9f0a2f51-3f0e-4a37-9719-6221855710da,2023-08-16,35,Male,1,686,Education,"₹28,340","₹33,088",Partner Website,48,Credit Card,Yes,1,Delhi
+d6783ddc-a042-4730-a971-ce059573e9c3,2023-10-18,56,Male,1,634,Manufacturing,"₹19,490","₹80,650",Google Ads,26,UPI,Yes,3,Delhi
+1c0d6c11-d864-4914-9d5a-2f9756f65cef,2024-06-20,35,Male,1,338,Education,"₹44,679","₹42,167",Direct Traffic,23,Bank Transfer,Yes,5,Delhi
+ab40529e-1e06-4a74-a624-dab18b01a3a3,2024-02-13,56,Female,1,549,Manufacturing,"₹6,406","₹72,291",Direct Traffic,43,UPI,No,7,Delhi
+20a87844-21c3-4e9a-bfe6-2e61b14cb922,2023-10-31,59,Female,1,620,E-Commerce,"₹49,296","₹66,303",Partner Website,13,Bank Transfer,Yes,0,Delhi
+724e228b-a140-4b10-8599-f5eda5111be0,2024-03-24,19,Female,1,56,Retail,"₹40,879","₹77,361",Direct Traffic,28,Credit Card,No,0,Delhi
+a9e82c9e-91f6-40b9-8b89-241a018cd408,2023-01-27,25,Male,1,715,Manufacturing,"₹17,797","₹89,229",Instagram Ads,9,Bank Transfer,Yes,5,Delhi
+05a675b6-a896-4aee-b3f6-35fc0e9561d3,2024-04-07,58,Male,1,591,Finance,"₹2,511","₹5,117",Email Campaign,20,UPI,Yes,1,Delhi
+d0a92ea6-9579-4965-a74d-a477f6a3ca27,2022-12-26,59,Male,0,228,Education,"₹44,514","₹91,265",Direct Traffic,19,UPI,Yes,6,Delhi
+f24def76-abd3-4c64-bfa1-76f0ddf85412,2023-04-23,59,Female,0,416,Manufacturing,"₹47,058","₹98,718",Email Campaign,48,UPI,Yes,8,Delhi
+dc91a029-5f70-4538-8812-e41a988d155f,2023-09-16,53,Male,1,378,Manufacturing,"₹12,238","₹61,710",Partner Website,39,UPI,No,1,Delhi
+7f3685c7-dd61-4d67-8553-795735666744,2023-06-12,44,Female,1,722,E-Commerce,"₹29,297","₹95,426",Word of Mouth,12,Credit Card,No,0,Delhi
+8e212ce9-10b0-4c1a-ba46-455ea2a964c6,2023-12-18,59,Male,0,565,Education,"₹47,998","₹95,876",Facebook Ads,15,Bank Transfer,Yes,0,Delhi
